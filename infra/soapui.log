@@ -1,0 +1,8 @@
+2020-10-20 22:07:34,512 WARN  [DefaultSoapUICore] Missing folder [/home/alek/ext] for external libraries
+2020-10-20 22:07:34,513 INFO  [DefaultSoapUICore] Creating new settings at [/home/alek/soapui-settings.xml]
+2020-10-20 22:08:28,376 INFO  [WorkspaceImpl] Saved workspace to [/home/alek/intellij-soapui-workspace.xml]
+2020-10-20 22:08:28,379 INFO  [DefaultSoapUICore] Settings saved to [/home/alek/soapui-settings.xml]
+2020-10-20 22:09:16,458 INFO  [WorkspaceImpl] Saved workspace to [/home/alek/intellij-soapui-workspace.xml]
+2020-10-20 22:09:16,460 INFO  [DefaultSoapUICore] Settings saved to [/home/alek/soapui-settings.xml]
+2020-10-20 23:40:22,229 INFO  [WorkspaceImpl] Saved workspace to [/home/alek/intellij-soapui-workspace.xml]
+2020-10-20 23:40:22,230 INFO  [DefaultSoapUICore] Settings saved to [/home/alek/soapui-settings.xml]
