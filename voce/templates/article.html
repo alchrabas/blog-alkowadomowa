@@ -34,6 +34,9 @@
           {% endfor %}
         {% endif %}
       </div>
+      {% if DISQUS_SITENAME %}
+        {% include "disqus.html" %}
+      {% endif %}
     </div>
   </div>
 </article><!-- #post-## -->

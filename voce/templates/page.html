@@ -9,7 +9,9 @@
   <div class="blog-item-wrap">
     <div class="post-inner-content">
       <header class="entry-header page-header">
+	{% if page.modified %}
         <span class="cat-item"><time datetime="{{ page.modified }}">Last Modified {{ page.locale_modified }}</time></span>
+	{% endif %}
         <h1 class="entry-title"><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></h1>
       </header><!-- .entry-header -->
       <div class="entry-content">
