@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*- #
 
 AUTHOR = 'Aleksander Chrabąszcz'
 SITENAME = 'Alkowa Domowa'
@@ -14,8 +13,8 @@ DEFAULT_LANG = 'pl'
 THEME = './voce'
 
 DEFAULT_DATE_FORMAT = '%d.%m.%Y'
-ARTICLE_URL = 'blog/{date:%Y}/{date:%b}/{slug}/'
-ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{slug}/index.html'
+ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{slug}/'
+ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{slug}/index.html'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 TAGS_URL = 'tag/{slug}.html'
@@ -29,17 +28,21 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+DISQUS_SITENAME = "alkowadomowa"
+
 # Blogroll
 LINKS = (
-  ('Strona główna', '/'),
-  ('Nalewki', '/nalewki'),
+    ('Strona główna', '/'),
+    ('Nalewki', '/nalewki'),
+    ('O mnie', '/o-mnie'),
 )
 
 # Social widget
-SOCIAL = ()
+SOCIAL = (
+    ("GitHub", "https://github.com/alchrabas/blog-alkowadomowa")
+)
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
-
+# RELATIVE_URLS = True
