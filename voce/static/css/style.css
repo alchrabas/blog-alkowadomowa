@@ -1038,3 +1038,8 @@ p img{
   display: block;
   margin: 0 auto;
 }
+
+#content img {
+  max-width: 80%;
+  height: auto;
+}
