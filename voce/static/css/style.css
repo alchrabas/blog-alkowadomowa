@@ -1,5 +1,5 @@
 body {
-  color: #696969;
+  color: #575757;
   background-color: #FFFFFF;
   word-wrap: break-word;
   font-family: 'Lora', serif;
@@ -36,7 +36,7 @@ a:focus {
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  color: #696969;
+  color: #575757;
   font-weight: 400;
   font-family: 'Montserrat', sans-serif;
   margin: 30px 0;

@@ -39,7 +39,10 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("GitHub", "https://github.com/alchrabas/blog-alkowadomowa")
+    ("Mail", "mailto:alkowadomowa@chrabasz.cz"),
+    ("GitHub", "https://github.com/alchrabas/blog-alkowadomowa"),
+    ("LinkedIn", "https://www.linkedin.com/in/aleksander-chrabaszcz/"),
+    ("Twitter", "https://twitter.com/alchrabas"),
 )
 
 DEFAULT_PAGINATION = 10
