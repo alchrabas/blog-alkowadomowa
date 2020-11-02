@@ -41,11 +41,21 @@ LINKS = (
 SOCIAL = (
     ("Mail", "mailto:alkowadomowa@chrabasz.cz"),
     ("GitHub", "https://github.com/alchrabas/blog-alkowadomowa"),
-    ("LinkedIn", "https://www.linkedin.com/in/aleksander-chrabaszcz/"),
     ("Twitter", "https://twitter.com/alchrabas"),
 )
 
 DEFAULT_PAGINATION = 10
 
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'markdown.extensions.toc': {},
+    },
+    'output_format': 'html5',
+}
+
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
