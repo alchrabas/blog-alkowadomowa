@@ -10,6 +10,9 @@ TIMEZONE = 'Europe/Warsaw'
 
 DEFAULT_LANG = 'pl'
 
+PLUGIN_PATHS = ['./pelican-plugins']
+PLUGINS = ['render_math']
+
 THEME = './voce'
 
 DEFAULT_DATE_FORMAT = '%d.%m.%Y'
