@@ -1,0 +1,30 @@
+.nalewki-icon {
+    width: 40%;
+    margin: auto;
+    display: block;
+}
+
+.nalewki-title {
+    font-weight: bolder;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.nalewki-subtitle {
+    text-align: justify;
+    padding: 5px 15px;
+}
+
+.nalewki-row-top-margin {
+    margin-top: 50px;
+}
+
+.nalewki-bottom-text {
+    font-size: 0.8em;
+    color: #888;
+}
+
+.nalewki-container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
