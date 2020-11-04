@@ -38,7 +38,7 @@ a:focus {
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   color: #575757;
   font-weight: 400;
-  font-family: 'Montserrat', sans-serif;
+  font-family: sans-serif;
   margin: 30px 0;
 }
 
@@ -97,7 +97,7 @@ button,
 input,
 select,
 textarea {
-  font-family: 'Montserrat', sans-serif;
+  font-family: sans-serif;
   font-size: 100%; /* Corrects font size not being inherited in all browsers */
   margin: 0; /* Addresses margins set differently in IE6/7, F3/4, S5, Chrome */
   vertical-align: baseline; /* Improves appearance and consistency in all browsers */
@@ -317,7 +317,6 @@ article.post:first-child .post-inner-content {
 }
 .entry-title {
   font-family: "Lora", serif;
-  font-style: italic;
   margin-top: 0;
   margin-bottom: 15px;
 }
@@ -356,7 +355,7 @@ article.post:first-child .post-inner-content {
   font-weight: 700;
 }
 .comment-author .fn {
-  font-family: "Montserrat", sans-serif;
+  font-family: sans-serif;
   letter-spacing: 2px;
   font-style: normal;
 }
@@ -376,7 +375,7 @@ article.post:first-child .post-inner-content {
 }
 .cat-title a {
   color: #8e6193;
-  font-family: "Montserrat", sans-serif;
+  font-family: sans-serif;
   text-transform: uppercase;
 }
 article.post .post-categories, .post-inner-content .cat-item {
@@ -399,7 +398,7 @@ article.post .post-categories:after,
 }
 article.post .post-categories a, .post-inner-content .cat-item a{
   color: #696969;
-  font-family: 'Montserrat', sans-serif;
+  font-family: sans-serif;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
@@ -498,7 +497,7 @@ article.grid iframe {
 }
 .tagline {
   color: #1c202a;
-  font-family: 'Montserrat', sans-serif;
+  font-family: sans-serif;
   margin-top: 10px;
   letter-spacing: 1px;
 }
@@ -564,7 +563,7 @@ input[type=submit]:hover,
 
 .post-navigation a,
 .paging-navigation a {
-  font-family: "Montserrat", sans-serif;
+  font-family: sans-serif;
   font-size: 12px;
   display: block;
   letter-spacing: 1px;
@@ -599,7 +598,7 @@ input[type=submit]:hover,
 }
 .navbar.navbar-default {
   background-color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: sans-serif;
   margin-bottom: 0;
   font-weight: 400;
   min-height: auto;
@@ -841,7 +840,7 @@ letter-spacing: 1px;
   overflow: hidden;
 }
 .copyright {
-  font-family: "Montserrat", sans-serif;
+  font-family: sans-serif;
   margin-top: 10px;
 }
 .copyright,
@@ -993,7 +992,7 @@ letter-spacing: 1px;
 }
 
 time{
-  font-family: 'Montserrat', sans-serif;
+  font-family: sans-serif;
   letter-spacing: 1px;
   text-transform: uppercase;
   color: #0e94ec;
