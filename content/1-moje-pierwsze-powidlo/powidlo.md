@@ -2,7 +2,7 @@ Title: Moje pierwsze powidło
 Date: 2020-10-20 21:37:00
 Category: przetwory
 Tags: powidło, przetwory
-Summary: Robienie powidła ze śliwek
+Summary: Robienie powidła metodą tradycyjną z mieszaniem 
 
 Postanowiłem zacząć od czegoś dużego, dlatego też moje blogowe Hello World zaczynam od powidła, które jest znacznie bardziej pracochłonne w porównaniu z dżemami, jakie już w tym roku robiłem. Zajmowanie się różnymi przetworami okazało się całkiem dobrym uzupełnieniem grafiku zajęć na czas, gdy wskazane jest izolowanie się z powodu pandemii.
 
@@ -13,6 +13,7 @@ Moja idea to tworzenie fabularyzowanych przepisów przetworów, które wszyscy p
 1. Bez pośpiechu
 2. Najwyższa Jakość (jak u pewnego znanego autora)
 3. Nie musi być wydajnie
+4. Ale może, jeśli nie przeczy to wcześniejszym zasadom
 
 ## Do dzieła
 
@@ -48,7 +49,7 @@ Drugą, dużo bardziej oczywistą, obserwacją było, że masa powidła stanowi 
 
 # Pasteryzacja
 
-Tutaj nie komplikowałem. W garnku z wodą, wyłożonym na dnie szmatą, (co ponoć zapobiega pękaniu szkła, choć sam nigdy tego nie doświadczyłem) umieściłem słoiki z przetworami. Po 20 minutach podgrzewania zakręconych słoiczków stwierdziłem, że to wystarczy.
+Tutaj nie komplikowałem. W garnku z wodą, wyłożonym na dnie szmatą (co ponoć zapobiega pękaniu szkła, choć sam tego nie doświadczyłem) umieściłem słoiki z przetworami. Po 20 minutach podgrzewania zakręconych słoiczków stwierdziłem, że to wystarczy.
 
 # Smażenie powideł
 
@@ -61,8 +62,8 @@ Powidło żadnego z tych warunków nie spełnia. Nie znalazłem uzasadnienia lep
 
 # Finał
 
-Pomijając niepewność związaną z nazewnictwem, jestem w pełni zadowolony z efektu.
+Pomijając wątpliwości jak nazywa się to, co robiłem, jestem w pełni zadowolony z efektu.
 
 Jeśli chodzi usprawnianie procesu, to na pewno dużo wygodniejsza byłaby możliwość przygotowania powideł bez konieczności mieszania. W Internecie znalazłem interesujący wpis na blogu [hajduczeknaturalnie.pl](https://www.hajduczeknaturalnie.pl/powidla-bez-mieszania/) (akapit zatytułowany „Powidła bez mieszania – edycja jesienna”), gdzie opisany jest właśnie taki sposób. Dużo wolniejszy, ale bezobsługowy. Myślę, że warto będzie spróbować tego w przyszłym roku, ale i tak za pierwszym razem chciałem wykonać te powidła sposobem tradycyjnym, aby mieć porównanie.
 
-Aż szkoda, że dopiero teraz znalazłem w sobie motywację do pisania bloga. Pozostaje zapaść w sen zimowy i śnić plany na przyszły sezon. Jedyne co mi jeszcze pozostało, to nastawienie eksperymentalnej nalewki z dzikiej róży zebranej na początku października, a także drugie podejście do cydru. Dołożę także butelkowanie gotowej nalewki, bo choć jest to proste i oczywiste, to stanowi doskonały pretekst do przedstawienia stosowanego przeze mnie sprzętu, który zmodyfikowałem nieco w porównaniu z tym dostępnym w sklepie.
+Żałuję, że dopiero teraz znalazłem w sobie motywację do pisania bloga. Pozostaje zapaść w sen zimowy i śnić plany na przyszły sezon. Jedyne co mi jeszcze pozostało, to nastawienie eksperymentalnej nalewki z dzikiej róży zebranej na początku października, a także drugie podejście do cydru. Dołożę także butelkowanie gotowej nalewki, bo choć jest to proste i oczywiste, to stanowi doskonały pretekst do przedstawienia stosowanego przeze mnie sprzętu, który zmodyfikowałem nieco w porównaniu z tym dostępnym w sklepie.
