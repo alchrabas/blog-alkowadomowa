@@ -2,7 +2,7 @@ Title: Nastawianie cydru
 Date: 2020-10-29 22:00:00
 Category: cydr
 Tags: cydr
-Summary: Nastawianie drugiego cydru w życiu i co może pójść z tym nie tak
+Summary: drugi cydr w życiu • co poprawić po pierwszym razie? • zadawanie drożdży • klarowanie
 
 Niespełna dwa miesiące temu nastawiłem swój pierwszy cydr w życiu. Jako że nie miałem kompletnie żadnego doświadczenia, to zdecydowałem się na nastawienie go z soku kupionego w supermarkecie. Nie jest on tak dobry jak prosto z tłoczni, a w szczególnośći z własnych jabłek odpowiednich odmian, ale uznałem, że niedoskonałości surowca będą nieistotne na tle błędów, które z pewnością popełnię.
 
@@ -40,3 +40,15 @@ Tak wygląda pasteryzowany sok z drożdżami i pożywką. Uwagę zwraca mętnoś
 Gąsior od razu zniosłem do piwnicy, nie zatykając go z początku rurką fermentacyjną. Mimo że dałem mniej soku niż poprzednio, to nadal okazało się to być za dużo, bo trochę piany wydostało się na zewnątrz. Po dwóch dobach wsadziłem korek z rurką fermentacyjną. Główną rolę przejmują teraz drożdże. Powodzenia!
 
 ![Można patrzeć na to godzinami]({attach}bulbulbul.gif)
+
+**Aktualizacja 29.11.2020**
+
+## Klarowanie 
+
+Fermentacja się zakończyła, więc wyciągnąłem cydr z piwnicy i, po zlaniu znad osadu drożdżowego, postanowiłem zabrać się za wygląd cydru, czyli jego klarowanie. Poczytałem tu i ówdzie, że na ogół sprawę rozwiązuje pektoenzym, który można dodawać do owoców przed wyciskaniem soku, by było go więcej, ale można także dodać do gotowego soku, aby spowodować opadnięcie pektyn na dno. Pektoenzym występuje naturalnie w soku, ale niszczony jest przez pasteryzację, dlatego też właściwsze byłoby poczekanie na sklarowanie płynu jeszcze przed pasteryzacją. Nie jest to możliwe, gdy ma się do dyspozycji gotowy sok, ale lepiej późno niż wcale, można dodać go nawet po fermentacji.
+
+Sproszkowany pektoenzym, który kupiłem, zawierał jedynie instrukcję dotyczącą dawkowania do owoców przed wyciskaniem, dlatego też przyjąłem śmiałe założenie, że do 5 litrów soku należy dać go tyle, ile do 5 kilogramów owoców. Dlatego też zaaplikowałem 1.18 grama pektoenzymu do resztki soku, która wcześniej się nie zmieściła, a którą pozostawiłem sobie w lodówce, i wlałem do gąsiora. Nie byłoby to możliwe, gdybym korzystał z mojej starej wagi, bo pomiar $1\pm1$ g nie byłby wystarczająco dokładny. Dlatego też uzupełniłem mój sprzęt o wagę z dokładnością 0.01g, która nada się w sam raz do precyzyjnego dawkowania. Efekty użycia pektoenzymu były oszałamiające już po jednym dniu.
+
+![Musicie uwierzyć na słowo, że klarowny. Osad na dnie to pektyny]({attach}klarowany-cydr.png)
+
+Cydr wrócił do piwnicy na dojrzewanie, zleję go i zabutelkuję za kilka tygodni.

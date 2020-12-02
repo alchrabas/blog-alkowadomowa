@@ -2,7 +2,7 @@ Title: Nastawianie nalewki z dzikiej róży
 Date: 2020-10-26 20:00:00
 Category: nalewki
 Tags: nalewki
-Summary: Nastawianie nalewki z dzikiej róży
+Summary: gdzie znaleźć owoce? • nacinanie dzikiej róży • najpierw cukier czy spirytus? • rozcieńczanie spirytusu
 
 Bardzo krótki wpis, bo i nie ma tu wielkiej filozofii. Na początku października wyruszyłem na wieś, by na miedzy zerwać naręcze owoców dzikiej róży z uprzednio upatrzonych krzewów.
 

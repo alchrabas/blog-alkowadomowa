@@ -2,7 +2,7 @@ Title: Moje pierwsze powidło
 Date: 2020-10-20 21:37:00
 Category: przetwory
 Tags: powidło, przetwory
-Summary: Robienie powidła metodą tradycyjną z mieszaniem 
+Summary: moje zasady • wyprawa po śliwki • smażenie • przecieranie • pasteryzacja • nazewnictwo • metody alternatywne 
 
 Postanowiłem zacząć od czegoś dużego, dlatego też moje blogowe Hello World zaczynam od powidła, które jest znacznie bardziej pracochłonne w porównaniu z dżemami, jakie już w tym roku robiłem. Zajmowanie się różnymi przetworami okazało się całkiem dobrym uzupełnieniem grafiku zajęć na czas, gdy wskazane jest izolowanie się z powodu pandemii.
 
