@@ -22,6 +22,8 @@ PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 TAGS_URL = 'tag/{slug}.html'
 
+IGNORE_FILES = [".venv"]
+
 USER_LOGO_URL = "/images/logo.png"
 
 # Feed generation is usually not desired when developing
