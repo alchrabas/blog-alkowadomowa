@@ -3,6 +3,7 @@ Date: 2020-12-16 23:00:00
 Category: nalewki
 Tags: nalewki, eksperymenty
 Summary: zlewanie śliwkówki • zlewanie brzoskwiniówki • tabelka • wykresy • całki • czy warto czekać?
+PreviewImage: sliwkowka_dm_nalew_by_dt.png
 
 [W poprzednim wpisie]({filename}/4-zlewanie-brzoskwiniowki/zlewanie-brzoskwiniowki.md) opisywałem zlewanie nalewki brzoskwiniowej i dosypywanie do niej
 cukru. Po dokonaniu prostych obliczeń czułem spory niedosyt, bo tak naprawdę nie wyjaśniło się, ile dodatkowego nalewu

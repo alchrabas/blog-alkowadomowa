@@ -3,6 +3,7 @@ Date: 2020-12-17 23:10:00
 Category: przetory
 Tags: przetwory
 Summary: jaki prezent jest najlepszy? • potrzebny sprzęt • roztapianie • formowanie • dodatki
+PreviewImage: gotowe_czekoladki.png
 
 Jako że zbliża się Boże Narodzenie, coraz bliższy jest także problem doboru prezentów. Ciężko znaleźć coś, co rzeczywiście jest komuś potrzebne, bo gdyby tak do końca było, to by go sobie kupił. Pojawia się też problem jak drogi powinien być to prezent. Zbyt tani może zostać poczytany jako brak zaangażowania, a zbyt drogi może wprawiać w zakłopotanie. Do tego różni ludzie dysponują różną ilością pieniędzy, więc ta sama niespodzianka może budzić różne odczucia.
 
