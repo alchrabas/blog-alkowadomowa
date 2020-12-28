@@ -7,6 +7,9 @@
   {%- endif -%}
   {{article.tags|join(', ') }}">
 
+{% if article.previewimage is defined %}
+<meta property="og:image" content="{{ SITEURL }}/{{ article.url.rstrip('/') }}/{{ article.previewimage }}" />
+{% endif %}
 
 {% endblock %}
 {% block metatitle %}{{ article.title|striptags|escape }}{% endblock %}
