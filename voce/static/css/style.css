@@ -250,6 +250,11 @@ textarea {
 .entry-summary {
   margin: 20px 0 0;
 }
+
+.entry-summary {
+  text-align: center;
+}
+
 .page-links {
   clear: both;
   margin: 0 0 1.5em;

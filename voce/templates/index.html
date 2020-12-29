@@ -11,7 +11,7 @@
 				<span class="cat-item"><time datetime="{{ article.date }}">{{ article.locale_date }}</time></span>
 				<h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
 			</header><!-- .entry-header -->
-			<div class="entry-content">
+			<div class="entry-content entry-summary">
 				{{ article.summary|striptags }}
         	</div><!-- .entry-content -->
 		</div>
