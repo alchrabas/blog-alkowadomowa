@@ -1052,3 +1052,7 @@ p.image-caption {
   max-width: 80%;
   height: auto;
 }
+
+.fancybox-caption__body {
+  font-size: 2em;
+}
