@@ -22,7 +22,7 @@ PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 TAGS_URL = 'tag/{slug}.html'
 
-IGNORE_FILES = [".venv"]
+IGNORE_FILES = [".venv", "scripts"]
 
 USER_LOGO_URL = "/images/logo.png"
 
@@ -47,6 +47,7 @@ SOCIAL = (
     ("Mail", "mailto:alkowadomowa@chrabasz.cz"),
     ("GitHub", "https://github.com/alchrabas/blog-alkowadomowa"),
     ("Twitter", "https://twitter.com/alchrabas"),
+    ("Instagram", "https://www.instagram.com/alkowadomowa/"),
 )
 
 DEFAULT_PAGINATION = 10
