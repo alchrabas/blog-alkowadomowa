@@ -4,6 +4,8 @@ Category: cydr
 Tags: cydr
 Summary: drugi cydr w życiu • co poprawić po pierwszym razie? • zadawanie drożdży • klarowanie
 
+[aktualizowane 29.11.2020 i 8.01.2021]
+
 Niespełna dwa miesiące temu nastawiłem swój pierwszy cydr w życiu. Jako że nie miałem kompletnie żadnego doświadczenia, to zdecydowałem się na nastawienie go z soku kupionego w supermarkecie. Nie jest on tak dobry jak prosto z tłoczni, a w szczególnośći z własnych jabłek odpowiednich odmian, ale uznałem, że niedoskonałości surowca będą nieistotne na tle błędów, które z pewnością popełnię.
 
 Informacje czerpałem głównie ze strony [projektcydr.pl](https://projektcydr.pl). Bardzo podoba mi się analityczne podejście autora do tematu i myślę, że warto na nią zajrzeć, chociażby aby przyjrzeć się pracy włożonej w przygotowanie [testu drożdży do cydru](https://projektcydr.pl/?p=3386).
@@ -41,7 +43,7 @@ Gąsior od razu zniosłem do piwnicy, nie zatykając go z początku rurką ferme
 
 ![Można patrzeć na to godzinami]({attach}bulbulbul.gif)
 
-**Aktualizacja 29.11.2020**
+**[Aktualizacja 29.11.2020]**
 
 ## Klarowanie 
 
@@ -52,3 +54,25 @@ Sproszkowany pektoenzym, który kupiłem, zawierał jedynie instrukcję dotyczą
 ![Musicie uwierzyć na słowo, że klarowny. Osad na dnie to pektyny]({attach}klarowany-cydr.png)
 
 Cydr wrócił do piwnicy na dojrzewanie, zleję go i zabutelkuję za kilka tygodni.
+
+**[Aktualizacja 8.01.2021]**
+
+## Butelkowanie cydru
+
+Co prawda cydr butelkowałem tuż przed sylwestrem, ale dopiero teraz zabrałem się, by spisać te wydarzenia.
+
+Przyniosłem balon z piwnicy i oceniłem, że cydr jest doskonale sklarowany. Na dnie znajduje się gruba warstwa wytrąconego osadu. Postanowiłem zacząć od zlania cydru znad osadu do słoja, a następnie dosłodzić cukrem (dla bąbelków) i ksylitolem (dla słodyczy) i rozlać do butelek. Uczyniłem to poprzez dodanie 80 gramów ksylitolu i 40 gramów cukru na pięć litrów cydru.
+
+![Teraz widać, że klarowny]({attach}zlewanie_cydru.png)
+
+Do kapslowania butelek użyłem kapslownicy Greta, która jest moim zdaniem dobrym kompromisem między ceną a wygodą i wydajnością użytkowania. Gdyby czekała mnie perspektywa kapslowania kilkuset butelek, to na pewno zdecydowałbym się na kapslownicę stojącą, ale do dziesięciu butelek nic więcej mi nie potrzeba. Miękkie kapsle zamówiłem w Internecie po kilka groszy za sztukę.
+
+![Akt kapslowania]({attach}kapslowanie.png)
+
+Ostatnim akordem tego maratonu był niewielki eksperyment, który postanowiłem przeprowadzić na sobie. Zlałem mianowicie osad z pektyn, który pozostał na dnie balonu, by ocenić jego smak oraz zapach.
+
+Okazało się, że nie czuć nawet cienia zapachu drożdży, a napój z osadem z pektyn jest gładki i aksamitny, lekko przymulony, z lekko gorzkim finiszem, ale również nie zawiera w sobie nic, co przywodzi na myśl drożdże.
+
+![Wygląda jak kawa zbożowa, a to osad z soku]({attach}osad_z_pektyn.png)
+
+Uzyskanie takiego smaku jest o tyle uzasadnione, że zdecydowanej większości drożdży udało mi się pozbyć już podczas pierwszego zlewania znad osadu. Z drugiej strony nie spodziewałem się, że zlewanie jest aż tak skuteczne i zacząłem z kolei obawiać się, czy cukier dodany do butelek zostanie w ogóle wyfermentowany, bo jeśli nie, to może skutkować zbyt słodkim smakiem cydru, zwłaszcza że dodałem stosunkowo dużo substancji słodzącej. Mimo to jestem dobrej myśli. Jeśli mi nie wyjdzie, to przynajmniej będę miał naukę na przyszłość.
