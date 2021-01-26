@@ -18,14 +18,34 @@ Najbardziej oporne są etykiety ze spirytusu Kaliskiego (zielone napisy), bo naw
 
 Również benzyna ekstrakcyjna i rozpuszczalnik powinny działać (nawet lepiej), ale wolę olej, bo jest dla mnie zawsze dostępny i nie śmierdzi. Tak czy inaczej, jest z tym sporo roboty, a moja ulubiona metoda na radzenie sobie z problemami to ich unikanie. Staram się zatem kupować inne spirytusy, np. Staropolski (czarny napis) lub Kasztelański (elementy czerwone). Pech chce, że na promocji najczęściej jest właśnie ten, z którego etykiety schodzą najciężej.
 
-Jeśli chodzi o butelki po wódce to, spośród często używanych przeze mnie butelek, hierarchia pod względem łatwości oczyszczania jest następująca:
+# Najlepsze butelki po wódce
+
+Najlepsze butelki wódki to oczywiście te pełne. Jeśli chodzi o puste butelki po wódce to, spośród często używanych przeze mnie butelek, hierarchia pod względem łatwości oczyszczania jest następująca:
 
 1. **Bocian** - zwykle wystarczy zedrzeć folię z etykietą, a klej nie zostaje wcale albo schodzi bardzo szybko. Banderola schodzi sama, wystarczy namoczyć
-2. **Żołądkowa De Luxe** - etykieta również schodzi zaskakująco łatwo, ale niżej w rankingu z powodu nietypowego kształtu butelki, przez który ciężej nakleić etykiety
-3. **Żubrówka Biała** - etykieta foliowa schodzi łatwo, zwykle problemy są tylko z małą naklejką na odwrocie, ale płyn do mycia naczyń jest wystarczający 
+2. **Żubrówka Biała** - etykieta foliowa schodzi łatwo, zwykle problemy są tylko z małą naklejką na odwrocie, ale płyn do mycia naczyń jest wystarczający 
+3. **Żołądkowa De Luxe** - etykieta również schodzi zaskakująco łatwo, ale niżej w rankingu z powodu nietypowego kształtu butelki, przez który ciężej nakleić etykiety
 4. **Soplica** - etykieta schodzi łatwo. Podobnie jak w Żubrówce trudniejszy do usunięcia klej mają zwykle mniejsze etykiety
 
-Droższych alkoholi nie pijam. Ogólnie rzecz biorąc każda z powyższych wódek czyści się dość łatwo.
+Droższych alkoholi nie pijam. Ogólnie rzecz biorąc, każda z powyższych wódek czyści się dość łatwo.
+
+# Też dobre butelki po wódce
+
+Inne akceptowalne butelki po wódce w kolejności przypadkowej (choć z powodu niewielkiej liczby ciężko mi opakować całą partię w jeden rodzaj):
+ 
+ - Husaria
+ - Bols - powierzchnia nie jest idealnie gładka, ale jest dość miejsca na etykietę
+ - Ogiński - większości napisów i „przydymienia” nie da się pozbyć, ale butelka prezentuje się moim zdaniem świetnie i do ciemnych nalewek jest w sam raz
+ - Johnny Walker - ciekawa butelka, etykieta schodzi dopiero gdy popracuje się z olejem
+ - Niemiroff - podoba mi się butelka, zwłaszcza po wódce 1L kupionej za 20 złotych na lotnisku w Kijowie
+ - Baczewski
+
+Problematyczne butelki: 
+
+ - Finlandia - posiada dozownik, z którego trzeba wyjąć kulkę, aby dało się nalewać
+ - Stock - dozownik, który trzeba wyciąć
+ - Wyborowa - naklejki schodzą bardzo ciężko, niektórych wcale nie da się zdjąć, „pasek” nierównego szkła utrudnia umieszczenie etykiety
+ - Pan Tadeusz - miałem chyba tylko jedną, ale sporo się namęczyłem przy zmywaniu kleju, być może zrewiduję jeśli wpadnie mi w ręce jakaś inna. A może to była Jednorodna?
 
 ![Najlepsze: wódka Bocian, następnie Żołądkowa De Luxe, Żubrówka, Soplica. Najlepsze spirytusy: Staropolski i Kasztelański]({attach}butelki.png)
 
