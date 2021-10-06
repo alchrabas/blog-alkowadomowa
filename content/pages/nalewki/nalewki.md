@@ -58,7 +58,7 @@ Choć na początku koncentrowałem się wyłącznie na uzyskaniu najwyższych wa
 
 # Plany ekspansji
 
-Po ugruntowaniu pozycji na lokalnym rynku nalewek, portfolio marki poszerzone zostało o inne przetwory. Produkowane są one przez dział badawczo-rozwojowy w poszukiwaniu perspektywicznych nisz na rynku i nie wpływają na wiodącą rolę nalewek wśród oferowanych produktów. Są to między innymi dżemy i napoje o (za) niskiej zawartości alkoholu.
+Po ugruntowaniu pozycji na lokalnym rynku nalewek, portfolio marki poszerzone zostało o inne przetwory. Produkowane są one przez dział badawczo-rozwojowy w poszukiwaniu perspektywicznych nisz na rynku i nie wpływają na wiodącą rolę nalewek wśród oferowanych produktów. Są to między innymi dżemy i napoje o niskiej zawartości alkoholu.
 
 <div style="height:200px"></div>
 
