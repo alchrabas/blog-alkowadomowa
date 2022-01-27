@@ -26,6 +26,13 @@ IGNORE_FILES = [".venv", "scripts"]
 
 USER_LOGO_URL = "/images/logo.png"
 
+EXTRA_PATH_METADATA = {
+    'images/favicon.ico': {'path': 'favicon.ico'},
+    'images/favicon-16x16.png': {'path': 'favicon-16x16.png'},
+    'images/favicon-32x32.png': {'path': 'favicon-32x32.png'},
+    'images/favicon-96x96.png': {'path': 'favicon-96x96.png'},
+}
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
