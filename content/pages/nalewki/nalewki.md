@@ -3,7 +3,7 @@ Category: nalewki
 Tags: nalewki
 Summary: Alkowa Domowa Nalewka
 
-Kiedyś, bodaj w roku 2018 był taki dzień. Kupiłem „nalewkę” (a właściwie wódkę smakową) pewnej powszechnie dostępnej firmy i już pierwszy łyk jabłkówki sprawił, że skrzywiłem się z obrzydzeniem z powodu smaku łączącego najgorsze cechy wódki i plastikowego aromatu owoców.
+Kiedyś, bodaj w roku 2018, był taki dzień. Kupiłem „nalewkę” (a właściwie wódkę smakową) pewnej powszechnie dostępnej firmy i już pierwszy łyk jabłkówki sprawił, że skrzywiłem się z obrzydzeniem z powodu smaku łączącego najgorsze cechy wódki i plastikowego aromatu owoców.
 
 Wychodząc naprzeciw oczekiwaniom swoim i reszty społeczeństwa, postanowiłem rozpocząć produkcję własnych nalewek.
 
