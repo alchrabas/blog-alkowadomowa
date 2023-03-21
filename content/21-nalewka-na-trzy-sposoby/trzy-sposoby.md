@@ -9,7 +9,7 @@ Na początek odpowiem na uwagę dotyczącą mojego bloga, według której wpisy 
 
 Wracając do dzisiejszego tematu: w lipcu zeszłego roku postanowiłem przeprowadzić niewielki eksperyment związany z procesem przygotowania nalewek. Skupiłem się na problemie kolejności dodawania składników.
 
-Jak wiadomo głównymi składnikami nalewki są owoce, spirytus i cukier.
+Jak wiadomo, głównymi składnikami nalewki są owoce, spirytus i cukier.
 
 Według większości przepisów, do owoców należy najpierw dodać siedemdziesięcioprocentowy spirytus, a po jego zlaniu zasypać owoce cukrem. Według części przepisów należy jednak zacząć od cukru, a dopiero później wlać spirytus. Czasem też przedstawiona jest wersja, według której kolejność zależy od rodzaju owocu, stosunkowo często rozpoczynanie od cukru sugerowane jest na przykład w przypadku truskawek i pędów sosny (co akurat nie dziwne, bo nalewkę robi się na syropie).
 
