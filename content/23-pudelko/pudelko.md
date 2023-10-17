@@ -5,7 +5,7 @@ Tags: rzemiosło, eksperymenty
 Summary: jak kupić drewniane pudełko? • jak zrobić drewniane pudełko? • potrzebne narzędzia • efekt końcowy
 PreviewImage: gotowe.jpg
 
-Pewnego pięknego zimowego dnia postanowiłem skorzystać z czasu wolnego spowodowanego bezcelowością pracy na działce, aby poprawić organizację przypraw i tym podobnych szafce cargo w kuchni. Dotychczas używany plastikowy koszyk nie był zbyt dopasowany, przez co marnowało się dużo miejsca. Postanowiłem więc kupić bardziej dopasowany egzemplarz.
+Pewnego pięknego zimowego dnia postanowiłem skorzystać z czasu wolnego spowodowanego bezcelowością pracy na działce, aby poprawić organizację przypraw i tym podobnych w szafce cargo w kuchni. Dotychczas używany plastikowy koszyk nie był zbyt dopasowany, przez co marnowało się dużo miejsca. Postanowiłem więc kupić bardziej dopasowany egzemplarz.
 
 # Jak kupić pudełko?
 
@@ -15,7 +15,7 @@ Bez skutku. Za każdym razem okazywało się, że wymiary były nie takie jak tr
 
 # Jak zrobić drewniane pudełko?
 
-Stwierdziłem, że nikt mi nie zrobi lepszego pudełka, niż zrobię sobie sam. A jak już mogę zrobić takie, jakie chcę, to niech będzie drewniana. I nie na gwoździe lub superklej, a na wczepy (coś, co wygląda jak blanki na murach obronnych). Po ożywionym przeszukiwaniu internetu zebrałem informacje o rzeczach, które mogą mi być potrzebne do profesjonalnego wykonania prostokątnego drewnianego pudełka.
+Stwierdziłem, że nikt mi nie zrobi lepszego pudełka, niż zrobię sobie sam. A jak już mogę zrobić takie, jakie chcę, to niech będzie drewniane. I nie na gwoździe lub superklej, a na wczepy (coś, co wygląda jak blanki na murach obronnych). Po ożywionym przeszukiwaniu internetu zebrałem informacje o rzeczach, które mogą mi być potrzebne do profesjonalnego wykonania prostokątnego drewnianego pudełka.
 
 Dowiedziałem się, że potrzebne (lub pomocne) mogą mi być następujące rzeczy:
 
