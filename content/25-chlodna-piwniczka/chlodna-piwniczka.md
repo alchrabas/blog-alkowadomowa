@@ -9,6 +9,9 @@ Rok 2022 (i 2023) naznaczony był pracą na mojej działce. Dwoma istotnymi elem
 
 Piwniczka zbudowana była z gotowego betonowego zbiornika z dziurą na drzwi, a wejście do środka wprowadzało w klimat pustego szamba. Do tego potężna wichura zerwała w styczniu plandekę chroniącą wnętrze przed spływaniem wody deszczowej, przez co pierwszym wyzwaniem na wiosnę 2022 było wypompowanie kilku tysięcy litrów wody z powstałego w ten sposób krytego basenu. Po przeprowadzeniu tej operacji konieczne było wstawienie drzwi, przekopanie odpływu wody, wyłożenie całości płytkami ceglanymi i urządzenie wnętrza w celu ułatwienia przechowywania napojów alkoholowych przy jednoczesnym utrudnieniu dostępu do nich osobom niepowołanym. W ten sposób uzyskałem dokładnie to, czego oczekiwałem.
 
+> „Napiłbym się dobrej żytniej. Takiej chłodnej, wiesz, prosto z piwniczki”  
+> &ensp;&ensp;&ensp;&ensp;_Vesemir, Wiedźmin 3_
+
 Drugim, nie mniej ważnym niż wygląd, elementem całego przedsięwzięcia było uzyskanie w środku odpowiedniej temperatury. Na tym właśnie zamierzam skupić się w tym wpisie.
 
 Jako osoba ceniąca naukowe podejście do wszelkich zagadnień związanych z alkoholem, na jesień 2022 (gdy piwniczka była mniej więcej szczelna) postanowiłem umieścić w niej termometr zbierający historię odczytów. Dane pobierane były co godzinę. Aby znać kontekst, drugi taki sam termometr umieściłem na zewnątrz tuż obok piwniczki, a że kupiłem też trzeci, to umieściłem go w sąsiednim (nieocieplonym) budynku drewnianym.
@@ -17,7 +20,7 @@ Jako osoba ceniąca naukowe podejście do wszelkich zagadnień związanych z alk
 
 Ziemianka składa się z betonowego prefabrykatu o wymiarach mniej więcej 2x3 metry, którego ściany mają 10 cm grubości. Sufit (półokrągły) i górna część ścian zabezpieczona jest od zewnątrz styrodurem (8 cm) oraz folią kubełkową, która przysypana jest w najcieńszym miejscu półmetrową warstwą ziemi. Dlatego też z najcieńszej strony współczynnik U wynosi...
 
-Ściana frontowa zaizolowana jest sowitą, dwudziestocentymetrową warstwą styroduru oraz dodatkowo obłożona płytkami ceglanymi, co sprawiło, że jest to najbardziej ciepłoodporna część struktury. Do tego drzwi z Castoramy o oporze cieplnym R = 1.5m²K/W zostały dodatkowo zaizolowane pięciocentymetrową warstwą styroduru i dekoracyjną warstwą desek, co powinno dać R wypadkowe równe ...
+Ściana frontowa zaizolowana jest sowitą, dwudziestocentymetrową warstwą styroduru oraz dodatkowo obłożona płytkami ceglanymi, co sprawiło, że jest to najbardziej ciepłoodporna część struktury. Do tego drzwi z Castoramy o oporze cieplnym $R = 1.5\frac{m²K}{W}$ zostały dodatkowo zaizolowane pięciocentymetrową warstwą styroduru i dekoracyjną warstwą desek, co powinno dać R wypadkowe równe ...
 
 Za słaby punkt konstrukcji można uznać część ściany pod progiem drzwi — jako że wejście jest samo z siebie znacznie obniżone względem okolicznego gruntu, a cała betonowa konstrukcja stoi na warstwie piasku, zaizolowane jest jedynie kilka centymetrów pod progiem. Nie powinno mieć to jednak zbyt dużego wpływu latem, bo i tak jest tam chłodniej niż na otwartej przestrzeni. A zimna się nie boję, bo i tak poniżej zera nie zejdzie.
 
