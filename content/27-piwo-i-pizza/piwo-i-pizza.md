@@ -114,6 +114,6 @@ Nie będę wchodził w szczegóły całego procesu zacierania, bo nie ma co robi
 
 Nauka z tej pracy płynie taka, że niczego się nie uczę i kolejny raz siedzę nad robotą pół nocy.
 
-Mogę jedynie powiedzieć, że przynajmniej jedna z pizz była zjadliwa, a piwo udało się całkiem niezłe. Do połowy warki dodałem mirabelki, co jeszcze bardziej podbiło smaki kwasowe. Zasmakowało mi to bardzo i to nie tylko mnie. Jeśli którąś z tych rzeczy miałbym polecić, to na pewno piwo, a także lepsze planowanie czasu. W następnych tygodniach skupiłem się na poprawieniu przepisu i zbliżeniu się do prawdziwej pizzy neapolitańskiej (o czym będzie wpis), a na sezon zimowy pójdzie kolejne piwo.
+Mogę jedynie powiedzieć, że przynajmniej jedna z pizz była zjadliwa, a piwo udało się całkiem niezłe. Do połowy warki dodałem mirabelki, co jeszcze bardziej podbiło smaki kwasowe. Zasmakowało mi to bardzo i to nie tylko mnie. Jeśli którąś z tych rzeczy miałbym polecić, to na pewno piwo, a także lepsze planowanie czasu. W następnych tygodniach skupiłem się na poprawieniu przepisu i zbliżeniu się do prawdziwej pizzy neapolitańskiej (o czym będzie wpis), a na sezon zimowy pójdzie kolejne piwo. Następnym razem poświęcę znacznie mniej czasu na zacieranie.
 
 ![Zabutelkowane piwo - wyszło dobre!]({attach}butelki.jpg)
