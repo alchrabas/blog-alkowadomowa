@@ -84,8 +84,7 @@ Nie będę wchodził w szczegóły całego procesu zacierania, bo nie ma co robi
 
 ![Coś, co ma udawać ciasto na pizzę]({attach}zupelnie-nie-to.jpg)
 
-19:30 odkładam ciasto, przelewam zacier do fermentora z kranikiem, zacier jest bardzo słodki, czyli się udało  
-
+19:30 odkładam ciasto, przelewam zacier do fermentora z kranikiem, zacier jest bardzo słodki, czyli się udało
 20:05 wrzucam pizzę do pieca  
 20:07 zaczynam zlewać odfiltrowany zacier  
 
