@@ -1056,3 +1056,8 @@ p.image-caption {
 .fancybox-caption__body {
   font-size: 2em;
 }
+
+.entry-content iframe {
+  display: block;
+  margin: auto;
+}

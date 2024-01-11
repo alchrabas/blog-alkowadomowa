@@ -1,7 +1,7 @@
 Title: Dereniówka - część pierwsza
 Date: 2021-11-23 20:00:00
 Category: nalewki
-Tags: nalewki, ogród
+Tags: nalewki, działka
 Summary: plany długoterminowe • nalewki - nauka cierpliwości • co dalej?
 PreviewImage: owoce-derenia.jpg
 

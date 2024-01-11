@@ -13,7 +13,7 @@ Około rok temu wykonałem swój pierwszy bardziej skomplikowany przedmiot ze sk
 Po wielogodzinnej pracy narzędziami ręcznymi w celu wykonania wczepów do pierwszej skrzyneczki wiedziałem, że tym razem muszę zrobić to inaczej. Zapisałem się więc na kurs obsługi lasera (i frezarki CNC, ale jej akurat nie użyłem). Inspiracją do tego był niezwykle życiowy cytat z jednego z bohaterów mojego ulubionego filmu:
 
 > W życiu trzeba postępować metodą lasera. Takie słońce, taka energia, tyle promieni, a głupiej kartki nie przepali. Słońce. Laser. Skoncentrowany, skupiony na jednym celu, pokona każdą przeszkodę. Słońce. Laser.  
-> &ensp;&ensp;&ensp;&ensp;_Andrzejek, „Hi Way”_
+> &ensp;&ensp;&ensp;&ensp;[__Andrzejek, „Hi Way”__](https://youtu.be/B8TBCUmqVvY?si=LcxaI2u5gOm_U7Tp&t=80)  
 
 Dlatego laser. Po zdobyciu podstawowych informacji jak projektować takie kształty, okazało się, że samo przygotowanie projektu w Corel Draw nie zajmuje zbyt wiele czasu. Za pierwszym razem dopuściłem się milimetrowej pomyłki, ale druga wyszła już perfekcyjnie. Efekt widoczny jest poniżej.
 
