@@ -94,7 +94,7 @@ Możliwe, że dzieje się tak, ponieważ istnieje dodatkowe źródło zmian temp
 
 Nie jestem w stanie zweryfikować konkretnych wartości, ale ogólna zasada powinna się zgadzać. Ciężko mi wyobrazić sobie wciągnięcie tego parametru do moich, mocno przybliżonych, obliczeń, ale może będę w stanie oszacować to po kolejnym sezonie.
 
-W ostatnim okresie **współczynnik ciepła** spada do bardzo niskich poziomów. MMoże to być powiązane z brakiem mojego łażenia wte i wewte, bo niemal wcale nie przebywam na działce, a każde otwarcie drzwi ma znaczenie.
+W ostatnim okresie **współczynnik ciepła** spada do bardzo niskich poziomów. Może to być powiązane z brakiem mojego łażenia wte i wewte, bo niemal wcale nie przebywam na działce, a każde otwarcie drzwi ma znaczenie.
 
 # Wnioski
 

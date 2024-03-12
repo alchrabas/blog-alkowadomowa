@@ -1,9 +1,11 @@
 Title: Test cydrów
-Date: 2023-12-05 20:00:00
+Date: 2024-03-11 20:00:00
 Category: cydr
 Tags: cydr, eksperymenty
 Summary: drożdże w cydrze • inne testy • przygotowanie • obserwacje • wnioski
 PreviewImage: nalewki.jpg
+
+
 Status: draft
 
 W styczniu 2023 roku rozpocząłem kolejny długoterminowy eksperyment - własne amatorskie porównanie drożdży do cydrów. Polegał on w skrócie na przygotowaniu ośmiu pięciolitrowych dam z identycznym sokiem jabłkowym i zaszczepieniem ich różnymi odmianami drożdży. Brzmi ciekawie? No to chodźmy dalej.
@@ -47,7 +49,7 @@ Interesujące jest to, że choć z chęci dopełnienia naukowej rzetelności bra
 
 ## Pierwszy test
 
-Tak jak wspominałem, test prowadzony samodzielnie od końca, po jednym cydrze jednego dnia. Starałem się nic nie jeść i próbowac we w miarę podobnych warunkach, choć wiadomo, że nie do końca jest to możliwe.
+Tak jak wspominałem, test prowadzony samodzielnie od końca, po jednym cydrze jednego dnia. Starałem się nic nie jeść i próbować we w miarę podobnych warunkach, choć wiadomo, że nie do końca jest to możliwe.
 
 ### Cydr 1
 Dość świeży zapach, choć wyczuwalna lekka goryczkowość, po nalaniu sporo piany, kolor dość jasny. Smak może nie bardzo orzeźwiający, ale zarówno goryczka jak i kwasowość są na dobrym, lekko wyczuwalnym poziomie. Mało tanin.
@@ -55,7 +57,7 @@ Dość świeży zapach, choć wyczuwalna lekka goryczkowość, po nalaniu sporo 
 Ocena 8/10
 
 ### Cydr 3
-Złocisty kolor, dość duża piana przy nalewaniu, szybko znika. Widać bąbelki, zapach dość goryczkowy w odbiorze. Smak w miarę goryczkowy, odrobinę kwaskowy. Jednak ta goryczka zdecydowana. Nie ma słodyczy. Jest w kierunku tych cydrów z karfura niby prawdziwych francuskich
+Złocisty kolor, dość duża piana przy nalewaniu, szybko znika. Widać bąbelki, zapach dość goryczkowy w odbiorze. Smak w miarę goryczkowy, odrobinę kwaskowy. Jednak ta goryczka zdecydowana. Nie ma słodyczy. Jest w kierunku tych cydrów z Karfura niby prawdziwych francuskich
 
 Ocena 6.5/10
 
@@ -121,13 +123,118 @@ Zapach słodki i miły. Przyjemny, najlepszy. Delikatnie owocowy.
 W smaku bardzo lekka goryczka, przyjemny. Goryczkowy, ale zarazem trochę słodki.  
 Średnia ocena: 7,2/10
 
-Wyszło dość równo, bo każda osoba miała innego zwycięzcę. Ja wybrałem cydr 3.
+### Podsumowanie testu
+
+Wyszło bardzo równo, bo każda osoba miała innego zwycięzcę. To dobrze, bo znajdzie się chętny do wypicia każdego z cydrów. Ja wybrałem numer 3.
 
 ## Test 3
 
 Brało w nim udział sporo osób (8), do tego z różnych krajów, więc przy odrobinie dobrej woli można to było uznać za konkurs o randze międzynarodowej. Niektóre osoby musiały opuścić panel degustacyjny przed jego zakończeniem, więc nie ma odpowiedzi na wszystkie pytania. Również odpowiedzi dotyczące np. klarowności lub wyczuwalności drożdży mogą być lekko zaburzone w zależności od kolejności rozlewu cydru z butelki. Mam nadzieję, że średnia wyjdzie odpowiednio uśredniona ;) Do tego jedna z ośmiu butelek (cydr 5) została zabrana przez kogoś przed rozpoczęciem eksperymentu, więc nie udało się przetestować wszystkich.
 
+### Cydr 1
 
+wędzone, gorzkie, smak dymny, ciężki - najgorszy smak 9/10  
+mocno kwaskowaty, mocny smak  
+lekko gorzki, pszeniczny/drożdżowy, zapach dymny, przypomina mech i pleśń 4/10  
+słodsze niż inne i delikatniejsze, zapach cydrowy 8/10  
+słodkie i kwaśne, cydrowy finisz, zapach słaby  
+świetne, trochę słodkie, ale orzeźwiające, zapach delikatny, świeży  
+delikatny smak  
+
+### Cydr 2
+
+ostrzejsze, mniej intensywny zapach i smak, lepszy niż 1  
+delikatny, delikatny zapach 8/10  
+smak cytrusowy, kwaśny i orzeźwiający, krótki finisz, zapach lekki, mandarynkowy 8/10  
+kwaskowe, bąbelki na języku, zapach podobny do miodu  
+bardziej goryczkowe niż 1  
+słodki i kwaśny smak, podobny do 1  
+mniej słodkie niż 1, nieco gorzki finisz, zapach nieco mocniejszy, lekko miodowy  
+smak cytrusowy, delikatny zapach  
+
+### Cydr 3
+
+trochę gorzki smak  
+smak nieco gorzki, cięższy, bąbelkowy, zapach nieco drożdżowy  
+smak lekko gorzki na początku, przechodzący w kwaskowość, słodki finisz, zapach jabłkowy i miodowy  
+smak delikatny, delikatna goryczka i nieco bardziej niż delikatny kwasek  
+odczuwalne bąbelki, zapach nieistotny  
+smak bardziej cydrowy niż 2, gazowany, przyjemny zapach i lekko drożdżowy 5/10  
+bardziej gazowane i owocowe w smaku i zapachu 7/10  
+bardziej gazowane i owocowe, jak typowy wytrwawny cydr  
+
+### Cydr 4
+
+smak lekko kwaskowy  
+trochę słodki, orzeźwiający, lekki, zapach jak w poprzednim   
+-   
+mniej kwaśne, nie bardzo słodkie ani gorzkie  
+słodki i kwaśny smak bez finiszu, zapach miodowy  
+smak mocny, ciężki, grejpfrutowy, zapach orzeźwiający, słodszy 6/10  
+mocno gazowane, mało wyraźny smak 5/10  
+smak orzeźwiający i intensywny, gorzki  
+
+### Cydr 5
+
+Nie dojechał
+
+### Cydr 6
+
+Smak delikatny, zbalansowany, dobry  
+Czysty smak cydru, zapach lekko dębowy/leśny, ale ledwo wyczuwalny  
+Smak brzoskwiniowy, owocowy, gazowany, lekko drożdżowy zapach 9/10  
+Delikatnie kwaskowaty, ostry zapach 4/10  
+Smak łagodny  
+
+### Cydr 7
+
+Mało gazowane, zapach jakby czekoladowy (?) 6/10  
+Smak mocny i jabłkowy, słodki, mocny zapach, lekko pszeniczny 5/10  
+Smak kwaskowy, smaczny, słodki posmak, zapach winogronowy 10/10  
+Kwaskowe, niegorzkie, gorzki tylko finisz, zbalansowane  
+Smak słodki, łagodny  
+
+### Cydr 8
+
+Łagodny zapach 10/10  
+Smak intensywny, gazowany, najbardziej cydrowy. Zapach intensywny, lekko dymny 10/10  
+Smak kwaśny i słodki, ale dominuje kwaśny 8/10  
+Smak mocny, przyjemny  
+
+Jak widać, liczba opinii o kolejnych cydrach zmniejszała się, gdy z różnych powodów odpadali uczestnicy.
+
+## Oceny w teście 3
+
+Większość osób nie oceniała cydrów liczbowo, więc nie są to zbyt miarodajne wyniki, ale można wyciągnąć z tego jakieś wnioski. Zdecydowanie najlepiej wród oceniających spisał się cydr 8 (kveik), a za nim był cydr 2 (Gozdawa G1)
+
+<table class="table table-striped table-bordered">
+  <thead class="thead-light">
+    <tr>
+      <th>Cydr</th>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+      <th>4</th>
+      <th>6</th>
+      <th>7</th>
+      <th>8</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ocena</td>
+      <td>7</td>
+      <td>8</td>
+      <td>6</td>
+      <td>5,5</td>
+      <td>6,5</td>
+      <td>7</td>
+      <td>9,3</td>
+    </tr>
+  </tbody>
+</table>
+
+<p class="text-center">Tabela 1. Średnie oceny testowanych cydrów</p>
 
 # Wnioski
 
