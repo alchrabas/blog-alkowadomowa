@@ -1,5 +1,5 @@
 Title: Test cydrów
-Date: 2024-03-11 20:00:00
+Date: 2024-03-24 20:00:00
 Category: cydr
 Tags: cydr, eksperymenty
 Summary: drożdże w cydrze • inne testy • przygotowanie • obserwacje • wnioski
