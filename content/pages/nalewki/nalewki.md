@@ -36,7 +36,7 @@ Tak powstała **Alkowa Domowa**
     <div class="col-md-4">
     <img class="nalewki-icon ignore-image" src="{attach}gwarancja.jpg" />
     <p class="nalewki-title">Spirytus z pewnego źródła</p>
-    <p class="nalewki-subtitle">Wyłącznie legalny spirytus ze sklepu. Jeśli się to zmieni, to tylko na lepsze. Nigdy nie użyję spirytusu w plastikowym kanistrze sprowadzanego z Uzbekistanu</p>
+    <p class="nalewki-subtitle">Wyłącznie legalny spirytus ze sklepu. Nie schodzę poniżej tego poziomu. Nigdy nie użyję spirytusu w plastikowym kanistrze sprowadzanego przez zieloną granicę</p>
     </div>
     <div class="col-md-4">
     <img class="nalewki-icon ignore-image" src="{attach}liquor.png" />
