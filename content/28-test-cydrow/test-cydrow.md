@@ -3,12 +3,12 @@ Date: 2024-03-24 20:00:00
 Category: cydr
 Tags: cydr, eksperymenty
 Summary: drożdże w cydrze • inne testy • przygotowanie • obserwacje • wnioski
-PreviewImage: nalewki.jpg
+PreviewImage: przygotowanie.jpg
 
 
 W styczniu 2023 roku rozpocząłem kolejny długoterminowy eksperyment - własne amatorskie porównanie drożdży do cydrów. Polegał on w skrócie na przygotowaniu ośmiu pięciolitrowych dam z identycznym sokiem jabłkowym i zaszczepieniem ich różnymi odmianami drożdży.
 
-Brzmi ciekawie? No to chodźmy dalej.
+Brzmi ciekawie? W takim razie zapraszam do czytania.
 
 # Stan wiedzy
 
@@ -37,9 +37,13 @@ Dwa ostatnie są znane jako drożdże piwne, ale wszystkie należą do saccharom
 
 ![Soki ze sklepu i drożdże gotowe do pracy]({attach}przygotowanie.jpg)
 
-Eksperyment rozpoczął się w styczniu. Najpierw sok przelałem do dużych fermentorów, do których dodałem pektoenzym. Pomaga to w pozbyciu się drobinek pektyn, które uniemożliwiają sklarowanie soku, bo naturalnie występujący w owocach pektoenzym jest dezaktywowany podczas pasteryzacji. Następnie przelałem sok do gąsiorów, dodałem stałą ilość cukru (170 gramów, co powinno dać +2% alkoholu), a także 1 gram pożywki kombi i zadałem drożdże, każde zgodnie z instrukcją na opakowaniu. Później zatkałem korki watą i po 24 godzinach przeniosłem wszystkie poza Kveikami do piwnicy. Po około 40 dniach zlałem po raz pierwszy znad osadu i uzupełniłem gąsiory takim samym sokiem. Ubytek soku wynosił między 200 a 500 gramów, więc różnica była całkiem spora.
+Eksperyment rozpoczął się w styczniu. Najpierw sok przelałem do dużych fermentorów, do których dodałem pektoenzym. Pomaga to w pozbyciu się drobinek pektyn, które uniemożliwiają sklarowanie soku, bo naturalnie występujący w owocach pektoenzym jest dezaktywowany podczas pasteryzacji. Następnie przelałem sok do gąsiorów (choć nie do pełna), dodałem stałą ilość cukru (170 gramów, co powinno dać +2% alkoholu), a także 1 gram pożywki kombi i zadałem drożdże, każde zgodnie z instrukcją na opakowaniu. Później zatkałem korki watą i po 24 godzinach przeniosłem wszystkie poza Kveikami do piwnicy.
 
-W lipcu, czyli po pół roku od nastawienia, zabutelkowałem cydr, do każdej półlitrowej butelki dodając 9 gramów ksylitolu i 4 gramy cukru do refermentacji. Nie jest to więc czysty cydr z samego soku (nie jest zresztą od chwili dodania na początku cukru dla zwiększenia procentów), ale taki najbardziej mi pasuje, a 9 gramów ksylitolu daje dość oszczędną słodycz. Butelki wylądowały w tej samej piwnicy, by czekać na swój wielki dzień.
+![Drożdże już się rozpędzają]({attach}gasiory.jpg)
+
+Po dwóch dniach uzupełniłem gąsiory sokiem, bo nie było już ryzyka, że sok wykipi. Po około 40 dniach zlałem po raz pierwszy znad osadu i uzupełniłem gąsiory takim samym sokiem. Ubytek soku wynosił między 200 a 500 gramów, więc różnica była całkiem spora.
+
+W lipcu, czyli po pół roku od nastawienia, zabutelkowałem cydr, do każdej półlitrowej butelki dodając 9 gramów ksylitolu i 4 gramy cukru do refermentacji. Nie jest to więc czysty cydr z samego soku (nie jest nim zresztą już od chwili dodania na początku cukru dla zwiększenia procentów), ale taki najbardziej mi pasuje, a 9 gramów ksylitolu daje dość oszczędną słodycz. Butelki wylądowały w tej samej piwnicy, by czekać na swój wielki dzień.
 
 ![Cydry prezentują się bardzo elegancko]({attach}butelki.jpg)
 
@@ -53,7 +57,7 @@ Przeprowadziłem trzy sesje testowe:
 2. mała grupa — 3 osoby na podzbiorze cydrów
 3. duża grupa — na większości cydrów, poza jednym, który ktoś wyniósł
 
-Interesujące jest to, że choć z chęci dopełnienia naukowej rzetelności brałem udział we wszystkich trzech testach (drugi i trzeci nie były testami ślepymi), to moje odczucia i oceny cydrów były dość różne. Oczywiście możliwy był wpływ wiedzy o rodzajach drożdży, ale nie miałem konkretnych oczekiwań przed testem i te obserwacje uznawałem w trakcie testu za zaskakujące. Być może istotne jest, że pierwszy test prowadziłem od końca (8 do 1), a pozostałe w kolejności rosnącej.
+Interesujące jest to, że choć z chęci dopełnienia naukowej rzetelności brałem udział we wszystkich trzech testach (drugi i trzeci nie były dla mnie testami ślepymi), to moje odczucia i oceny cydrów były dość różne. Oczywiście możliwy był wpływ wiedzy o rodzajach drożdży, ale nie miałem konkretnych oczekiwań przed testem i swoje obserwacje uznawałem po teście za zaskakujące. Być może istotne jest, że pierwszy test prowadziłem od końca (8 do 1), a pozostałe w kolejności rosnącej.
 
 # Pierwszy test
 
@@ -64,6 +68,10 @@ Tak jak wspominałem, test prowadzony samodzielnie od końca, po jednym cydrze j
 Dość świeży zapach, choć wyczuwalna lekka goryczkowość. Po nalaniu sporo piany. Kolor dość jasny. Smak może nie bardzo orzeźwiający, ale zarówno goryczka, jak i kwasowość są na dobrym, lekko wyczuwalnym poziomie. Mało tanin.
 
 Ocena 8/10
+
+### Cydr 2
+
+Notatki zaginęły, ale był oceniony jako porównywalny, ewentualnie odrobinę gorszy niż pierwszy.
 
 ### Cydr 3
 
@@ -103,7 +111,7 @@ Ocena 5/10
 
 # Drugi test
 
-Poszczególne właściwości cydrów są zgrupowanymi opiniami trzech osób, dlatego pojawiają się sprzeczne opinie.
+Poszczególne właściwości cydrów są zgrupowanymi opiniami trzech osób, dlatego pojawiają się sprzeczne opinie. Jako że test wykonywany był jednego wieczora, to konieczne było zmniejszenie liczby testowanych cydrów.
 
 ### Cydr 1
 
@@ -135,11 +143,11 @@ W smaku bardzo lekka goryczka, przyjemny. Goryczkowy, ale zarazem trochę słodk
 
 ### Podsumowanie
 
-Wyszło bardzo równo, bo każda osoba miała innego zwycięzcę. To dobrze, bo znajdzie się chętny do wypicia każdego z cydrów. Ja wybrałem numer 3.
+Wyszło bardzo równo, bo każda osoba miała innego zwycięzcę. To dobrze, bo znajdzie się chętny do wypicia każdego z cydrów. Ja wybrałem numer 3. O tyle ciekawe, że w poprzednim teście 5 i 7 oceniłem wyżej niż 3 ;) No ale smak zmienia się z czasem.
 
 # Trzeci Test
 
-Brało w nim udział sporo osób (8), do tego z różnych krajów, więc przy odrobinie dobrej woli można to było uznać za konkurs o randze międzynarodowej. Niektóre osoby musiały opuścić panel degustacyjny przed jego zakończeniem, więc nie ma odpowiedzi na wszystkie pytania. Również odpowiedzi dotyczące np. klarowności lub wyczuwalności drożdży mogą być lekko zaburzone w zależności od kolejności rozlewu cydru z butelki. Mam nadzieję, że średnia wyjdzie odpowiednio uśredniona ;) Do tego jedna z ośmiu butelek (cydr 5) została zabrana przez kogoś przed rozpoczęciem eksperymentu, więc nie udało się przetestować wszystkich.
+Brało w nim udział sporo osób (8), do tego z różnych krajów, więc przy odrobinie dobrej woli można go było uznać za konkurs o randze międzynarodowej. Niektóre osoby musiały opuścić panel degustacyjny przed jego zakończeniem, więc nie ma odpowiedzi na wszystkie pytania. Również odpowiedzi dotyczące np. klarowności lub wyczuwalności drożdży mogą być lekko zaburzone w zależności od kolejności rozlewu cydru z butelki. Mam nadzieję, że średnia wyjdzie odpowiednio uśredniona ;) Do tego jedna z ośmiu butelek (cydr 5) została zabrana przez kogoś przed rozpoczęciem eksperymentu, więc nie udało się przetestować wszystkich.
 
 ### Cydr 1
 
@@ -214,7 +222,7 @@ Jak widać, liczba opinii o kolejnych cydrach zmniejszała się, gdy z różnych
 
 # Bonus - pojedynki jeden na jednego
 
-To nie wszystkie okazje, w których próbowałem cydrów. Postanowiłem także spróbować jednocześnie dwóch podobnych cydrów, by ocenić bezpośrednio który jest lepszy. Na pierwszy ogień poszły cydry 3 i 5. Wynik był dość zaskakujący, bo oceniłem je dokładnie identycznie - nie byłem w stanie powiedzieć który jest lepszy.
+To nie wszystkie okazje, w których próbowałem cydrów. Postanowiłem także spróbować jednocześnie dwóch podobnych cydrów, by ocenić bezpośrednio który jest lepszy. Na pierwszy ogień poszły cydry 3 i 5. Wynik był dość zaskakujący, bo oceniłem je dokładnie identycznie — nie byłem w stanie powiedzieć który jest lepszy pod jakimkolwiek względem.
 
 ## Podsumowanie
 
@@ -249,8 +257,8 @@ Większość osób nie oceniała cydrów liczbowo, więc nie są to zbyt miaroda
 
 <p class="text-center">Tabela 1. Średnie oceny testowanych cydrów</p>
 
-W zasadzie każdy z cydrów znalazł swoich amatorów, a także znalazł się ktoś, komu się niezbyt podobał. Wygląda więc na to, że ostateczną decyzję co do drożdży będę musiał podejmować na podstawie własnych preferencji. Ostatecznie każde dobre drożdże powinny dać zadowalający efekt, a istotne są również inne jego elementy, w szczególności jabłka.
+W zasadzie każdy z cydrów znalazł swoich amatorów, a także znalazł się ktoś, komu się niezbyt podobał. Wygląda więc na to, że ostateczną decyzję co do drożdży będę musiał podejmować na podstawie własnych preferencji. Ostatecznie każde dobre drożdże powinny dać zadowalający efekt, a istotne są również inne jego elementy, w szczególności jabłka. To niepowodzenie sprawiło, że zrezygnowałem z kontnuowania pojedynków.
 
 # Wnioski
 
-Różne testy dawały różne wyniki. W szczególności degustacje w różnych dniach i warunkach dawały różne wyniki nawet dla mnie samego, więc decydujące mogą być nawet detale. Zdecydowanie odrzucam na przyszłość jedynie drożdże Spiritferm (4). Na pewno sprawdziły się drożdże Gozdawa (co jest dobrą wiadomością, bo używam ich jako podstawowych), Safale US-05 (piwne) oraz Cryarome SIHA. Na podstawie powyższych wyników postanowiłem zrobić cydr lodowy na Cryarome, a zwykły na drożdżach Gozdawa New Generation. Zobaczymy, co przyniesie przyszłość.
+Różne testy dawały różne wyniki. W szczególności degustacje w różnych dniach i warunkach dawały różne wyniki nawet dla mnie samego, więc decydujące mogą być nawet detale. Zdecydowanie odrzucam na przyszłość jedynie drożdże Spiritferm (4). Na pewno sprawdziły się drożdże Gozdawa (co jest dobrą wiadomością, bo od kilku lat używam ich jako podstawowych), Safale US-05 (piwne) oraz Cryarome SIHA. Warto wspomnieć, że w teście na Projekt Cydr te same Cryarone SIHA (zapewne z tym samym rokiem produkcji - 2021) wypadły tragicznie. Na podstawie powyższych wyników postanowiłem zrobić cydr lodowy na Cryarome SIHA, a zwykły na drożdżach Gozdawa New Generation. Zobaczymy, co przyniesie przyszłość. Na pewno będzie to alkoholowe, kwaskowe, a może i słodko-gorzkie.
