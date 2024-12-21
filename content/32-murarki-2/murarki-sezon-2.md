@@ -1,5 +1,5 @@
 Title: Murarki — sezon 2
-Date: 2024-11-15 20:00:00
+Date: 2024-12-21 20:00:00
 Category: inne
 Tags: działka
 Summary: pizza • kamień do pizzy • robienie pizzy • poprawki w piekarniku • przyszłość

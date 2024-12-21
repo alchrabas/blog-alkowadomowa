@@ -1,5 +1,5 @@
 Title: Drinki
-Date: 2024-11-19 20:00:00
+Date: 2024-12-20 20:00:00
 Category: inne
 Tags: rzemiosło, eksperymenty
 Summary: wstęp • kurs • pierwsze samodzielne kroki • kompletowanie sprzętu • dalszy rozwój
