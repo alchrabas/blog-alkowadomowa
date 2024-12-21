@@ -1,7 +1,7 @@
 Title: Nastawianie cydru
 Date: 2020-10-29 22:00:00
 Category: cydry
-Tags: cydry
+Tags: cydr
 Summary: drugi cydr w życiu • co poprawić po pierwszym razie? • zadawanie drożdży • klarowanie
 
 [aktualizowane 29.11.2020 i 8.01.2021]

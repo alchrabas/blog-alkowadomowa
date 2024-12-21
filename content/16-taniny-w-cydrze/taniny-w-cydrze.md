@@ -1,7 +1,7 @@
 Title: Taniny w cydrze
 Date: 2021-09-13 21:00:00
 Category: cydry
-Tags: eksperymenty, cydry
+Tags: eksperymenty, cydr
 Summary: jak wpływają taniny? • przebieg eksperymentu • odczucia
 PreviewImage: gasiory.jpg
 
