@@ -23,7 +23,7 @@ Podstawową sprawą jest sprzęt, który pozwoliłby wykonać takie pizze. Wrzuc
 
 Na rozwiązanie natknąłem się przypadkiem, przeglądając internet. Na Amazonie znalazłem stalową pokrywę trójścienną, która miała dwie ciekawe cechy: kumuluje ciepło wokół pizzy i kosztuje ponad 300 złotych.
 
-![]({attach}pokrywa-z-amazona.jpg)
+![Droga pokrywa z internetu]({attach}pokrywa-z-amazona.jpg)
 
 Jedna z nich mi nie odpowiadała, dlatego też zacząłem szukać tańszego rozwiązania. Okazało się, że mój tata dysponuje kawałkiem blachy nierdzewnej i wolnym czasem, dzięki czemu zaoferował się taką zrobić. Jeszcze bardziej zaskoczony byłem, gdy przyniósł mi ją gotową dwa dni później, bo spodziewałem się, że będę musiał pytać o to co pół roku. Do tego wyglądała lepiej niż oryginał ze sklepu.
 

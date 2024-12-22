@@ -88,7 +88,7 @@ Nie będę wchodził w szczegóły całego procesu zacierania, bo nie ma co robi
 20:05 wrzucam pizzę do pieca  
 20:07 zaczynam zlewać odfiltrowany zacier  
 
-![]({attach}filtracja.jpg)
+![Filtrowanie przez młóto i wężyk i ściekanie brzeczki do garnka]({attach}filtracja.jpg)
 
 20:20 jem pizzę
 
