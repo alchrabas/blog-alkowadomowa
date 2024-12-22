@@ -2,8 +2,8 @@ Title: Murarki — sezon 2
 Date: 2024-12-21 20:00:00
 Category: inne
 Tags: działka
-Summary: pizza • kamień do pizzy • robienie pizzy • poprawki w piekarniku • przyszłość
-PreviewImage: pizza-zero.jpg
+Summary: kokony • większy domek • przeprowadzka do miasta • wiosna • plany
+PreviewImage: domek-preview.jpg
 
 Zeszłoroczny artykuł do przeczytania [tutaj]({filename}/22-pszczoly/pszczoly.md).
 
@@ -39,7 +39,7 @@ Nie byłem w stanie zrealizować identycznego projektu, bo ograniczały mnie pos
 
 Tak naprawdę zajęło to nieco dłużej, zwłaszcza że musiałem pracować nad tym na zewnątrz w zimie, więc temperatury powodujące przymarzanie narzędzi do rąk wstrzymywały czasem prace. Ale i tak skończyłem przed początkiem sezonu.
 
-# Domek w mieście
+# Przeprowadzka do miasta
 
 Stary domek mogłem dzięki temu wywieźć z działki do miasta. Zależało mi nie tylko na sprowadzeniu pszczół do ogrodu, którym zajmuję się w mieście, ale także, by zrobić to lepiej i zapewnić im warunki lepsze niż rok wcześniej. Głębokości domku zmienić nie mogłem, ale postanowiłem przynajmniej upewnić się, ze rurki z tyłu będą zaślepione. Jako że trudno o rurki z tak gęsto występującymi kolankami, a nie chciałem wyrzucać ich nadmiaru, stwierdziłem, że muszę zaślepić je samodzielnie.
 
