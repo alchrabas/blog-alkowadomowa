@@ -55,11 +55,14 @@ Wykonałem 19 z 20 drinków znajdujących się na podstawowej liście egzaminacy
 
 ![Espresso Martini, zdecydowanie polecam]({attach}espresso-martini.jpg)
 
-![Chmurka, czyli jedno z tych, które pozwala uzyskać lekki efekt „Wow”. U mnie wyszedł Cirrus, w internecie można zobaczyć Cumulusy]({attach}chmurka.jpg)
+![Chmurka, czyli jedno z tych, które pozwala uzyskać lekki efekt „Wow”.<br /> U mnie wyszedł Cirrus, w internecie można zobaczyć Cumulusy]({attach}chmurka.jpg)
 
 ![Klasyk, czyli Tequila Sunrisé (z akcentem na „e”)]({attach}tequila-sunrise.jpg)
 
 ![Mojito, tylko kruszonego lodu mało]({attach}modzajto.jpg)
+
+![Płonący B-52]({attach}b52.gif)
+
 
 # Mobilny zestaw barmański
 
