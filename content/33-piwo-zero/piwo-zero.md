@@ -1,7 +1,7 @@
 Title: Piwo bezalkoholowe
 Date: 2025-05-28 00:03:00
 Category: eksperymenty
-Tags: piwo
+Tags: piwo, eksperymenty
 Summary: dlaczego? • jak zrobić piwo? • a takie bezalkoholowe? • full aroma hops • stout • american wheat • IPA
 PreviewImage: fah.jpg
 
@@ -94,7 +94,7 @@ Jest to piwo ze słodu pilzneńskiego i pszenicznego, w założeniu powinno mie�
 
 Przy okazji zmieniłem sposób używania hop spidera — koszyczka do chmielenia. Standardowo wrzuca się do niego chmiel, aby nie pływał luźno w brzeczce. Z uwagi na nieidealną czystość brzeczki (z powodu białka i innych) stwierdziłem, że lepiej zrobić na odwrót, czyli ściągać wężykiem czystą brzeczkę poprzez hop spidera. Niemal do samego końca zapycha się znacznie mniej.
 
-Wracając do piwa... Dorzuciłem sporo chmielu w formie herbatki chmielowej. Zabutelkowałem jeszcze fermentujące i udało mi się trafić z tym w punkt. Bardzo podobny przy ocenie postępów fermentacji okazał się świeżo zakupiony refraktometr, bo pozwalał ocenić Blg z precyzją do 0,2 na podstawie kropli brzeczki.
+Wracając do piwa... Dorzuciłem sporo chmielu w formie herbatki chmielowej. Zabutelkowałem jeszcze fermentujące i udało mi się trafić z tym w punkt. Bardzo pomocny przy ocenie postępów fermentacji okazał się świeżo zakupiony refraktometr, bo pozwalał ocenić Blg z precyzją do 0,2 na podstawie kropli brzeczki.
 
 Niestety nie udało się uzyskać aromatu cytrusowego. Prawdopodobnie moim katastrofalnym błędem było włożenie chmielu do mikrofalówki, aby go zdezynfekować. Był to objaw paranoi związanej z ryzykiem zakażenia dość podatnego na to piwa. Z tego, co wyczytałem po fakcie, może to spowodować ulotnienie się części aromatu i tak się zapewne stało.
 

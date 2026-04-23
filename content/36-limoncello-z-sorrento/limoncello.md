@@ -1,7 +1,7 @@
 Title: Limoncello z Sorrento
 Date: 2025-06-02 00:00:00
 Category: inne
-Tags: działka
+Tags: likiery, eksperymenty
 Summary: limoncello • włoskie limoncello • poszukiwanie cytryn • Limoncello di Sorrento
 PreviewImage: butelka.jpg
 
