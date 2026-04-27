@@ -22,7 +22,7 @@ PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 TAGS_URL = 'tag/{slug}.html'
 
-IGNORE_FILES = [".venv", "scripts"]
+IGNORE_FILES = [".venv", "scripts", "SKILL.html"]
 
 USER_LOGO_URL = "/images/logo.png"
 
