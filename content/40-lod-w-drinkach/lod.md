@@ -3,9 +3,11 @@ Date: 2026-05-14 22:00:00
 Category: inne
 Tags: rzemiosło, eksperymenty
 Summary: pierwsze lody • mlecznobiałość • pojemniki • inne kształty
-PreviewImage: butelka.jpg
+PreviewImage: drink-z-kulami.jpg
 
 Zainteresowanie drinkami wymusiło zainteresowanie się także jego najznaczniejszym objętościowo składnikiem, czyli lodem.
+
+![Przykładowy lód w przykładowym drinku]({attach}drink-z-kulami.jpg)
 
 Zaczynałem od robienia lodu w zwykłych plastikowych foremkach. Niby spełniało to swoje zadanie, ale nie było dla mnie zadowalające: kostki były mętne i nie wyglądały atrakcyjnie w drinkach. Drugą opcją był zakup gotowego lodu. Ten wyglądał jak należy, ale wychodził dość drogo, zwłaszcza porównując z ceną wody do jego wytworzenia. Lepiej móc robić go sobie na własne potrzeby, a dokupować tylko w razie większego zapotrzebowania.
 
@@ -83,7 +85,7 @@ Kupiłem kilka innych foremek, które pozwalają uzyskiwać oryginalne kształty
 
 ![Kule]({attach}przezroczysta-kula.jpg)
 
-<video controls="controls" src="{attach}20241024_004527.mp4" type="video/webm" width="100%">
+<video controls="controls" src="{attach}kula-360.mp4" type="video/webm" width="100%">
 Your browser doesn't support HTML5 video player
 </video>
 
@@ -99,3 +101,5 @@ Pojedyncza kość w Whisky Sour wygląda bardzo zachęcająco.
 ![Foremki muszą oczywiście mieć dziurę w dnie, żeby w środku pozostał krystaliczny lód]({attach}dziurkowane-kostki-xxl.jpg)
 
 ![Kości - profesjonaliści mówią tak na duże kostki, więc też chcę]({attach}duze-kosci.jpg)
+
+<img src="" style="display:none" alt="" />
