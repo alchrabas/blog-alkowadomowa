@@ -1051,6 +1051,7 @@ p.image-caption {
 #content img {
   max-width: 80%;
   height: auto;
+  max-height: 100vh; /* Limit size of vertical images */
 }
 
 .fancybox-caption__body {

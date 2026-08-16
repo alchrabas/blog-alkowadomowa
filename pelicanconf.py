@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+import sys, os
+
 AUTHOR = 'Aleksander Chrabąszcz'
 SITENAME = 'Alkowa Domowa'
 SITEURL = ''
@@ -62,12 +64,15 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = 10
 
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'md_plugins'))
+
 MARKDOWN = {
     'extension_configs': {
         'markdown.extensions.codehilite': {'css_class': 'highlight'},
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
         'markdown.extensions.toc': {},
+        'md_table_class': {},  # add bootstrap CSS for md table
     },
     'output_format': 'html5',
 }
