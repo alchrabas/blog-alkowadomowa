@@ -7,7 +7,3 @@ PreviewImage: domek-preview.jpg
 Status: draft
 
 Cydr lodowy numer dwa
-
-# Limoncello
-
-Limoncello zdarzało mi się robić od lat. Zwykle wykorzystywałem cytryny bio pochodzące z jednego (lub drugiego) ze znanych marketów o niepolskim kapitale. Robiłem je już wiele lat temu, na tyle często, by nie uważać tego za coś wartego opisania. Przepis był standardowy: cienko obrane skórki cytryny, brak soku z cytryny, spirytus, cukier i woda.
