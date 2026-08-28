@@ -10,11 +10,13 @@ Pierwsze cztery lata od zakupu działki poświęciłem na prace budowlane. Dlate
 
 Dlatego dopiero w 2025 roku nadeszła chwila, by posadzić winorośl. Nie byłem do tego przekonany od początku i chciałem najpierw zobaczyć jak będę radził sobie z wymagającymi mniejszej uwagi drzewami owocowymi. Czas ten był bardzo pożyteczny i pozwolił po pierwsze przekonać się, że dam radę, a także podjąć właściwsze decyzje co do rodzaju i umiejscowienia pierwszych sadzonek winorośli. 
 
-Jest to zgodne z moim długoterminowym planem poszerzania zakresu zainteresowań w dziedzinie domowych alkoholi. Dotychczas zdarzyło mi się już robić wino gronowe z dzikich ciemnych winogron (labruska) rosnących w odludnym miejscu, ale odmiany przerobowe to zupełnie co innego.
+Jest to zgodne z moim długoterminowym planem poszerzania zakresu zainteresowań w dziedzinie domowych alkoholi.
+
+Dotychczas zdarzyło mi się już robić wino gronowe z dzikich ciemnych winogron (vitis labrusca) rosnących w odludnym miejscu, ale odmiany przerobowe to zupełnie co innego.
 
 # Wybór odmian
 
-Pierwsza była decyzja czy chciałbym spróbować posadzić odmiany gatunku Vitis Vinifera (winorośl właściwą), czy też łatwiejsze, ale na ogół mniej cenione hybrydy.
+Pierwsza była decyzja czy chciałbym spróbować posadzić odmiany gatunku Vitis Vinifera (winorośl właściwą), czy też łatwiejsze, ale powszechnie mniej cenione hybrydy.
 
 > ### Rodzaje Winorośli
 > 
@@ -65,15 +67,15 @@ Wartości te pokazują, że jedyną z wybranych przeze mnie odmian, która może
 
 # Sadzenie
 
-Większość winorośli posadziłem w rzędzie północ-południe równolegle do ogrodzenia. Jak podałem w tytule, tworzę mikrowinnicę, dlatego też każdej z odmian posadziłem tylko 7-10 sztuk.
+Większość winorośli posadziłem w rzędzie północ-południe równolegle do ogrodzenia. Jak podałem w tytule, tworzę mikrowinnicę, dlatego też każdej z odmian posadziłem na razie tylko 7-10 sztuk.
 
-Léon Millot posadziłem osobno w miejscach zacienionych przez część dnia, więc nie mam względem niej nadmiernych oczekiwań poza dawaniem cienia ścianom, przy których została posadzona.
+Léon Millot posadziłem osobno w miejscach częściowo zacienionych, więc nie mam względem niej nadmiernych oczekiwań poza dawaniem cienia ścianom, przy których została posadzona.
 
 # Pierwsza zima
 
 Byłem przekonany, że w drugim roku po posadzeniu nie mam powodu martwić się przymrozkami, bo i tak nie chcę mieć owoców, więc w najgorszym wypadku roślina wypuści nowe pędy trochę później. Okazało się to dość kosztownym błędem.
 
-Ograniczyłem się do zakopczykowania winorośli, by ochronić korzenie, i rozgarnąłem je w kwietniu. W efekcie przymrozek na początku maja zniszczył wszystkie pąki na mniej więcej połowie winorośli, a ta, wbrew moim nadziejom, zamiast odbijać z pąków ukrytych w pniu, w niektórych przypadkach zaczęła wypuszczać pędy z podkładki. Musiałem dobrze dopilnować i wycinać te niepożądane pędy, żeby odbiła ze szczepionki. Regenta i Leon Millot nie kupiłem w wersji bez podkładki, więc problemu nie było.
+Ograniczyłem się do zakopczykowania winorośli, by ochronić korzenie, i rozgarnąłem je w kwietniu. W efekcie przymrozek na początku maja zniszczył wszystkie pąki na mniej więcej połowie winorośli, a ta, wbrew moim nadziejom, zamiast odbijać z pąków ukrytych w pniu, w niektórych przypadkach zaczęła wypuszczać pędy z podkładki. Musiałem dobrze dopilnować i wycinać te niepożądane pędy, żeby odbiła ze szczepionki. Regenta i Leon Millot kupiłem w wersji bez podkładki, więc problemu nie było.
 
 Ogólnie poszło mi nie najgorzej, po roku straciłem tylko jeden krzak Regenta.
 
@@ -89,18 +91,27 @@ Co prawda pisałem, że nie chciałem owoców w drugim roku, ale pozostawiłem p
 
 Cały czas nie jestem pewien czy chcę iść bardziej w kierunku wina, czy cydru. W tej chwili mam trzydzieści krzaków winorośli i trzy jabłonie cydrowe. Do tego kilka innych jabłoni i dostęp do dobrego soku jabłkowego, więc sprawa jest otwarta. Brakuje mi już miejsca na dosadzanie drzew, więc jeśli nie uda mi się nic dokupić, to będę musiał zagęszczać sad. Winorośle zdołam jeszcze wcisnąć gdzieś wzdłuż ogrodzenia. Najpierw jednak muszę zdecydować, czy chcę to robić.
 
-Główne argumenty za winogronami:
+Przeanalizowałem plusy i minusy obu tych ścieżek hobbystycznej kariery i wyszło mi to następująco.
+
+Główne aspekty produkcji wina:
 
 - Wino ma ugruntowaną pozycję. W szczególności w Polsce ludzie rozumieją, że to drogie i skomplikowane
 - Istnieje w Polsce prawo preferencyjnie traktujące produkcję wina gronowego (i nie dotyczy win owocowych i cydrów)
-- Winiarstwo w Polsce dynamicznie się rozwija, więc jest do czego się porównywać i od kogo się uczyć
-- Sok z winogron wyciska się dość łatwo i mogę to robić jeszcze, gdy na zewnątrz jest przyjemnie. Sok z jabłek wyciska się znacznie trudniej i na ogół najlepiej robić to w zimie
-- Mam warunki, by przeprowadzić cały proces winifikacji na takim poziomie, jak robią to profesjonalni winiarze. Przy cydrze nigdy nie podjąłem się nawet fermentacji metodą francuską
+- Winiarstwo w Polsce dynamicznie się rozwija, więc jest od kogo się uczyć i do czego się porównywać
+- Z drugiej strony setki winnic (w większości małych) oznaczają dużą konkurencję, zwłaszcza przy oczywistych winach w rodzaju Solarisa
+- Sok z winogron wyciska się dość łatwo i mogę to robić jeszcze, gdy na zewnątrz jest przyjemnie
+- Za to jest dużo pracy na wiosnę (przymrozki) i w sezonie (wycinanie pasierbów)
+- Mam warunki, by przeprowadzić cały proces winifikacji na takim poziomie, jak profesjonalni winiarze
 
-Argumenty za cydrem:
+Główne aspekty robienia cydru:
 
 - O ile w tradycyjnych krajach cydrowych cydr cenowo pozycjonuje się na poziomie piwa, to w Polsce cydry rzemieślnicze pozycjonują się na poziomie wina (choć może się to zmienić)
-- W Polsce są już setki winnic (w większości małych), a miejsc skupionych na cydrze — dużo łatwiej się wyróżnić
-- Duża część cydrów rzemieślniczych w Polsce jest średnia, i to pomimo nieprzystającej do tego ceny
+- Niewiele jest w Polsce cydrowni skupionych na produkcie wysokiej jakości — dużo łatwiej się wyróżnić
+- Duża część cydrów rzemieślniczych w Polsce jest średnia, i to pomimo nieprzyzwoicie wysokich cen
+- Sok z jabłek wyciska się znacznie trudniej, czasem nawet trzeba robić to w zimie
+- Za to do zbiorów nie trzeba robić prawie nic
 - Polski klimat jest idealny dla jabłek, w odróżnieniu od winogron, które potrafią przemarznąć na wiosnę lub nie zakumulować wystarczająco dużo cukrów przed zimą
-- Idealny cydr smakuje mi subiektywnie bardziej niż idealne wino (i może nie kosztować miliona monet). Od zawsze lubiłem jabłka
+- Idealny cydr smakuje mi subiektywnie bardziej niż idealne wino (i może nie kosztować miliona monet). Pewnie dlatego, że zawsze lubiłem jabłka
+- Umiem zrobić dobry, zwykły cydr, ale Niektóre warianty produkcji mogą być wymagające, na przykład jeszcze nigdy nie podjąłem się fermentacji metodą francuską, choć nie miałem też odpowiedniego surowca, bo przy polskich jabłkach szanse sukcesu są małe
+
+Rywalizacja jest zacięta, więc prawdopodobnie zadecyduje jakiś drobny szczegół, taki jak nasłonecznienie działki rolnej, jeśli uda mi się jakąś kupić. Bo jeśli nie uda mi się nic kupić, to i tak nie ruszę naprzód, ani z winem, ani z cydrem.
