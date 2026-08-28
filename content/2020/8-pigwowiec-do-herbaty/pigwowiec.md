@@ -37,4 +37,4 @@ Efekt pracy widoczny jest poniżej.
 
 Następnie, po kilku godzinach, powinienem wrócić do tego tematu i zapasteryzować pigwowca w słoiczkach, jednak odłożyłem to zadanie o dwa dni. W efekcie, gdy spróbowałem zawartości, okazało się, że zawartość zaczęła lekko fermentować, i to pomimo znacznej ilości cukru. Pasteryzacja zabije mikroorganizmy przeprowadzające go, ale byłem świadomy, że już istniejący posmak pozostanie. Cóż, może to i dobrze.
 
-Dwa słoiczki, które postanowiłem zużyć w pierwszej kolejności, wypełniłem i schowałem do lodówki, a resztę pasteryzowałem w garnku z gorącą wodą. Szczegóły wykonania tej operacji opisałem [we wpisie na temat powidła]({filename}/1-moje-pierwsze-powidlo/powidlo.md#pasteryzacja). Gotowe słoiki trafiły do piwnicy.
+Dwa słoiczki, które postanowiłem zużyć w pierwszej kolejności, wypełniłem i schowałem do lodówki, a resztę pasteryzowałem w garnku z gorącą wodą. Szczegóły wykonania tej operacji opisałem [we wpisie na temat powidła]({filename}/2020/1-moje-pierwsze-powidlo/powidlo.md#pasteryzacja). Gotowe słoiki trafiły do piwnicy.
