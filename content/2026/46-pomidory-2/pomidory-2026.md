@@ -6,13 +6,13 @@ Summary: Doświadczenia • Usprawnienia • Przebieg sezonu
 PreviewImage: notebook-thumbnail.png
 Status: draft
 
-"To jest dramat" chciałoby się powiedzieć na temat obecnego sezonu warzywnego. Ostatnie lato mnie nie oszczędzało, a miejsce miały wszystkie możliwe plagi.
+„To jest dramat” chciałoby się powiedzieć na temat obecnego sezonu warzywnego. Ostatnie lato mnie nie oszczędzało, a miejsce miały wszystkie możliwe plagi.
 
-W tym roku zdecydowałem się na sianie pomidorków z moich własnych nasion. Ja ani sąsiedzi nie uprawiamy żadnej innej odmiany pomidorów, więc nie było ryzyka krzyżowania, ale nie byłem pewien czy nasiona dadzą radę. Na wszelki wypadek do każdej z wielodoniczek wrzuciłem po dwa nasionka. Skuteczność przekroczyła moje oczekiwania i wyniosła sto procent. Nie chcąc uszkodzić korzeni, zdecydowałem o wycięciu słabszej z każdej pary siewek. W ten sposób w połowie maja dotarłem do punktu, w którym miałem kilka rozsad więcej niż potrzebowałem. Mój cel na bieżący rok to było posadzenie ośmiu pomidorów na identycznej powierzchni, na której rok temu próbowałem posadzić ich dwanaście. Czasem mniej znaczy więcej i liczyłem, że luźniejsze rozmieszczenie pozwoli naturalnie ograniczyć presję zarazy. Swoją drogą nie posadziłem pomidorów w tym samym miejscu co rok temu, ale zbudowałem nową, niższą grządkę podwyższoną tuż obok. Na poprzedniej grządce posadziłem fasolkę szparagową. Do tego jako przedplon na obu grządkach sadziłem rzodkiewekę, szpinak i rulokę. W maju rosły one jeszcze całkiem nieźle, ale musiały ustąpić miejsca pomidorom, bo te są dla mnie absolutnym priorytetem.
+W tym roku zdecydowałem się na sianie pomidorków z moich własnych nasion. Ja ani sąsiedzi nie uprawiamy żadnej innej odmiany pomidorów, więc nie było ryzyka krzyżowania, ale nie byłem pewien czy nasiona dadzą radę. Na wszelki wypadek do każdej z wielodoniczek wrzuciłem po dwa nasionka. Skuteczność przekroczyła moje oczekiwania i wyniosła sto procent. Nie chcąc uszkodzić korzeni, zdecydowałem o wycięciu słabszej z każdej pary siewek. W ten sposób w połowie maja dotarłem do punktu, w którym miałem kilka rozsad więcej niż potrzebowałem. Mój cel na bieżący rok to było posadzenie ośmiu pomidorów na identycznej powierzchni, na której rok temu próbowałem posadzić ich dwanaście. Czasem mniej znaczy więcej i liczyłem, że luźniejsze rozmieszczenie pozwoli naturalnie ograniczyć presję zarazy. Swoją drogą nie posadziłem pomidorów w tym samym miejscu co rok temu, ale zbudowałem nową, niższą grządkę podwyższoną tuż obok. Na poprzedniej grządce posadziłem fasolkę szparagową. Do tego jako przedplon na obu grządkach sadziłem rzodkiewkę, szpinak i rukolę. W maju rosły one jeszcze całkiem nieźle, ale musiały ustąpić miejsca pomidorom, bo te są dla mnie absolutnym priorytetem.
 
 Kolejnym usprawnieniem względem zeszłego roku było rozłożenie linii nawadniającej od samego początku. Została ona podłączona do programowalnego zaworu z dwoma wejściami, aby zadbać o największe nawodnienie pomidorów. Przez praktycznie cały sezon zużywałem 15-20 litrów wody co 3 dni, za wyjątkiem największych upałów, gdy podlewałem je w takiej ilości co 2 dni. Całość grządki wyściółkowałem skoszoną trawą, dzięki czemu nie musiałem pielić jej ani razu.
 
-Wygląda zatem, że szło mi calkiem dobrze, więc skąd te negatywne słowa na początku?
+Wygląda zatem, że szło mi całkiem dobrze, więc skąd te negatywne słowa na początku?
 
 # Problemy
 
@@ -35,7 +35,11 @@ Na początku lipca nadeszły potężne upały (35-37 stopni), zdecydowałem wię
 
 ## Nie warto było robić nic
 
-W połowie lipca nadeszło to, czego nie chciałem, ale czego się spodziewałem. Zaatakowała zaraza ziemniaczana. Cięzko powiedzieć dlaczego, ale prawdopodobnie mokre liście od wschodu + mały przewiew z powodu wycięcia łodyg + niewystarcające cięcia prześwietlające. Tak czy inaczej rozpoczęła się walka. Już dwa tygodnie wcześniej rozpocząłem opryski preparatem IF oraz po raz pierwszy opryskiem HT (oregano i tymianek), ale rozwój choroby pokazał, że profilaktyka nie zdała się na nic. Dlatego też zdecydowałem się na użycie cięzkiej artylerii, zwłaszcza że wciąż było dużo czasu do dojrzewania owoców. Pierwszy zrobiłem oprysk Revusem, a drugi Signum. Warto wspomnieć, że atak zarazy miał miejsce znacznie wcześniej niż rok temu i to pomimo wszystkich podejmowanych przeze mnie działań. W zeszłym roku pomidorom kapało na głowę przez cały sezon, a konkretnej chemii musiałem użyć dopiero pod koniec sierpnia. Dlatego też może wydawać się, że nie warto było robić nic.
+W połowie lipca nadeszło to, czego nie chciałem, ale czego się spodziewałem. Zaatakowała zaraza ziemniaczana. Cięzko powiedzieć dlaczego, ale prawdopodobnie mokre liście od wschodu + mały przewiew z powodu wycięcia łodyg + niewystarcające cięcia prześwietlające. Tak czy inaczej rozpoczęła się walka. Już dwa tygodnie wcześniej rozpocząłem opryski preparatem IF oraz po raz pierwszy opryskiem HT (oregano i tymianek), ale rozwój choroby pokazał, że profilaktyka nie zdała się na nic. Dlatego też zdecydowałem się na użycie ciężkiej artylerii, zwłaszcza że wciąż było dużo czasu do dojrzewania owoców. Pierwszy zrobiłem oprysk Revusem, a drugi Signum. Warto wspomnieć, że atak zarazy miał miejsce znacznie wcześniej niż rok temu i to pomimo wszystkich podejmowanych przeze mnie działań. W zeszłym roku pomidorom kapało na głowę przez cały sezon, a konkretnej chemii musiałem użyć dopiero pod koniec sierpnia. Dlatego też może wydawać się, że nie warto było robić nic.
+
+## Gąsienice
+
+Jakby tego było mało, na początku września w kilku pomidorach zauważyłem dziurki, a ich skórka zrobiła się miększa i lekko pociemniała. Po przecięciu takiego felernego pomidora zauważyłem w środku sporą zieloną gąsienicę. Zobaczymy co dalej.
 
 ## Co w następnym sezonie?
 
@@ -45,13 +49,13 @@ Na pewno nie odpuszczę i będę usprawniał dalej. Zmiany względem bieżącego
 Zbuduję stałą konstrukcję z drewna, która będzie przygotowana na wieszanie zadaszenia z folii, potencjalnie także zasłaniania folią ścian bocznych. Rusztowanie na dach musi mieć co najmniej kilkustopniowy spadek, żeby folia mogła pozostać naciągnięta i nie zbierała wody. Być może dodam do tego rynienkę, aby zbierać deszczówkę i odprowadzać ją do beczki z deszczówką używaną do linii kroplującej. Obrys dachu musi być co najmniej kilkanaście centrymetrów większy niż grządka, żeby deszcz mniej zacinał.
 
 2. paliki
-Tak jak wspominałem, wrócę do palików. Zadbam tylko, żeby były ze sobą jakoś powiązane, żeby zachować oczekiwany dystans między pomidorami.
+Tak jak wspominałem, wrócę do palików. Zadbam tylko, żeby były ze sobą jakoś powiązane, żeby zachować oczekiwany dystans między pomidorami. Sznurki kompletnie się nie sprawdziły i niemalże doprowadziły do wyrwania wszystkich pomidorów, więc tego nie powtórzę.
 
 3. 
 
 # Donica
 
-Uprawa pomidorów na działce nie była jedynym sposobem uprawy. Poza nimi miałem także dwa pomidory posadzone w donicach. One z kolei udały się idealnie. Konieczne było co prawda podlewanie ich dwa razy dziennie w największe upały, ale odwdzięczyły się dużą ilością pięknych owoców. Z uwagi na ich niesamowicie szybki wzrost musiałem ogławiać je przy wysokości 180 cm już w połowie lipca. Jedyną ich bolączką była zgnilizna wierzchołkowa, na którą San Marzano jest bardzo podatne. Ani częste opryski saletrą wapniową, ani częste podlewanie okazały się niewystarczające. Planowanym usprawnieniem na przyszły rok jest użycie donic 20L zamiast obecnych 10L. Nic więcej nie zdołam już poprawić.
+Grządka pomidorów na działce nie była jedynym sposobem uprawy. Poza nimi miałem także dwa pomidory posadzone w dziesięciolitrowych donicach. One z kolei udały się idealnie. Konieczne było co prawda podlewanie ich dwa razy dziennie w największe upały, ale odwdzięczyły się dużą ilością pięknych owoców. Z uwagi na ich niesamowicie szybki wzrost musiałem ogławiać je przy wysokości 180 cm już w połowie lipca. Jedyną ich bolączką była zgnilizna wierzchołkowa, na którą San Marzano jest bardzo podatne. Ani częste opryski saletrą wapniową, ani częste podlewanie okazały się niewystarczające. Na szczęście straciłem przy tym tylko trzy owoce. Planowanym usprawnieniem na przyszły rok jest użycie donic 20 L zamiast obecnych 10. Nic więcej nie zdołam już poprawić.
 
 Używałem dokładnie tych samych klipsów i opasek co przy pomidorach na działce, ale prowadzenie ich przy sztywnej podporze w bezpiecznym od wiatru miejscu sprawiło, że nie było żadnego problemu z otarciami.
 

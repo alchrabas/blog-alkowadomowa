@@ -4,6 +4,7 @@ Category: wino
 Tags: wino, działka
 Summary: Wybór odmian • Pierwsza zima • Wino czy cydr?
 PreviewImage: notebook-thumbnail.png
+Status: draft
 
 Pierwsze cztery lata od zakupu działki poświęciłem na prace budowlane. Dlatego też starałem się nie dokładać sobie w tym czasie roboty. Brakowało mi też wiedzy i umiejętności, by podejmować w pełni świadome decyzje ogrodnicze.
 

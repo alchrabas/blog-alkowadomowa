@@ -5,13 +5,15 @@ Tags: wino, działka
 Summary: Wykres • Chronologia wydarzeń • Wnioski
 PreviewImage: piwniczka.jpg
 
-Jest to kolejny temat, do którego wracam po latach. Poprzednio opisywałem budowę piwniczki-ziemianki i temperatury w niej do końca 2023 roku. [Tutaj opowiadający o tym wpis]({filename}/2023/25-piwniczka-na-wina-pomiary-temperatury/piwniczka-na-wina.md). Minęło trochę czasu, a ja kontynuuję zbieranie temperatur zarówno na zewnątrz, jak i w piwniczce, więc dysponuję już danymi z kilku pełnych sezonów (ponad 33 tysiące pomiarów na każdym z termometrów). Pozwala mi to analizować sytuację i wprowadzać kolejne zmiany.
+![]({attach}piwniczka.jpg)
+
+Jest to kolejny temat, do którego wracam po latach. Poprzednio opisywałem budowę piwniczki-ziemianki i temperatury w niej do końca 2023 roku. [Tutaj opowiadający o tym wpis]({filename}/2023/25-piwniczka-na-wina-pomiary-temperatury/piwniczka-na-wina.md). Minęło trochę czasu, przybyło butelek, a ja kontynuuję zbieranie temperatur zarówno na zewnątrz, jak i w piwniczce, więc dysponuję już danymi z kilku pełnych sezonów (ponad 33 tysiące pomiarów na każdym z termometrów). Pozwala mi to analizować sytuację i wprowadzać kolejne zmiany.
 
 # Schemat otoczenia ziemianki
 
-Otoczenie ziemianki prezentuje się obecnie (jesień 2026) mniej więcej tak. Więcej szczegółów o zmianach w jej otoczeniu w sekcji Chronologia Wydarzeń.
+Otoczenie ziemianki prezentuje się obecnie (jesień 2026) mniej więcej tak. Więcej szczegółów o zmianach w jej otoczeniu w sekcji [Chronologia Wydarzeń](#chronologia-wydarzen).
 
-![Obecny schemat otoczenia ziemianki. Mój rysunek poładniony przez AI]({attach|schemat-wokol-ziemianki.png)
+![Obecny schemat otoczenia ziemianki. Mój rysunek pokolorowany przez AI]({attach|schemat-wokol-ziemianki.png)
 
 # Wykres temperatur
 
