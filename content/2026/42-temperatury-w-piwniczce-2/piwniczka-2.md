@@ -17,7 +17,17 @@ Otoczenie ziemianki prezentuje się obecnie (jesień 2026) mniej więcej tak. Wi
 
 # Wykres temperatur
 
-Poniżej można zobaczyć pełny wykres temperatur. Jako że danych jest tak dużo, że ciężko pokazać je na jednym ekranie, poniżej możliwe jest bezpośrednie otwarcie obrazu w dużej rozdzielczości. Tak czy inaczej, warto robić to na dużym monitorze.
+Poniżej temperatury min, max i średnia krocząca z tygodnia dla każdego dnia pomiarów. Średnia wychodzi zwykle pomiędzy minimum a maksimum, co wystarczy mi, by uznać ją za bardzo wiarygodną.
+
+Jako że danych jest tak dużo, że ciężko pokazać je na jednym ekranie, poniżej możliwe jest bezpośrednie otwarcie obrazu w dużej rozdzielczości. Tak czy inaczej, warto robić to na dużym monitorze.
+
+![Minimalne, maksymalne i uśrednione temperatury każdego dnia 2022-2026]({attach}temperatury-na-zewnatrz.png)
+
+[Link bezpośredni do wykresu]({attach}temperatury-na-zewnatrz.png)
+
+Posiadając już pewne przekonanie, że średnia krocząca jest wiarygodna, przedstawię temperaturę zewnętrzną na kolejnym wykresie za jej pomocą. W innym wypadku wykres byłby bardzo nieczytelny.
+
+Poniżej można zobaczyć pełny wykres temperatur na zewnątrz i w piwniczce.
 
 ![Wykres temperatur między 2022 a 2026 rokiem]({attach}wykres-temperatur.png)
 

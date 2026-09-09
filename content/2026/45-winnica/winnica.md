@@ -3,8 +3,7 @@ Date: 2026-09-07 19:00:00
 Category: wino
 Tags: wino, działka
 Summary: Wybór odmian • Pierwsza zima • Wino czy cydr?
-PreviewImage: notebook-thumbnail.png
-Status: draft
+PreviewImage: owoce-seyval-blanc.jpg
 
 Pierwsze cztery lata od zakupu działki poświęciłem na prace budowlane. Dlatego też starałem się nie dokładać sobie w tym czasie roboty. Brakowało mi też wiedzy i umiejętności, by podejmować w pełni świadome decyzje ogrodnicze.
 
@@ -101,16 +100,20 @@ Starałem się uniknąć konieczności pielenia, a nie chciałem też wykładać
 
 Co prawda pisałem, że nie chciałem owoców w drugim roku, ale pozostawiłem po jednym gronie na najlepszych sztukach każdej z białych odmian. Spodziewałem się, że winogrona przerobowe będą smakować średnio, a okazały się całkiem dobre.
 
-Pomiar cukru 07.09.2026:
+![Jedyne grono Seyval Blanc]({attach}owoce-seyval-blanc.jpg)
 
-| Owoc                  | Wartość Blg |
-|-----------------------|-------------|
-| Seyval Blanc          | 21,2        |
-| Solaris               | 20,3        |
-| Labrusca od południa  | 19          |
-| Labrusca od północy   | 16          |
+## Pomiar cukru 07.09.2026
 
-![Tak wygląda pomiar cukru z kropli soku przy użyciu refraktometru]({attach}pomiar-refraktometrem.jpg)
+| Odmiana              | Wartość Blg |
+|----------------------|-------------|
+| Seyval Blanc         | 21,2        |
+| Solaris              | 20,3        |
+| Labrusca od południa | 19          |
+| Labrusca od północy  | 16          |
+
+1 września (6 dni przed powyższym pomiarem cukru) SAT wynosiła 2235.
+
+![Pomiar cukru z kropli soku przy użyciu refraktometru]({attach}pomiar-refraktometrem.jpg)
 
 Obserwacja, że hybrydy mają wyższy cukier niż Labrusca, są w pełni zgodne z moimi oczekiwaniami. Zaskakujące jest jednak, że Solaris (znany z wysokiego poziomu cukru) zebrał go mniej niż Seyval Blanc. Rozważałem pomyłkę przy oznaczaniu próbek, ale smakowa ocena kwasu zanegowała to podejrzenie — Solaris miał go dużo mniej niż Seyval Blanc, czyli tak jak powinno być. Może niewielkie różnice nasłonecznienia w drugim roku miały wystarczający wpływ, by wyszło jak wyszło? Ostatecznie różnice te są minimalne.
 
