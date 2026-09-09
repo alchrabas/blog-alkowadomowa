@@ -1,11 +1,11 @@
 Title: Temperatury w piwniczce 2022-2026
-Date: 2026-09-04 20:00:00
+Date: 2026-09-09 15:00:00
 Category: wino
 Tags: wino, działka
 Summary: Wykres • Chronologia wydarzeń • Wnioski
-PreviewImage: notebook-thumbnail.png
+PreviewImage: piwniczka.jpg
 
-Jest to kolejny temat, do którego wracam po latach. Poprzednio opisywałem budowę piwniczki-ziemianki i temperatury w niej do końca 2023 roku. [Tutaj opowiadający o tym wpis]({filename}/2023/25-piwniczka-na-wina-pomiary-temperatury/piwniczka-na-wina.md). Minęło trochę czasu, a ja kontynuuję zbieranie temperatur zarówno na zewnątrz, jak i w piwniczce, więc dysponuję już danymi z kilku pełnych sezonów (ponad 33 tysiące pomiarów na każdym w termometrów). Pozwala mi to analizować sytuację i wprowadzać kolejne zmiany.
+Jest to kolejny temat, do którego wracam po latach. Poprzednio opisywałem budowę piwniczki-ziemianki i temperatury w niej do końca 2023 roku. [Tutaj opowiadający o tym wpis]({filename}/2023/25-piwniczka-na-wina-pomiary-temperatury/piwniczka-na-wina.md). Minęło trochę czasu, a ja kontynuuję zbieranie temperatur zarówno na zewnątrz, jak i w piwniczce, więc dysponuję już danymi z kilku pełnych sezonów (ponad 33 tysiące pomiarów na każdym z termometrów). Pozwala mi to analizować sytuację i wprowadzać kolejne zmiany.
 
 # Schemat otoczenia ziemianki
 
@@ -25,7 +25,7 @@ Poniżej można zobaczyć pełny wykres temperatur. Jako że danych jest tak du�
 
  - niebieski — temperatura w piwnicy
  - zielony — średnia krocząca temperatury zewnętrznej (wyliczana na podstawie średniej tygodniowej), aby uśrednić różnice między dniem i nocą
- - fioletowy — współczynnik ciepła — stosunek między zmianą temperatury w piwniczce a różnicą temperatury między piwniczką a temperaturą zewnętrzną. Innymi słowy — im wyższa, tym szybciej upał wchodzi do wnętrza piwniczki (i analogicznie zimno w zimie). W normalnych warunkach powinno być dodatnie, gdy temperatura w piwniczce idzie w kierunku temperatury zewnętrznej
+ - fioletowy — współczynnik ciepła — stosunek między zmianą temperatury w piwniczce a różnicą temperatury między piwniczką a temperaturą zewnętrzną. Innymi słowy — im współczynnik wyższy, tym szybciej upał wchodzi do wnętrza piwniczki (i analogicznie zimno w zimie). W normalnych warunkach powinien być dodatni, gdy temperatura w piwniczce idzie w kierunku temperatury zewnętrznej. Chciałbym, żeby był jak najbliższy zera
 
 ## Artefakty
 
@@ -36,25 +36,25 @@ Poniżej można zobaczyć pełny wykres temperatur. Jako że danych jest tak du�
 
 ## 2023
 
-Front piwniczki ukończony został w połowie roku 2023. Wtedy też wstawiłem drzwi i 3 lipca 2023 zakończyłem uzupełnianie ich izolacji (5 cm styroduru + pokrycie deską sosnową z obu stron).
+Front piwniczki ukończony został w połowie roku 2023. Wtedy też wstawiłem drzwi i 1 lipca 2023 zakończyłem uzupełnianie ich izolacji (5 cm styroduru + pokrycie deską sosnową z obu stron).
 
-Ogólnie rok nie był dla piwniczki zły, i to pomimo kończenia prac, gdy było już ciepło. Temperatura w środku wzrastała aż do 17 st, ale zakładałem, że w kolejnych latach będzie tylko lepiej. Jedynym problemem, z którym zupełnie nie zdołałem sobie poradzić była wzrastająca wilgotność (do 80 stopni) i, co za tym idzie, pleśń.
+Ogólnie rok nie był dla piwniczki zły, i to pomimo kończenia prac, gdy było już ciepło. Temperatura w środku wzrastała aż do 17°C, ale zakładałem, że w kolejnych latach będzie tylko lepiej. Jedynym problemem, z którym zupełnie nie zdołałem sobie poradzić, była wzrastająca wilgotność (do 80 procent) i, co za tym idzie, pleśń.
 
 ## 2024
 
-Bardzo optymistycznie nastawiony bylem do roku 2024, gdy wszystko powinno być już idealnie, a temperatura nigdy nie powinna przekroczyć 15 stopni. 
+Bardzo optymistycznie nastawiony bylem do roku 2024, gdy wszystko powinno być już idealnie, a temperatura nigdy nie powinna przekroczyć 15°C. 
 
-Aby walczyć z wilgocią, wiosną przywiozłem do ziemianki elektryczny osuszacz oparty o ogniwo Peltiera. Dopiero po dłuższym czasie nienadzorowanego działania zauważyłem, że są z nim dwa ogromne problemy. Po pierwsze nie działa, bo, pracując w stosunkowo niskiej temperaturze, szybko osadza się na nim lód, co drastycznie obniżało wydajność działania.
+Aby walczyć z wilgocią, wiosną przywiozłem do ziemianki elektryczny osuszacz oparty o ogniwo Peltiera. Dopiero po dłuższym czasie nienadzorowanego działania zauważyłem, że są z nim dwa ogromne problemy. Po pierwsze nie działał, bo, pracując w stosunkowo niskiej temperaturze, szybko osadzał się na nim lód, co drastycznie obniżało wydajność działania.
 
-Po drugie generuje ogromne ilości ciepła. Pobierał 25W, więc jeśli większość tej energii zmieniała się w ciepło, to oznaczało to, że przez kilka tygodni miałem w ziemiance włączony dodatkowy grzejnik. Niezależnie od tego warto pamiętać, że samo skraplanie wody z powietrza musi, według praw fizyki, powodować wydzielanie ciepła do układu. Jeśli nie uda się odprowadzić tego ciepła gdzie indziej, to zawsze będzie ogrzewać ziemiankę. W przypadku elektrycznego osuszacza istotne jest, że proces ten jest bardzo mało wydajny, więc ilość ciepła jest zwielokratniana.
+Po drugie generuje ogromne ilości ciepła. Pobierał 25 W, więc jeśli większość tej energii zmieniała się w ciepło, to oznaczało to, że przez kilka tygodni miałem w ziemiance włączony dodatkowy grzejnik. Niezależnie od tego warto pamiętać, że samo skraplanie wody z powietrza musi, według praw fizyki, powodować wydzielanie ciepła do układu. Jeśli nie uda się odprowadzić tego ciepła gdzie indziej, to zawsze będzie ogrzewać ziemiankę. W przypadku elektrycznego osuszacza istotne jest, że proces ten jest bardzo mało wydajny, więc ilość ciepła jest zwielokratniana.
 
-Aby jakoś walczyć z tym problemem, ale nie nagrzewać tak bardzo piwniczki, wstawiłem zamiast tego cztery osuszacze chemiczne wypełnione higroskopijną solą. Zbierają wilgoć zdecydowanie wolniej, ale przynajmniej nie dokładają więcej ciepła, niż to konieczne. Co więcej, w sezonie wiosennym i letnim, gdy wilgotność drastycznie rośnie, raz na dwa-trzy tygodnie ozonuję pomieszczenie. Ciężko powiedzieć na ile na drastycznie wysoką temperaturę w ziemiance (do 19 stopni!) wpłynął osuszacz, a na ile wyjątkowo gorące lato. Być może odpowiedź będzie stanowić rok 2026, w którym też było bardzo gorąco.
+Aby jakoś walczyć z tym problemem, ale nie nagrzewać tak bardzo piwniczki, wstawiłem zamiast tego cztery osuszacze chemiczne wypełnione higroskopijną solą. Zbierają wilgoć zdecydowanie wolniej, ale przynajmniej nie dokładają więcej ciepła, niż to konieczne. Co więcej, w sezonie wiosennym i letnim, gdy wilgotność drastycznie rośnie, raz na dwa-trzy tygodnie ozonuję pomieszczenie. Ciężko powiedzieć na ile na drastycznie wysoką temperaturę w ziemiance (do 19 stopni!) wpłynął elektryczny osuszacz, a na ile wyjątkowo gorące lato. Być może odpowiedzią będzie rok 2026, w którym też było bardzo gorąco.
 
 ## 2025
 
 Lato roku 2025 było stosunkowo chłodne. Nie działo się w piwniczce zbyt wiele ciekawych rzeczy, ale cały czas działałem w kierunku zmniejszenia wpływu upałów i słońca na temperaturę w środku. Między innymi obsadziłem południowy stok ziemianki roślinami, które powinny urosnąć wysoko i częściowo zasłonić ją przed słońcem. Do tego na szczycie posadziłem pigwowca, by zasłonić komin wentylacyjny. Idzie mu ciężko, bo, mimo odporności na suszę, warunki na szczycie są ekstremalne i muszę go regularnie podlewać, aby nie uschnął.
 
-Przed nasypem postawiłem drewniany trejaż w orientacji wschód-zachód, by pięły się po niej winorośle Léon Millot (o których w innym wpisie) i również zacieniały stok. Niestety widziałem już w praktyce, że dwumetrowa konstrukcja z winoroślami daje w czerwcu bardzo mały cień. Jako że w czerwcu kąt padania słońca to około 60 stopni, to, bez bawienia się w sinusy, można wyliczyć, że winorośl zasłania pas jedynie około 115 cm powierzchni. Niewiele, ale większe zacienienie na wiosnę też powinno wiązać się z kilkoma dżulami mniej, więc może jakoś tam pomoże.
+Przed nasypem postawiłem drewniany trejaż w orientacji wschód-zachód, by pięły się po nim winorośle Léon Millot (o których w innym wpisie) i również zacieniały stok. Niestety widziałem już w praktyce, że dwumetrowa konstrukcja z winoroślami daje w czerwcu bardzo mały cień. Jako że w czerwcu kąt padania słońca to około 60 stopni, to, bez bawienia się w sinusy, można wyliczyć, że winorośl zasłania pas jedynie około 115 cm powierzchni. Niewiele, ale większe zacienienie na wiosnę też powinno wiązać się z kilkoma dżulami mniej, więc może jakoś tam pomoże.
 
 ## 2026
 
@@ -78,7 +78,7 @@ Skoki wilgotności i ryzyko pleśnienia piwniczki stanowią niemiłe zaskoczenie
 
 ## Temperatura
 
-Temperatura w zimie jest całkowicie zadowalająca. Nie ma żadnego ryzyka zamarzania zawartości. Jednakże w lecie sytuacja wygląda zupełnie inaczej — potrafi wzrosnąć do 17, a czasem nawet powyżej 18 stopni. Myślałem, że zagłębienie na mniej więcej połowę głębokości i wykonanie nasypu rozwiąże ten problem. Okazuje się jednak, że zarośnięty nasyp wciąż przepuszcza duże ilości ciepła.
+Temperatura w zimie jest całkowicie zadowalająca. Nie ma żadnego ryzyka zamarzania zawartości. Jednakże w lecie sytuacja wygląda zupełnie inaczej — potrafi wzrosnąć do 17°C, a czasem nawet powyżej 18°C. Myślałem, że zagłębienie na mniej więcej połowę głębokości i wykonanie nasypu rozwiąże ten problem. Okazuje się jednak, że zarośnięty nasyp wciąż przepuszcza duże ilości ciepła.
 
 ## Wentylacja
 

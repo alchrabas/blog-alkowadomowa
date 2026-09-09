@@ -105,15 +105,19 @@ Pomiar cukru 07.09.2026:
 | Owoc                  | Wartość Blg |
 |-----------------------|-------------|
 | Seyval Blanc          | 21,2        |
-| Solaris               | 20,5        |
+| Solaris               | 20,3        |
 | Labrusca od południa  | 19          |
 | Labrusca od północy   | 16          |
+
+![Tak wygląda pomiar cukru z kropli soku przy użyciu refraktometru]({attach}pomiar-refraktometrem.jpg)
+
+Obserwacja, że hybrydy mają wyższy cukier niż Labrusca, są w pełni zgodne z moimi oczekiwaniami. Zaskakujące jest jednak, że Solaris (znany z wysokiego poziomu cukru) zebrał go mniej niż Seyval Blanc. Rozważałem pomyłkę przy oznaczaniu próbek, ale smakowa ocena kwasu zanegowała to podejrzenie — Solaris miał go dużo mniej niż Seyval Blanc, czyli tak jak powinno być. Może niewielkie różnice nasłonecznienia w drugim roku miały wystarczający wpływ, by wyszło jak wyszło? Ostatecznie różnice te są minimalne.
 
 Poza moimi białymi odmianami zmierzyłem też poziom cukru w dzikiej winorośli obrastającej starą stodołę — oddzielnie z południowej i północnej (zacienionej) strony. Różnice są zauważalne.
 
 # Przyszłość
 
-Cały czas nie jestem pewien czy chcę iść bardziej w kierunku wina, czy cydru. W tej chwili mam trzydzieści krzaków winorośli i trzy jabłonie cydrowe. Do tego kilka innych jabłoni i dostęp do dobrego soku jabłkowego, więc sprawa jest otwarta. Brakuje mi już miejsca na dosadzanie drzew, więc jeśli nie uda mi się kupić ziemi w okolicy, to będę musiał zagęszczać sad. Winorośle zdołam jeszcze wcisnąć gdzieś wzdłuż ogrodzenia. Najpierw jednak muszę zdecydować, czy chcę to robić.
+Cały czas nie jestem pewien czy chcę iść bardziej w kierunku wina, czy cydru. W tej chwili mam trzydzieści krzaków winorośli i trzy jabłonie cydrowe. Do tego kilka innych jabłoni i dostęp do dobrego soku jabłkowego, więc sprawa jest otwarta. Brakuje mi już miejsca na dosadzanie drzew, więc jeśli nie uda mi się kupić ziemi w okolicy, to będę musiał zagęszczać sad. Winorośle zdołam jeszcze wcisnąć gdzieś wzdłuż ogrodzenia. Najpierw jednak muszę zdecydować, czy w ogóle chcę to robić.
 
 Przeanalizowałem plusy i minusy obu tych ścieżek hobbystycznej kariery i wyszło mi to następująco.
 
@@ -126,6 +130,7 @@ Główne aspekty produkcji wina:
 - Sok z winogron wyciska się dość łatwo i mogę to robić jeszcze, gdy na zewnątrz jest przyjemnie
 - Za to jest dużo pracy na wiosnę (przymrozki) i w sezonie (wycinanie pasierbów)
 - Mam warunki, by przeprowadzić cały proces winifikacji na takim poziomie, jak profesjonalni winiarze
+- Praca w winnicy może być interesująca i angażująca dla innych, np. winobranie, butelkowanie
 
 Główne aspekty robienia cydru:
 
@@ -137,5 +142,6 @@ Główne aspekty robienia cydru:
 - Polski klimat jest idealny dla jabłek, w odróżnieniu od winogron, które potrafią przemarznąć na wiosnę lub nie zakumulować wystarczająco dużo cukrów przed zimą
 - Idealny cydr smakuje mi subiektywnie bardziej niż idealne wino. Pewnie dlatego, że zawsze lubiłem jabłka
 - Umiem zrobić dobry, zwykły cydr, ale niektóre warianty mogą być wymagające. Na przykład jeszcze nigdy nie podjąłem się fermentacji metodą francuską, choć nie miałem też odpowiedniego surowca, bo przy polskich jabłkach szanse sukcesu są małe
+- Zbiór jabłek i produkcja cydru wzbudza mniejsze zainteresowanie osób, które potencjalnie mogłyby mi przy tym pomóc
 
 Rywalizacja jest zacięta, więc prawdopodobnie zadecyduje jakiś drobny szczegół, taki jak nasłonecznienie nowej działki rolnej, jeśli uda mi się jakąś kupić. Bo jeśli się nie uda, to i tak nie ruszę naprzód, ani z winem, ani z cydrem.
