@@ -31,7 +31,7 @@ To było bardzo leniwe piwo, bo stwierdziłem, że skoro i tak nie używam do te
 - 33 g Saaz na 15 minut
 - 22 g Saaz na 0 minut
 
-Wynik: 23L brzeczki 11 Blg
+Wynik: 23 L brzeczki 11 Blg
 
 Fermentacja: Kveik Lutra (11 g) w temperaturze około 24°C
 
@@ -77,7 +77,7 @@ Do tego dodałem stosunkowo dużo słodu pszenicznego, bo lubię piwa pszeniczne
 - 15 g Citra ~12% α na 0 minut
 - 50 g pędów sosny na 0 minut
 
-Wynik: 17-18L brzeczki 11 Blg
+Wynik: 17-18 L brzeczki 11 Blg
 
 Fermentacja: US-05 (11g) w temperaturze 18°C przez trzy tygodnie
 
@@ -106,18 +106,53 @@ Cała operacja jest dość skomplikowana i zacząłem planować ją już rok wcz
 - 10 g Magnum na 60 minut
 - 28 g Lubelski na 10 minut
 
-Wynik: 18,5L brzeczki 13 Blg (wydajność tylko ~60%, muszę zmniejszyć warki albo zwiększyć gar)
+Wynik: 18,5 L brzeczki 13 Blg (wydajność tylko ~60%, muszę zmniejszyć warki albo zwiększyć gar)
 
-Fermentacja: 2x Fermentis Saflager W34/70 w temperaturze 8,5-12°C
+Fermentacja: 2 x Fermentis Saflager W34/70 w temperaturze 8,5-12°C
 
-Po trzech tygodniach zlane znad osadu i wstawione do chłodni na 6 tygodni.
+### Leżakowanie
+
+Po trzech tygodniach zlane znad osadu i wstawione do chłodni na 6 tygodni. Po tym czasie zabutelkowałem całość i połowę wstawiłem do piwnicy na działce (o temperaturze około 16 stopni), a drugą połowę przywiozłem do piwnicy w bloku, gdzie temperatura w najgorętszych okresach lata dobijała do 20 stopni. Wpływ tej temperatury okazał się dość istotny, przez co piwo w cieplejszej piwnicy nabrało aromatów owocowo-estrowych. Przy lagerze mi na tym akurat nie zależało, ale co zrobić.
 
 # Saison
 
+Myślę, że to trochę mniej znany styl, więc zacznę od kilku słów na jego temat. Jest to belgijskie piwo, które w lecie pijali robotnicy w gospodarstwach rolnych. W odbiorze powinno być owocowe, chmielowe i ziołowe. Oryginalnie miało około 5%, ale obecna interpretacja stylu ma zwykle 6-7% alkoholu. Piłem piwo w tym stylu tylko raz i jakoś mnie nie urzekło, ale ma istotną cechę, na której mi zależy: powinno, zwłaszcza w swojej mocniejszej wersji, stosunkowo dobrze nadawać się do trzymania w beczce. Daje to szansę uzyskania ciekawych, nowych dla mnie aromatów.
 
+Jako że zakwalifikowałem je jako ponadprzeciętnie istotne dla mnie piwo, to zrobiłem tym razem pełne zacieranie z filtracją przez złoże i wysładzaniem. Z drugiej strony nieco uzupełniłem przepis ekstraktem słodowym i maltodekstryną, żeby na pewno nie brakło procentów, które mogą być istotne dla dobrego przechowywania tego piwa w drewnie.
+
+### Zasyp
+
+- 3,8 kg słodu pilzneńskiego
+- 0,7 kg słodu pszenicznego
+- 0,4 kg słodu Vienna
+- 0,3 kg jasnego LME (dodany do gotowania, nie do zacierania)
+- 0,15 kg maltodekstryny (dodana do gotowania)
+- 10 ml kwasu fosforowego
+
+### Zacieranie z filtracją
+
+- 60 minut w 65°C
+- 10 minut w 72°C
+- 5 minut w 78°C (mashout)
+
+### Chmielenie
+
+- 12 g Magnum na 60 minut
+- 25 g Saaz na 15 minut
+- 18 g Hallertauer Tradition na 10 minut
+- 15 g Saaz + 15 g Hallertauer Tradition na flameout
+- 5 g mech irlandzki na 15 minut
+
+Wynik: 21L brzeczki 15 Blg
+
+Fermentacja: 2 x Fermentis BE-134 (11 g) w temperaturze 24°C
+
+### Leżakowanie
+
+beczka x tygodni
 
 # Podsumowanie
 
-Najbardziej brakuje mi w tej chwili jakiegoś bardzo nisko alkoholowego lub prawie bezalkoholowego lekkiego piwa na lato.
+Najbardziej brakuje mi w tej chwili jakiegoś nisko alkoholowego lub prawie bezalkoholowego, lekkiego piwa na lato. Nadeszła już jesień, więc nie jest to aż tak pilne, jak dotychczas, ale niższe temperatury dają większe możliwości zacierania na zimno. 
 
-Kolejnym kierunkiem moich działań będzie skupienie się na minimalizacji wysiłku i maksymalizacji wrażeń smakowych przy 
+Kolejnym kierunkiem moich działań będzie skupienie się na maksymalizacji wrażeń zmysłowych przy jednoczesnej minimalizacji wysiłku.
