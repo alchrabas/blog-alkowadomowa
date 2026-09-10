@@ -5,7 +5,7 @@ Tags: działka
 Summary: kokony • większy domek • przeprowadzka do miasta • wiosna • plany
 PreviewImage: domek-preview.jpg
 
-Zeszłoroczny artykuł do przeczytania [tutaj]({filename}/22-pszczoly/pszczoly.md).
+Zeszłoroczny artykuł do przeczytania [tutaj]({filename}/2023/22-pszczoly/pszczoly.md).
 
 Po pierwszym pracowitym roku nadszedł czas na sequel serialu „Murarki”. I to w podwójnej dawce.
 

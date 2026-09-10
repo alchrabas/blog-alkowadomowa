@@ -9,7 +9,7 @@ Pizzę lubię od zawsze, ale nie od zawsze myślałem o samodzielnym jej wykonyw
 
 Gdy mnie to naszło, to zacząłem powolutku. Najpierw gotowy spód ciasta i dołożenie składników, później dopiero próba samodzielnego wykonania ciasta. Pierwsze podejście było pizzą na zakwasie, która wyszła... dziwnie. W sumie w smaku była w porządku, ale niemożliwym było traktować ją w kategorii wrażenia estetycznego. Chętni mogą odkopać zdjęcie na Instagramie, ale nie warto.
 
-Później, w okolicach lipca 2023, aby umilić sobie pracę przy zacieraniu słodu na piwo, upiekłem produkt pizzopodobny. Największą zaletą przedsięwzięcia było uświadomienie sobie co jest do poprawy. Moje perypetie opisałem w [poprzednim wpisie]({filename}/27-piwo-i-pizza/piwo-i-pizza.md) na blogu.
+Później, w okolicach lipca 2023, aby umilić sobie pracę przy zacieraniu słodu na piwo, upiekłem produkt pizzopodobny. Największą zaletą przedsięwzięcia było uświadomienie sobie co jest do poprawy. Moje perypetie opisałem w [poprzednim wpisie]({filename}/2023/27-piwo-i-pizza/piwo-i-pizza.md) na blogu.
 
 Początkowe niepowodzenie nie zmienia nic poza jeszcze większym motywowaniem mnie do dalszego działania. Już wkrótce postęp prac na działce sprawił, że miałem czas i możliwości zrobić porządne ognisko, na którym dałoby się upiec pizzę lepiej niż w piekarniku.
 
@@ -31,7 +31,7 @@ Drugi niezbędny przedmiot, czyli kamień do pizzy, dostałem w prezencie.
 
 # Przygotowania
 
-Tydzień przed dniem zero przeprowadziłem pierwszą próbę. 24 godziny wcześniej przygotowałem ciasto, które w postaci kulek umieściłem w [__chłodnej piwniczce__]({filename}/25-piwniczka-na-wina-pomiary-temperatury/piwniczka-na-wina.md). Później rozciągnięcie ciasta, wyłożenie składników i pieczenie. 
+Tydzień przed dniem zero przeprowadziłem pierwszą próbę. 24 godziny wcześniej przygotowałem ciasto, które w postaci kulek umieściłem w [__chłodnej piwniczce__]({filename}/2023/25-piwniczka-na-wina-pomiary-temperatury/piwniczka-na-wina.md). Później rozciągnięcie ciasta, wyłożenie składników i pieczenie. 
 
 ![Stanowisko pieczenia pizzy]({attach}pre-pizza-w-mroku.jpg)
 

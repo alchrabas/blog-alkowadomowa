@@ -4,7 +4,7 @@ Category: nalewki
 Tags: nalewki, eksperymenty
 Summary: zbieranie danych • chwila grozy • ocena smaku • wyniki • wnioski
 
-[Jakiś czas temu (w lipcu 2021)]({filename}/21-nalewka-na-trzy-sposoby/trzy-sposoby.md) rozpocząłem eksperyment dotyczący różnych metod produkcji nalewek wiśniowych. Testowałem tam następujące kolejności dodawania (takich samych) składników:
+[Jakiś czas temu (w lipcu 2021)]({filename}/2022/21-nalewka-na-trzy-sposoby/trzy-sposoby.md) rozpocząłem eksperyment dotyczący różnych metod produkcji nalewek wiśniowych. Testowałem tam następujące kolejności dodawania (takich samych) składników:
 
 A — najpierw spirytus, później cukier do odcedzonych owoców  
 B — najpierw cukier, później dolany spirytus  
