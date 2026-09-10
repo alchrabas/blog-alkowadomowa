@@ -1,5 +1,5 @@
 Title: Zakładanie mikrowinnicy
-Date: 2026-09-07 19:00:00
+Date: 2026-09-10 19:00:00
 Category: wino
 Tags: wino, działka
 Summary: Wybór odmian • Pierwsza zima • Wino czy cydr?
@@ -7,20 +7,20 @@ PreviewImage: owoce-seyval-blanc.jpg
 
 Pierwsze cztery lata od zakupu działki poświęciłem na prace budowlane. Dlatego też starałem się nie dokładać sobie w tym czasie roboty. Brakowało mi też wiedzy i umiejętności, by podejmować w pełni świadome decyzje ogrodnicze.
 
-Dlatego dopiero w 2025 roku nadeszła chwila, by posadzić winorośl. Nie byłem do tego przekonany od początku i chciałem najpierw zobaczyć jak będę radził sobie z wymagającymi mniejszej uwagi drzewami owocowymi. Czas ten był bardzo pożyteczny i pozwolił po pierwsze przekonać się, że dam radę, a także podjąć właściwsze decyzje co do rodzaju i umiejscowienia pierwszych sadzonek winorośli. 
+Dlatego dopiero na wiosnę 2025 roku nadeszła chwila, by posadzić winorośl. Nie byłem do tego przekonany od początku i chciałem najpierw zobaczyć jak będę radził sobie z wymagającymi mniejszej uwagi drzewami owocowymi. Czas ten był bardzo pożyteczny i pozwolił po pierwsze przekonać się, że dam radę, a także podjąć właściwsze decyzje co do rodzaju i umiejscowienia pierwszych sadzonek winorośli. 
 
 Jest to zgodne z moim długoterminowym planem poszerzania zakresu zainteresowań w dziedzinie domowych alkoholi.
 
-Dotychczas zdarzyło mi się już robić wino gronowe z dzikich ciemnych winogron (vitis labrusca) rosnących w odludnym miejscu, ale odmiany przerobowe to zupełnie co innego.
+Dotychczas zdarzyło mi się już robić wino gronowe z dzikich ciemnych winogron (Vitis labrusca) rosnących w odludnym miejscu, ale odmiany przerobowe to zupełnie co innego.
 
 # Wybór odmian
 
-Pierwsza była decyzja czy chciałbym spróbować posadzić odmiany gatunku Vitis Vinifera (winorośl właściwą), czy też łatwiejsze, ale powszechnie mniej cenione hybrydy.
+Pierwsza była decyzja czy chciałbym spróbować posadzić odmiany gatunku Vitis vinifera (winorośl właściwą), czy też łatwiejsze, ale powszechnie mniej cenione hybrydy.
 
 > ### Rodzaje Winorośli
 > 
->  - Winorośl właściwa (szlachetna) — od dawna znane winorośle z tradycyjnych regionów winiarskich np. Pinot Noir, Riesling, Chardonnay
->  - Hybryda — na ogół dość nowe krzyżówki winorośli właściwej z innymi gatunkami winorośli, tworzone przede wszystkim dla uzyskania większej mrozoodporności i odporności na choroby np. Solaris, Hibernal
+>  - Winorośl właściwa (szlachetna) — od dawna znane winorośle z tradycyjnych regionów winiarskich, np. Pinot Noir, Riesling, Chardonnay
+>  - Hybryda — na ogół dość nowe krzyżówki winorośli właściwej z innymi gatunkami winorośli, tworzone przede wszystkim dla uzyskania większej mrozoodporności i odporności na chorobym np. Solaris, Hibernal
 
 Stwierdziłem, że w polskich warunkach bezpieczniejsze są hybrydy. Teraz, po ponad roku i ukończonym kursie wiedzy o winie, coraz bardziej wątpię w słuszność tej decyzji. Oczywiście uprawa winorośli właściwej jest znacznie trudniejsza, ale wynagradza to większym prestiżem uzyskiwanych efektów. O ile kilkanaście lat temu w Polsce sadzone były niemal wyłącznie hybrydy, to teraz coraz popularniejsze stają się francuskie czy niemieckie odmiany o powszechnie znanych nazwach.
 
@@ -33,13 +33,15 @@ Do tego Iza Zaliwska (jasna odmiana deserowa) posadzona w celach dekoracyjnych i
 
 Rozważałem też Johanniter i Hibernal (oba jasne), ale nie zdecydowałem się na to przynajmniej w 2025 roku.
 
-Od kilku lat zbieram dokładne pomiary temperatury w piwniczce oraz w jej pobliżu, dzięki czemu wiem jak ciepło jest w każdym dniu roku. Pozwoliło mi to upewnić się, że winogrona zdążą u mnie dojrzeć. Wykorzystałem w tym celu wyliczenie wartości SAT dla mojej działki między 1 maja a 31 października.
+## Wpływ temperatury na dojrzewanie
+
+Od kilku lat zbieram dokładne pomiary temperatury w piwniczce oraz w jej pobliżu, dzięki czemu wiem, jak ciepło jest w każdym dniu roku. Pozwoliło mi to upewnić się, że winogrona zdążą u mnie dojrzeć. Wykorzystałem w tym celu wyliczenie wartości SAT dla mojej działki między 1 maja a 31 października.
 
 > **Suma Aktywnych Temperatur (SAT)** - Suma średnich temperatur dobowych powyżej +10 stopni Celsjusza w okresie od pękania pąków na początku wegetacji (umownie przyjmowanego na 1 maja) do dojrzenia owoców 
 > 
 > źródło: [winogrona.org](https://www.winogrona.org/index.php?title=SAT)
 
-Wybrane przeze mnie winorośle potrzebują następującej ilości ciepła wyrażonej w jednostkach SAT (wg winogrona.org):
+Dla uproszczenia SAT mówi, jak ciepło musi być w danym sezonie, żeby winogrona dojrzały. Wybrane przeze mnie winorośle potrzebują następującej ilości ciepła wyrażonej w jednostkach SAT (wg winogrona.org):
 
 | SAT       | Odmiana      |
 |-----------|--------------|
@@ -58,9 +60,9 @@ Dysponuję danymi pozwalającymi wyznaczyć wartość SAT na mojej działce dla 
 | 2023 | 2934                     |
 | 2024 | 2938                     |
 | 2025 | 2496                     |
-| 2026 | TBD                      |
+| 2026 | 2235 (tylko do 01.09)    |
 
-Dane dla 2026 uzupełnię niebawem, bo lato jeszcze trwa, ale póki co rok 2026 jest średnio cieplejszy niż 2025 i chłodniejszy niż 2024, i to pomimo kilku dni upałów powyżej 35 stopni.
+Dane dla 2026 uzupełnię niebawem, bo lato jeszcze trwa, ale na razie rok 2026 jest średnio cieplejszy niż 2025 i chłodniejszy niż 2024, i to pomimo kilku dni upałów powyżej 35°C. Więcej na temat temperatur [w tym wpisie]({filename}/2026/42-temperatury-w-piwniczce-2/piwniczka-2.md).
 
 Wartości te pokazują, że jedyną z wybranych przeze mnie odmian, która może mieć jakiekolwiek problemy z dojrzewaniem, jest Seyval Blanc, ale zakładam, że pełne nasłonecznienie na łagodnym południowym stoku dołoży kilka dodatkowych punktów.
 
@@ -74,13 +76,15 @@ Léon Millot posadziłem osobno w miejscach częściowo zacienionych, więc nie 
 
 ![Iza Zaliwska posadzona przy altanie]({attach}2025-iza-zaliwska.jpg)
 
-# Pierwsza zima
+Wszystkie winorośle przerobowe posadziłem w rozstawie 1 metra.
 
-Byłem przekonany, że w drugim roku po posadzeniu nie mam powodu martwić się przymrozkami, bo i tak nie chcę mieć owoców, więc w najgorszym wypadku roślina wypuści nowe pędy trochę później. Okazało się to dość kosztownym błędem.
+# Po pierwszej zimie
 
-Ograniczyłem się do zakopczykowania winorośli, by ochronić korzenie, i rozgarnąłem je w kwietniu. W efekcie przymrozek na początku maja zniszczył wszystkie pąki na mniej więcej połowie winorośli, a ta, wbrew moim nadziejom, zamiast odbijać z pąków ukrytych w pniu, w niektórych przypadkach zaczęła wypuszczać pędy z podkładki. Musiałem dobrze dopilnować i wycinać te niepożądane pędy, żeby odbiła ze szczepionki. Ostatecznie udało się to z każdą z przemrożonych winorośli.
+Byłem przekonany, że w 2026, w drugim roku po posadzeniu, nie mam powodu martwić się przymrozkami, bo i tak nie chcę mieć owoców, więc w najgorszym wypadku roślina wypuści nowe pędy trochę później. Okazało się to dość kosztownym błędem.
 
-![2026-05-spod-ziemi.jpg]({attach}2026-05-spod-ziemi.jpg)
+Ograniczyłem się do zakopcowania winorośli, by ochronić korzenie, i rozgarnąłem je w kwietniu. W efekcie przymrozek na początku maja zniszczył wszystkie pąki na mniej więcej połowie winorośli, a ta, wbrew moim nadziejom, zamiast odbijać z pąków ukrytych w pniu, w niektórych przypadkach zaczęła wypuszczać pędy z podkładki. Musiałem dobrze dopilnować i wycinać te niepożądane pędy, żeby odbiła ze szczepionki. Ostatecznie udało się to z każdą z przemrożonych winorośli.
+
+![Odbijanie podkładki po przymrozkach]({attach}2026-05-spod-ziemi.jpg)
 
 Regenta i Léon Millot kupiłem w wersji bez podkładki, więc problemu nie było.
 
@@ -90,9 +94,9 @@ Ogólnie poszło mi nie najgorzej, po roku straciłem tylko jeden krzak Regenta.
 
 # Pielenie
 
-Starałem się uniknąć konieczności pielenia, a nie chciałem też wykładać dużego obszaru działki agrowłókniną, więc zdecydowałem się kupić filcowe kółka, które przyczepiłem szpilkami wokół każdego krzaka. Jest to w miarę wygodne, ale używam trzech stalowych szpilek na każde kółko, więc zdejmowanie i zakładanie ich nie jest zbyt wygodne. W przyszłości możliwe, że jednak przerzucę się na pas agrowłókniny lub agrotkaniny. 
+Starałem się uniknąć konieczności pielenia, a nie chciałem też wykładać dużego obszaru działki agrowłókniną, więc zdecydowałem się kupić filcowe kółka, które przyczepiłem szpilkami wokół każdego krzaka. Jest to w miarę wygodne, ale że używam trzech stalowych szpilek na każde kółko, to każdorazowo zdejmorowanie i zakładanie ich zajmuje chwilę czasu. W przyszłości możliwe, że jednak przerzucę się na pas agrowłókniny lub agrotkaniny. 
 
-![Winorośle w czerwcu 2026. Zabezpieczone agrowłókniną. Tutaj agrowłóknina przysypana skoszoną trawą]({attach}2026-polowa-czerwca.jpg)
+![Winorośle w czerwcu 2026 zabezpieczone filcowymi kółkami. Tutaj przysypane skoszoną trawą]({attach}2026-polowa-czerwca.jpg)
 
 ![To samo w połowie sierpnia]({attach}2026-polowa-sierpnia.jpg)
 
@@ -115,13 +119,15 @@ Co prawda pisałem, że nie chciałem owoców w drugim roku, ale pozostawiłem p
 
 ![Pomiar cukru z kropli soku przy użyciu refraktometru]({attach}pomiar-refraktometrem.jpg)
 
-Obserwacja, że hybrydy mają wyższy cukier niż Labrusca, są w pełni zgodne z moimi oczekiwaniami. Zaskakujące jest jednak, że Solaris (znany z wysokiego poziomu cukru) zebrał go mniej niż Seyval Blanc. Rozważałem pomyłkę przy oznaczaniu próbek, ale smakowa ocena kwasu zanegowała to podejrzenie — Solaris miał go dużo mniej niż Seyval Blanc, czyli tak jak powinno być. Może niewielkie różnice nasłonecznienia w drugim roku miały wystarczający wpływ, by wyszło jak wyszło? Ostatecznie różnice te są minimalne.
+Obserwacja, że hybrydy mają wyższy cukier niż Labrusca, jest w pełni zgodna z moimi oczekiwaniami. Zaskakujące jest jednak, że Solaris (znany z wysokiego poziomu cukru) zebrał go mniej niż Seyval Blanc. Rozważałem pomyłkę przy oznaczaniu próbek, ale smakowa ocena kwasu zanegowała to podejrzenie — Solaris miał go dużo mniej niż Seyval Blanc, czyli tak jak powinno być. Może niewielkie różnice nasłonecznienia w drugim roku miały wystarczający wpływ, by wyszło jak wyszło? Ostatecznie różnice te są minimalne.
 
 Poza moimi białymi odmianami zmierzyłem też poziom cukru w dzikiej winorośli obrastającej starą stodołę — oddzielnie z południowej i północnej (zacienionej) strony. Różnice są zauważalne.
 
 # Przyszłość
 
-Cały czas nie jestem pewien czy chcę iść bardziej w kierunku wina, czy cydru. W tej chwili mam trzydzieści krzaków winorośli i trzy jabłonie cydrowe. Do tego kilka innych jabłoni i dostęp do dobrego soku jabłkowego, więc sprawa jest otwarta. Brakuje mi już miejsca na dosadzanie drzew, więc jeśli nie uda mi się kupić ziemi w okolicy, to będę musiał zagęszczać sad. Winorośle zdołam jeszcze wcisnąć gdzieś wzdłuż ogrodzenia. Najpierw jednak muszę zdecydować, czy w ogóle chcę to robić.
+Po dwóch sezonach nie miałem jeszcze dość owoców, by zrobić pierwsze wino, ale nadszedł już czas na pierwsze refleksje.
+
+Cały czas nie jestem pewien czy chcę iść bardziej w kierunku wina, czy cydru. W tej chwili mam około trzydziestu krzaków winorośli na wino i trzy jabłonie cydrowe. Do tego kilka innych jabłoni i dostęp do dobrego soku jabłkowego, więc sprawa jest otwarta. Brakuje mi już miejsca na dosadzanie drzew, więc jeśli nie uda mi się kupić ziemi w okolicy, to będę musiał zagęszczać sad. Winorośle zdołam jeszcze wcisnąć gdzieś wzdłuż ogrodzenia. Najpierw jednak muszę zdecydować, czy w ogóle chcę to robić.
 
 Przeanalizowałem plusy i minusy obu tych ścieżek hobbystycznej kariery i wyszło mi to następująco.
 
@@ -144,7 +150,7 @@ Główne aspekty robienia cydru:
 - Sok z jabłek wyciska się znacznie trudniej i później, czasem trzeba robić to w zimie
 - Za to do zbiorów nie trzeba robić prawie nic
 - Polski klimat jest idealny dla jabłek, w odróżnieniu od winogron, które potrafią przemarznąć na wiosnę lub nie zakumulować wystarczająco dużo cukrów przed zimą
-- Idealny cydr smakuje mi subiektywnie bardziej niż idealne wino. Pewnie dlatego, że zawsze lubiłem jabłka
+- Idealny cydr smakuje mi subiektywnie bardziej niż idealne wino, pewnie dlatego, że zawsze lubiłem jabłka
 - Umiem zrobić dobry, zwykły cydr, ale niektóre warianty mogą być wymagające. Na przykład jeszcze nigdy nie podjąłem się fermentacji metodą francuską, choć nie miałem też odpowiedniego surowca, bo przy polskich jabłkach szanse sukcesu są małe
 - Zbiór jabłek i produkcja cydru wzbudza mniejsze zainteresowanie osób, które potencjalnie mogłyby mi przy tym pomóc
 
