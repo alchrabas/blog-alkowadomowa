@@ -1,8 +1,8 @@
 Title: Piwa w 2026
-Date: 2026-06-30 19:00:00
+Date: 2026-09-30 19:00:00
 Category: piwo
 Tags: piwo
-Summary: dotychczasowe piwa • nowe piwa • Claude
+Summary: lagery • do beczki • Claude
 PreviewImage: notebook-thumbnail.png
 Status: draft
 
@@ -114,6 +114,10 @@ Po trzech tygodniach zlane znad osadu i wstawione do chłodni na 6 tygodni.
 
 # Saison
 
+
+
 # Podsumowanie
 
-Najbardziej brakuje mi w tej chwili jakiegoś bardzo nisko alkoholowego lub prawie bezalkoholowego lekkiego piwa na lato. Kolejnym kierunkiem moich działań 
+Najbardziej brakuje mi w tej chwili jakiegoś bardzo nisko alkoholowego lub prawie bezalkoholowego lekkiego piwa na lato.
+
+Kolejnym kierunkiem moich działań będzie skupienie się na minimalizacji wysiłku i maksymalizacji wrażeń smakowych przy 
