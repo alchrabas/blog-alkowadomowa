@@ -1,6 +1,6 @@
 Title: Staw
 Date: 2026-08-31 19:00:00
-Category: wino
+Category: działka
 Tags: działka
 Summary: Motywacje • Realizacja • Żabki
 PreviewImage: notebook-thumbnail.png

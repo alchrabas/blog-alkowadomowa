@@ -120,6 +120,14 @@ Myślę, że to trochę mniej znany styl, więc zacznę od kilku słów na jego 
 
 Jako że zakwalifikowałem je jako ponadprzeciętnie istotne dla mnie piwo, to zrobiłem tym razem pełne zacieranie z filtracją przez złoże i wysładzaniem. Z drugiej strony nieco uzupełniłem przepis ekstraktem słodowym i maltodekstryną, żeby na pewno nie brakło procentów, które mogą być istotne dla dobrego przechowywania tego piwa w drewnie.
 
+Poniżej kilka zdjęć z procesu.
+
+![Zacieranie]({attach}saison-zacieranie.jpg)
+
+![Filtracja]({attach}saison-filtracja.jpg)
+
+![Podobnie czasem wyglądają zakażenia, ale ufam, że z fermentacją wszysto dobrze]({attach}saison-fermentacja.jpg)
+
 ### Zasyp
 
 - 3,8 kg słodu pilzneńskiego
@@ -149,10 +157,12 @@ Fermentacja: 2 x Fermentis BE-134 (11 g) w temperaturze 24°C
 
 ### Leżakowanie
 
-beczka x tygodni
+beczka dębowa z dnami akacjowymi — przewidywany czas: kilka tygodni, weryfikacja co tydzień
 
 # Podsumowanie
 
-Najbardziej brakuje mi w tej chwili jakiegoś nisko alkoholowego lub prawie bezalkoholowego, lekkiego piwa na lato. Nadeszła już jesień, więc nie jest to aż tak pilne, jak dotychczas, ale niższe temperatury dają większe możliwości zacierania na zimno. 
+Wykonane przeze mnie w tym sezonie piwa były całkiem ciekawe. Wszystkie, poza sosnową APA-ą, wyszły zgodnie z moimi oczekiwaniami. Z oceny wyłączam Saisona, którego spróbuję dopiero za kilka tygodni, a jak chodzi o piwo z sosną, to zakładam, że w przyszłym roku łatwiej będzie mi dopasować termin warzenia i spróbuję ponownie. Tymczasem zacząłem rozglądać się za planem działania na przyszłe lato.
 
-Kolejnym kierunkiem moich działań będzie skupienie się na maksymalizacji wrażeń zmysłowych przy jednoczesnej minimalizacji wysiłku.
+Najbardziej brakuje mi w tej chwili jakiegoś nisko alkoholowego lub prawie bezalkoholowego, lekkiego piwa na lato. Nadeszła już jesień, więc nie jest to aż tak pilne jak dotychczas, ale niższe temperatury dają większe możliwości zacierania na zimno. 
+
+Kolejnym kierunkiem moich działań będzie skupienie się na maksymalizacji wrażeń zmysłowych przy jednoczesnej minimalizacji wysiłku. Może będzie się to dało nazwać piwowarstwem molekularnym. Ogólne założenia to: mało alkoholu, smak maksymalnie zbliżony do normalnie warzonego piwa, lekkość i rześkość, eliminacja wszystkich zbędnych elementów procesu.
