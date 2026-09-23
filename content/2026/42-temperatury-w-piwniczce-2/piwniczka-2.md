@@ -62,6 +62,8 @@ Po drugie generuje ogromne ilości ciepła. Pobierał 25 W, więc jeśli większ
 
 Aby jakoś walczyć z tym problemem, ale nie nagrzewać tak bardzo piwniczki, wstawiłem zamiast tego cztery osuszacze chemiczne wypełnione higroskopijną solą. Zbierają wilgoć zdecydowanie wolniej, ale przynajmniej nie dokładają więcej ciepła, niż to konieczne. Co więcej, w sezonie wiosennym i letnim, gdy wilgotność drastycznie rośnie, raz na dwa-trzy tygodnie ozonuję pomieszczenie. Ciężko powiedzieć na ile na drastycznie wysoką temperaturę w ziemiance (do 19 stopni!) wpłynął elektryczny osuszacz, a na ile wyjątkowo gorące lato. Być może odpowiedzią będzie rok 2026, w którym też było bardzo gorąco.
 
+![Jeden z osuszaczy i termometr]({attach}osuszacz-i-termometr.jpg)
+
 ## 2025
 
 Lato roku 2025 było stosunkowo chłodne. Nie działo się w piwniczce zbyt wiele ciekawych rzeczy, ale cały czas działałem w kierunku zmniejszenia wpływu upałów i słońca na temperaturę w środku. Między innymi obsadziłem południowy stok ziemianki roślinami, które powinny urosnąć wysoko i częściowo zasłonić ją przed słońcem. Do tego na szczycie posadziłem pigwowca, by zasłonić komin wentylacyjny. Idzie mu ciężko, bo, mimo odporności na suszę, warunki na szczycie są ekstremalne i muszę go regularnie podlewać, aby nie uschnął.
