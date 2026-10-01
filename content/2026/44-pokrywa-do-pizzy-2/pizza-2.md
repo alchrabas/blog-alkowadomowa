@@ -1,8 +1,8 @@
-Title: Pokrywa do pizzy
+Title: Nowa pokrywa do pizzy
 Date: 2026-08-15 19:00:00
 Category: wino
 Tags: wino, działka
-Summary: Moja winnica • Początki • itp.
+Summary: Strara pokrywa • Nowy projekt • Testy
 PreviewImage: notebook-thumbnail.png
 Status: draft
 
@@ -14,7 +14,11 @@ Stara pokrywa to zbliżone do prostopadłościanu pudełko. Stoi na ruszcie i od
 
 Taki był oryginalny projekt, który w zeszłym roku został lekko zmodyfikowany poprzez dodanie grubej stalowej płyty pod „sufitem”, która zawieszona jest na czterech śrubach z lekkim dystansem od właściwej górnej blachy. Celem tej modyfikacji było dodanie masy akumulacyjnej od góry, ponieważ pizze konsekwentnie szybciej piekły się od dołu niż od góry. Drugim ulepszeniem jeszcze przed rozpoczęciem bieżącego projektu był zakup dwucentymetrowego kamienia z kordierytu zamiast jednocentymetrowego kamienia ceramicznego.
 
-# Nowe pomysły
+# Pizze po staremu
+
+
+
+# Nowy projekt
 
 Ulepszenia te trochę pomogły, ale nie rozwiązały głównych problemów, dlatego też w zimie zacząłęm coraz poważniej myśleć o pełnowymiarowym piecu do pizzy. 
 
@@ -60,11 +64,11 @@ Do tego konieczne było przewiercenie dwóch mis, aby skręcić je od góry par�
 
 # Realizacja
 
-Pracy nie było dużo. Po pierwsze trzeba było nawiercić dwie stalowe misy od góry, a wewnętrzną od boku w trzech równo odległych od siebie punktach. Idzie ciężko, więc warto poprzedzić wiercenie wybiciem dziury punktakiem.
+Pracy nie było dużo. Po pierwsze trzeba było nawiercić od góry dwie stalowe misy, wewnętrzną z nich w trzech równo odległych od siebie punktach. Idzie ciężko, więc warto poprzedzić wiercenie wybiciem dziury punktakiem.
 
-Drugie zadanie to wycięcie szlifierką dziury z boku w misach i palenisku. Dokładne wymiary...
+Drugie zadanie to wycięcie szlifierką dziury z boku w misach i palenisku. Dokładne wymiary dziury to w moim przypadku ...
 
-Później wystarczy skręcić misy ze sobą. Dwie śruby u góry można wykorzystać do zamocowania uchwytu z pasa stalowego. Następnie można włożyć odwrócone palenisko żeliwne na trzy haki. Aby wewnętrzna warstwa paleniska siedziała stabilniej, można zaznaczyć miejsca, w których leży na hakach i lekko ją tam spilować by powstał rowek.
+Później wystarczy skręcić misy ze sobą. Dwie śruby u góry można wykorzystać do zamocowania uchwytu z pasa stalowego. Następnie można włożyć odwrócone palenisko żeliwne na trzy śruby pełniące funkcję haków. Aby wewnętrzna warstwa paleniska siedziała stabilniej, można zaznaczyć miejsca, w których leży na hakach i lekko ją tam spilować by powstał rowek.
 
 # Testy
 
@@ -78,13 +82,12 @@ Po przeanalizowaniu problemów doszedłem do następujących wniosków:
 2. jako że kamień akumuluje ciepło wolniej, ale lepiej niż pokrywa, to możliwe, że pomiędzy pizzami powinienem odsuwać ruszt na bok i przesuwać go z powrotem nad ogień np. na minutę przed włożeniem pizzy
 3. warto popróbować różnych wysokości dla rusztu oraz rozmiaru płomienia, żeby uzyskać w miarę prosty przepis na pieczenie
 
-
 Za drugim razem zrezygnowałem z drewna bukowego i nie przesadzałem z nagrzewaniem kamienia. Pierwszą pizzę wrzuciłem, gdy tylko osiągnął on 420 stopni (i wnętrze pokrywy także). Następnie odsunąłem ruszt na bok i przesunąłem go z powrotem na ogień, a pizzę włożyłem, gdy znów zarówno kamień jak i pokrywa pokazały 420 stopni. Udało się uzyskać dwie zadowalające pizze. Przy pierwszej jedna z nich została liźnięta ogniem, ale ogarnę także i to.
 
 # Podsumowanie
 
 Oceniam to przedsięwzięcie jako sukces. Spodziewałem się, że tak prosta konstrukcja będzie zbyt słabo akumulować ciepło i nie obejdzie się bez dalszych usprawnień. Brałem pod uwagę kolejne warstwy lub uszczelnienie "poduszki powietrznej" między misami, a także zrobienie dokładanego przedsionka z kominem, by uczynić cyrkulację powietrza bardziej podobną do tego, co występuje w prawdzwym piecu. Na szczęście nie było trzeba i będę mógł robić w ogródku zadowalającą pizzę na drewnie.
 
-Dodatkowo dostałem ostatnio w prezencie elektryczny piecyk do pizzy, więc aż mi szkoda, że skończy się moja udręka z próbami uzyskania dobrze wypieczonej pizzy w moim mieszkaniu, gdzie piekarnikowi rozgrzewającemu się realnie do 220 stopni nie pomagał ani kamień do pizzy, ani stalowa płyta, ani kombinacje z układaniem pizzy tuż pod grzałką. Lubię sobie utrudniać życie, ale w tym przypadku jestem gotów dać sobie spokój.
+Dodatkowo dostałem ostatnio w prezencie elektryczny piecyk do pizzy, więc aż mi szkoda, że skończy się moja udręka z próbami uzyskania dobrze wypieczonej pizzy w moim mieszkaniu, gdzie piekarnikowi rozgrzewającemu się realnie do 220 stopni nie pomagał ani kamień do pizzy, ani stalowa płyta, ani kombinacje z układaniem pizzy tuż pod grzałką. Lubię sobie utrudniać życie, ale w tym przypadku jestem gotów dać spokój.
 
 Życzę smacznej pizzuni.
