@@ -6,7 +6,7 @@ Summary: Strara pokrywa • Nowy projekt • Testy
 PreviewImage: notebook-thumbnail.png
 Status: draft
 
-W roku 2023 opisałem moją stalową pokrywę do pizzy. Przy opalaniu drewnem bukowym dawała ona zadowalające pizze (poniżej kilka zdjęć z lat 2023-2026), ale w którymś momencie przestało mi to odpowiadać. Pokrywa do pizzy plus drewno bukowe pozwalało uzyskać zadowalającą temperaturę.
+W roku 2023 opisałem moją stalową pokrywę do pizzy. Przy opalaniu drewnem bukowym dawała ona zadowalające pizze (poniżej kilka zdjęć z lat 2023-2026), ale w którymś momencie przestało mi to odpowiadać.
 
 # Schemat obecnej pokrywy
 
@@ -16,7 +16,7 @@ Taki był oryginalny projekt, który w zeszłym roku został lekko zmodyfikowany
 
 # Pizze po staremu
 
-
+Kilka zdjęć z poprzednich lat. Przy każdym kolejnym pieczeniu widziałem jakiś progres, ale wciąż czegoś mi brakowało.
 
 # Nowy projekt
 
@@ -72,21 +72,27 @@ Później wystarczy skręcić misy ze sobą. Dwie śruby u góry można wykorzys
 
 # Testy
 
-Gdy pokrywa zostala wykonana, musiałem poczekać trochę na pierwszą okazję jej przetestowania. Z troski o naukowość moich eksperymentów poprzedziłem jej użycie próbą kontrolką z prostokątną pokrywą.
+Gdy pokrywa została wykonana, musiałem poczekać trochę na pierwszą okazję jej przetestowania. Z troski o naukowość moich eksperymentów poprzedziłem jej użycie próbą kontrolną z prostokątną pokrywą. Ciasto zarówno na starą, jak i nową pokrywę robiłem identycznie na poolish.
 
-Zgodnie z oczekiwaniami okazało się, że nowa pokrywa kumuluje ciepło znacznie lepiej. Kamień umieszczony nad paleniskiem rozgrzał się do 400 stopni w około 15 minut i mniej więcej w tym samym czasie uzyskałem tę temperaturę po wewnętrznej stronie pokrywy. Wrzuciłem pierwszą pizzę, która upiekła się idealnie. Niestety z nadmiaru entuzjazmu zapomniałem zrobić zdjęcie. Druga pizza wyszła już nieco gorzej, ponieważ okazało się, że dorzucone do ognia drewno bukowe rozgrzało zarówno kamień dopizzy jak i wnętrze pokrywy do 520 stopni, co okazało się temperatrą odrobinę zbyt wysoką. Spód pizzy zaczynał zwęglać się już po około 40 sekundach, a góra nie była w stanie tego dogonić. Kombinacje w postaci podniesienia całego rusztu nie pomogły. W kolejnych pizzach robionych tego dnia ponownie góra nie potrafiła dogonić dołu.
+Zgodnie z oczekiwaniami okazało się, że nowa pokrywa kumuluje ciepło znacznie lepiej. Kamień umieszczony nad paleniskiem rozgrzał się do 400 stopni w około 15 minut i mniej więcej w tym samym czasie uzyskałem tę temperaturę po wewnętrznej stronie pokrywy. Wrzuciłem pierwszą pizzę, która wyglądała idealnie. Niestety z nadmiaru entuzjazmu zapomniałem zrobić zdjęcie. Druga pizza wyszła już nieco gorzej, ponieważ okazało się, że dorzucone do ognia drewno bukowe rozgrzało zarówno kamień do pizzy, jak i wnętrze pokrywy do 520 stopni, co okazało się temperatrą odrobinę zbyt wysoką. Spód pizzy zaczynał zwęglać się już po około 40 sekundach, a góra nie była w stanie tego dogonić. Kombinacje w postaci podniesienia całego rusztu nie pomogły. W kolejnych pizzach robionych tego dnia ponownie góra nie potrafiła dogonić dołu.
 
 Po przeanalizowaniu problemów doszedłem do następujących wniosków:
 
 1. drewno bukowe nie jest niezbędne
-2. jako że kamień akumuluje ciepło wolniej, ale lepiej niż pokrywa, to możliwe, że pomiędzy pizzami powinienem odsuwać ruszt na bok i przesuwać go z powrotem nad ogień np. na minutę przed włożeniem pizzy
+2. jako że kamień akumuluje ciepło wolniej, ale lepiej niż pokrywa, to możliwe, że pomiędzy pizzami powinienem odsuwać ruszt na bok i przesuwać go z powrotem nad ogień np. na minutę przed włożeniem pizzy, żeby za każdym razem zaczynać od takiego samego punktu
 3. warto popróbować różnych wysokości dla rusztu oraz rozmiaru płomienia, żeby uzyskać w miarę prosty przepis na pieczenie
 
-Za drugim razem zrezygnowałem z drewna bukowego i nie przesadzałem z nagrzewaniem kamienia. Pierwszą pizzę wrzuciłem, gdy tylko osiągnął on 420 stopni (i wnętrze pokrywy także). Następnie odsunąłem ruszt na bok i przesunąłem go z powrotem na ogień, a pizzę włożyłem, gdy znów zarówno kamień jak i pokrywa pokazały 420 stopni. Udało się uzyskać dwie zadowalające pizze. Przy pierwszej jedna z nich została liźnięta ogniem, ale ogarnę także i to.
+Za drugim razem test również wykonałem na pizzy zrobionej z ciast na poolish. Dodatkowo zrezygnowałem z drewna bukowego i nie przesadzałem z nagrzewaniem kamienia. Pierwszą pizzę wrzuciłem, gdy tylko osiągnął on 420 stopni (wnętrze pokrywy także). Następnie odsunąłem ruszt na bok i przesunąłem go z powrotem na ogień, a pizzę włożyłem, gdy znów zarówno kamień, jak i pokrywa pokazały 420 stopni. Udało się uzyskać dwie zadowalające pizze. Jedna z nich została liźnięta ogniem, ale ogarnę także i to.
+
+Za trzecim razem postanowiłem wykonać od początku do końca prawdziwą pizzę neapolitańską (VSOP), więc przygotowałem ciasto o hydratacji 63% na mące Caputo Pizzeria bez prefermentu i trzymania w lodówce — spędziło 24 godziny w chłodnej piwniczce (15 stopni).
+
+Pierwsze dwie pizze były prawdopodobnie najlepszymi, jakie dotychczas wykonałem. Udało się idealnie wychwycić moment włożenia i wyjęcia z pieca. Nie musiałem rozgrzewać w tym celu paleniska do 500 stopni, startowałem w temperaturze około 450. Niestety popełniłem błąd przy trzeciej pizzy, która miała być moim największym osiągnięciem i pozwoliłem ogniowi z tyłu paleniska dość znacznie ją przypalić. Udało mi się uzyskać powtarzalność temperaturową poprzez odsuwanie rusztu z pokrywą na bok pomiędzy każdym wypiekiem i ponownym umieszczeniu nad ogniem na kilku minut, kontrolując temperaturę. Główną trudnością okazało się dopasowanie odpowiedniej wysokości, ponieważ pokrywa leżąca na palenisku ograniczała dostęp powietrza i przyduszała ogień, a podniesiona wyżej wzmagała go, ale uzyskiwała niższą temperaturę. Prawdopodobnie będę musiał dorobić jakieś nóżki/dystanse, aby powietrze mogło docierać do paleniska.
+
+Kilka zdjęć pizzy. Oczywiście znów byłem zbyt przejęty pracą, by od razu zrobić zdjęcie pierwszej pizzy.
 
 # Podsumowanie
 
-Oceniam to przedsięwzięcie jako sukces. Spodziewałem się, że tak prosta konstrukcja będzie zbyt słabo akumulować ciepło i nie obejdzie się bez dalszych usprawnień. Brałem pod uwagę kolejne warstwy lub uszczelnienie "poduszki powietrznej" między misami, a także zrobienie dokładanego przedsionka z kominem, by uczynić cyrkulację powietrza bardziej podobną do tego, co występuje w prawdzwym piecu. Na szczęście nie było trzeba i będę mógł robić w ogródku zadowalającą pizzę na drewnie.
+Oceniam to przedsięwzięcie jako sukces. Spodziewałem się, że tak prosta konstrukcja będzie zbyt słabo akumulować ciepło i nie obejdzie się bez dalszych usprawnień. Brałem pod uwagę kolejne warstwy lub uszczelnienie "poduszki powietrznej" między misami, a także zrobienie dokładanego przedsionka z kominem, by uczynić cyrkulację powietrza bardziej podobną do tego, co występuje w prawdziwym piecu. Na szczęście nie było trzeba i będę mógł robić w ogródku zadowalającą pizzę na drewnie.
 
 Dodatkowo dostałem ostatnio w prezencie elektryczny piecyk do pizzy, więc aż mi szkoda, że skończy się moja udręka z próbami uzyskania dobrze wypieczonej pizzy w moim mieszkaniu, gdzie piekarnikowi rozgrzewającemu się realnie do 220 stopni nie pomagał ani kamień do pizzy, ani stalowa płyta, ani kombinacje z układaniem pizzy tuż pod grzałką. Lubię sobie utrudniać życie, ale w tym przypadku jestem gotów dać spokój.
 
