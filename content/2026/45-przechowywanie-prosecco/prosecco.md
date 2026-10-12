@@ -9,7 +9,7 @@ Poszedłem po mleko, ale wyszło, jak wyszło. Postanowiłem zatem pochylić si�
 
 Moim ulubionym drinkiem jest Aperol Spritz, a na drugim miejscu znajduje się Hugo (z własnoręcznie zrobionym syropem z bzu).
 
-Jeśli od razu chcesz przeczytać spoiler wyników, to klinij [tutaj]().
+Jeśli od razu chcesz przeczytać spoiler wyników, to kliknij [tutaj](#Ostateczne-wyniki).
 
 # Pomysły
 

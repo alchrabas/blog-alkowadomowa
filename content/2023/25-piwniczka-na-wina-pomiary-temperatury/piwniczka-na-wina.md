@@ -5,6 +5,8 @@ Tags: eksperymenty, działka
 Summary: budowa piwniczki • temperatury • wnioski
 PreviewImage: wykres-averaged.png
 
+**Aktualizacja 2026**: wykresy temperatury z lat 2022-2026 można zobaczyć [w nowym wpisie]({filename}/2026/42-temperatury-w-piwniczce-2/piwniczka-2.md).
+
 Rok 2022 (i 2023) naznaczony był pracą na mojej działce. Dwoma istotnymi elementami tego przedsięwzięcia były drzewka owocowe oraz piwniczka. Jej budowa, rozpoczęta tuż przed końcem 2021 roku, ciągnęła się dość długo, bo miałem bardzo konkretną wizję, której nie chciałem naginać do rzeczywistych możliwości.
 
 ![Zdjęcie poglądowe. U mnie wyglądało to podobnie]({attach}przyklad-montazu-piwniczki.png)
