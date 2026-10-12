@@ -3,7 +3,7 @@ Date: 2026-10-01 19:00:00
 Category: działka
 Tags: działka
 Summary: Cierpienia • Doświadczenia • Usprawnienia • Przebieg sezonu
-PreviewImage: notebook-thumbnail.png
+PreviewImage: poczatek-wrzesnia.jpg
 
 „To jest dramat” chciałoby się powiedzieć na temat obecnego sezonu warzywnego. Ostatnie lato mnie nie oszczędzało, a miejsce miały wszystkie możliwe plagi.
 

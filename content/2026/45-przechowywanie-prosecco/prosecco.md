@@ -4,12 +4,13 @@ Category: wino
 Tags: wino
 Summary: Jak zachować bąbelki? • Test • Moje ulubione drinki
 PreviewImage: pierwszy-test.jpg
+Status: draft
 
-Poszedłem po mleko, ale wyszło, jak wyszło. Postanowiłem zatem pochylić się nad tematem przechowywania otwartej butelki tego prostego, choć radującego serce składnika letnich drinków.
+Poszedłem po mleko, ale wyszło, jak wyszło. A że nie dopiłem do końca, to postanowiłem pochylić się nad tematem przechowywania otwartej butelki tego prostego, choć radującego serce składnika letnich drinków.
 
 Moim ulubionym drinkiem jest Aperol Spritz, a na drugim miejscu znajduje się Hugo (z własnoręcznie zrobionym syropem z bzu).
 
-Jeśli od razu chcesz przeczytać spoiler wyników, to kliknij [tutaj](#Ostateczne-wyniki).
+Jeśli od razu chcesz przeczytać spoiler wyników, to kliknij [tutaj](#ostateczne-wyniki).
 
 # Pomysły
 
