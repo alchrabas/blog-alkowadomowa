@@ -1034,31 +1034,75 @@ time{
   width: 100% !important;
 }
 
-p a{
+p a {
   text-decoration: underline;
 }
 
-p img{
+#content img {
+  max-width: 95%;
+  height: auto;
+  max-height: 100vh; /* limit vertical images */
+}
+
+p img {
   display: block;
   margin: 0 auto;
 }
-
 p.image-caption {
-  text-align:center;
+  text-align: center;
   margin-top: 5px;
-}
-
-#content img {
-  max-width: 80%;
-  height: auto;
-  max-height: 100vh; /* Limit size of vertical images */
 }
 
 .fancybox-caption__body {
   font-size: 2em;
 }
-
 .entry-content iframe {
   display: block;
   margin: auto;
+}
+
+/* gallery */
+#content .gallery {
+  --gap: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* center the last row */
+  gap: var(--gap);
+  margin: 1.5em 0;
+}
+
+#content .gallery p {
+  display: contents;
+}
+
+#content .gallery img {
+  --tile: calc((100% - (var(--cols, 3) - 1) * var(--gap)) / var(--cols, 3));
+  flex: 0 0 var(--tile);
+  width: var(--tile);
+  height: auto;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+#content .gallery::before,
+#content .gallery::after,
+#content .gallery p::before,
+#content .gallery p::after {
+  content: none;
+  display: none;
+}
+
+#content .gallery br {
+  display: none;
+}
+
+@media (max-width: 1024px) {
+  #content .gallery { --cols: 3 !important; }
+}
+
+@media (max-width: 600px) {
+  #content .gallery { --cols: 2 !important; }
 }
