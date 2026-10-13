@@ -1,7 +1,7 @@
 Title: Pizza na kamieniu
 Date: 2024-06-12 20:00:00
 Category: inne
-Tags: kuchnia, eksperymenty, działka
+Tags: kuchnia, eksperymenty, działka, pizza
 Summary: pizza • kamień do pizzy • robienie pizzy • poprawki w piekarniku • przyszłość
 PreviewImage: pizza-zero.jpg
 
@@ -62,7 +62,7 @@ Następnie przestawiłem się na lepszą mąkę.
 O tym, że jest lepsza, przekonałem się, gdy, robiąc pizzę według mojego normalnego przepisu, zrobił się z niej rozpadający flak.
 Gdy wyrabiałem ciasto dłużej i pozwoliłem mu dojrzewać dwie doby, okazało się, że jest w porządku. Mąka z Biedronki jest bardziej przyjazna użytkownikowi.
 
-![Wyszło mi dziurawy kwadrat z zaokrąglonymi rogami. Do poprawy]({attach}marcowa-pizza.jpg)
+![Wyszedł mi dziurawy kwadrat z zaokrąglonymi rogami. Do poprawy]({attach}marcowa-pizza.jpg)
 
 W kolejnych miesiącach kontynuowałem zabawę, poprawiając jedne elementy i psując inne.
 
