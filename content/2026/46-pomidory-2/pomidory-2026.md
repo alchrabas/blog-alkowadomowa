@@ -1,5 +1,5 @@
 Title: Pomidory San Marzano - s02e01
-Date: 2026-10-01 19:00:00
+Date: 2026-10-13 19:00:00
 Category: działka
 Tags: działka
 Summary: Cierpienia • Doświadczenia • Usprawnienia • Przebieg sezonu
@@ -36,7 +36,7 @@ _Notabene_ konstrukcja ta okazała się zbyt słaba, bo w połowie sierpnia w mo
 
 Nie wyciągnąłem wniosków z potopu szwedzkiego.
 
-![Na szczeście wygladało to dużo gorzej niż rzeczywiście zaszkodziło]({attach}sierpien-po-wichurze.jpg)
+![Na szczęście zaszkodziło pomiodorom mniej niż wynikało ze zdjęcia]({attach}sierpien-po-wichurze.jpg)
 
 ## Wiązanie pomidorów
 

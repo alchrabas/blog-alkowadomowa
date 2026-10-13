@@ -2,7 +2,7 @@ Title: Przechowywanie Prosecco
 Date: 2026-10-30 19:00:00
 Category: wino
 Tags: wino
-Summary: Jak zachować bąbelki? • Test • Moje ulubione drinki
+Summary: Jak zachować bąbelki? • Testy • Moje ulubione drinki
 PreviewImage: pierwszy-test.jpg
 Status: draft
 
@@ -15,7 +15,7 @@ Jeśli od razu chcesz przeczytać spoiler wyników, to kliknij [tutaj](#ostatecz
 # Pomysły
 
 Jeśli drinki na bazie Prosecco pije więcej osób, to nie ma problemu, butelka schodzi od razu.
-Jednakże, jeśli planuje się zrobić pojedynczego drinka, to 0,75L okazuje się objętością trudną do ogarnięcia.
+Jednakże jeśli planuje się zrobić pojedynczego drinka, to 0,75L okazuje się objętością trudną do ogarnięcia.
 
 Dlatego też rozważyłem różne możliwości przechowywania go z zachowaniem bąbelków.
 
@@ -23,13 +23,11 @@ Dlatego też rozważyłem różne możliwości przechowywania go z zachowaniem b
 
 Porównałem trzy metody zamykania butelek. Na początek wziąłem trzy identyczne zakręcane buteleczki 200 ml z wina Mionetto.
 
-W każdym przypadku chcę zachować jak najwięcej bąbelków. Po pierwsze zadbałem o maksymalne schłodzenie Prosecco przed przelewaniem. Ilość dwutlenku węgla, jaki może rozpuścić się w danej objętości płynu, jest tym mniejsza, im wyższa temperatura.
-
-Wynika to z prawa Henry'ego, ale nie znam się na tym, więc nie będę wchodził w szczegóły.
+W każdym przypadku chcę zachować jak najwięcej bąbelków. Ilość dwutlenku węgla, jaka może rozpuścić się w płynie, rośnie z ciśnieniem i maleje wraz z temperaturą (co opisuje prawo Henry'ego). Dlatego schładzam Prosecco przed przelewaniem.
 
 > Dygresja - ciśnienie
 > 
-> Drugim istotnym parametrem jest ciśnienie, co prowadzi do wniosku, że znalezienie sposobu na przelewanie wina z butelki do butelki bez dostępu ciśnienia atmosferycznego mogłoby być kolejnym krokiem naprzód. A skoro można tanio kupić (przynajmniej w Chinach) sprzęt do przetaczania gazu z dużej butli do małego kartusza, to możliwe, że rozwiązanie jest tuż za rogiem. Jest to jednak tylko dygresja, bo na razie uznałem, że szybkie przelanie wina po ściance będzie wystarczające.
+> Drugim istotnym parametrem jest ciśnienie, co prowadzi do wniosku, że znalezienie sposobu na przelewanie wina z butelki do butelki bez utraty ciśnienia mogłoby być kolejnym krokiem naprzód. A skoro można tanio kupić (przynajmniej w Chinach) sprzęt do przetaczania gazu z dużej butli do małego kartusza, to możliwe, że rozwiązanie jest tuż za rogiem. Jest to jednak tylko dygresja, bo na razie uznałem, że szybkie przelanie wina po ściance będzie wystarczające.
 
 Operację przelewania zacząłem od umieszczenia zamkniętej butelki na kilka godzin w lodówce, a tuż przed przelewaniem umieściłem butelkę na 20 minut w zamrażarce.
 
@@ -45,19 +43,19 @@ Prosecco przelałem do buteleczek (nalewając do pełna) i umieściłem w lodów
 
 Miałem rację, bo okazało się, że tylko jeden ze sposobów utrzymał większość bąbelków. Wygrała zatyczka do win musujących. Z pozostałych dwóch uciekło prawie wszystko.
 
-<video controls="controls" src="{attach}pierwszy-test.mp4" type="video/webm" width="100%">
+<video controls="controls" src="{attach}pierwszy-test.mp4" type="video/mp4" width="100%">
 Twoja przeglądarka nie wspiera odtwarzania filmów
 </video>
 
 Od lewej: zakrętka, kapsel, zatyczka do win musujących.
 
-Wyglądałoby, że sprawa jest prosta, ale zwróciłem uwagę na jeden element. Kapsel na butelce przystosowanej do zakrętki mógł nie dolegać idealnie z uwagi na gwint. Przecież w butelkach piwnych kapsle trzymają gaz przez miesiące, a nawet lata. Stwierdziłem zatem, że konieczna jest dogrywka między zatyczką a kapslem.
+Wyglądałoby, że sprawa jest prosta, ale zwróciłem uwagę na jeden element. Kapsel na butelce przystosowanej do zakrętki mógł nie przylegać idealnie z uwagi na gwint. Przecież w butelkach piwnych kapsle trzymają gaz przez miesiące, a nawet lata. Stwierdziłem zatem, że konieczna jest dogrywka między zatyczką a kapslem.
 
 # Dogrywka
 
 Tym razem w grze były tylko dwie metody: kapsel i zatyczka. Test przeprowadzony został na butelkach piwnych 330 ml.
 
-<video controls="controls" src="{attach}kapsel-vs-korek.mp4" type="video/webm" width="100%">
+<video controls="controls" src="{attach}kapsel-vs-korek.mp4" type="video/mp4" width="100%">
 Twoja przeglądarka nie wspiera odtwarzania filmów
 </video>
 
@@ -69,7 +67,7 @@ Dlatego zaplanowałem kolejny test. Zadałem sobie pytanie: „Jaki problem chc�
 
 Przechowałem obie butelki w lodówce przez tydzień. Potwierdziła się oczywista prawda, że zarówno kapsel, jak i zatyczka muszą być używane do odpowiednich butelek.
 
-<video controls="controls" src="{attach}mala-vs-duza-butelka.mp4" type="video/webm" width="100%">
+<video controls="controls" src="{attach}mala-vs-duza-butelka.mp4" type="video/mp4" width="100%">
 Twoja przeglądarka nie wspiera odtwarzania filmów
 </video>
 
@@ -79,27 +77,27 @@ Kapsel trzyma bąbelki lepiej (prawie tak jak w chwili kapslowania), a zatyczka 
 
 Zwykła butelka z zakrętką się nie sprawdza. Jeśli masz kapslownicę i chcesz przechowywać Prosecco dłużej niż kilka dni, możesz użyć kapsla na przystosowanej do tego butelce (bez gwintu). Jeśli nie, do krótkiego przechowywania użyj zatyczki.
 
-# Wspomniane drinki
+# Ulubione drinki
 
 Skoro tak mi na nich zależy, to mogę też wspomnieć jak je robię, zwłaszcza, że korzystam z wariantów zarówno alkoholowych, jak i bezalkoholowych, więc dla każdego coś miłego.
 
 ## Aperol Spritz
 
-Wszystko robię standardowo, więc nie ma nawet o czym się rozpisywać. Kolejność podawania składników: lód (odczekanie kilku minut, żeby nie pękał), Prosecco z Biedronki, Aperol, woda gazowana. Proporcje 3-2-1. Każdy ze składników leję po ściance, żeby jak najmniej odgazowywać drinka. Dekoracja z półplastra pomarańczy.
+Wszystko robię standardowo, więc nie ma nawet o czym się rozpisywać. Kolejność podawania składników: lód (odczekanie kilku minut, żeby nie pękał), Prosecco z Biedronki, Aperol, woda gazowana. Proporcje objętości 3-2-1. Każdy ze składników leję po ściance, żeby jak najmniej odgazowywać drinka. Dekoracja z półplastra pomarańczy.
 
 ## Aperol Spritz zero
 
 Po samodzielnych próbach i zapoznaniu się z kilkoma testami w internecie odkryłem najbardziej odpowiadające mi zamienniki bezalkoholowe.
 
-Zamiast Aperola używam Cin Cin Aperitivo Free. Podczas testów porównawczych (choć nie ślepych) oceniam je jako prawie identyczne, z tym, że Cin Cin jest odrobinę bardziej kwaśny, przez co nieco bardziej przykrywa goryczkę.
+Zamiast Aperola używam Cin Cin Aperitivo Free. Podczas testów porównawczych (choć nie ślepych) oceniłem je jako prawie identyczne, z tym, że Cin Cin jest odrobinę bardziej kwaśny, przez co nieco bardziej przykrywa goryczkę.
 
-Zamiast zwykłego Prosecco używam wariantu 0%. Jest moim zdaniem na tyle dobry, że jeśli chce się robić obie wersje, to spokojnie można używać Mionetto zero do zwykłego Aperol Spritza.
+Zamiast zwykłego Prosecco używam wariantu zero. Jest moim zdaniem na tyle dobry, że jeśli chce się robić obie wersje, to spokojnie można używać Mionetto zero do zwykłego Aperol Spritza.
 
 Woda gazowana bez zmian.
 
 ## Hugo
 
-Tutaj sytuacja z przepisem nie jest oczywista, bo istnieje wiele wariantów tego koktajlu i nie roszczę sobie prawa do znajomości najlepszego z nich. Przepis, którego zwykle używam, to:
+Tutaj sytuacja z przepisem nie jest oczywista, bo istnieje wiele wariantów tego koktajlu i nie roszczę sobie prawa  do twierdzenia, że znam najlepszy z nich. Przepis, którego zwykle używam, to:
 
 - Kieliszek z lodem
 - 60 ml Prosecco
