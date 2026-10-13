@@ -1,7 +1,7 @@
 Title: Eksperymenty na szarlotce
 Date: 2021-07-04 20:00:00
 Category: ciasta
-Tags: eksperymenty, ciasta
+Tags: kuchnia, eksperymenty
 Summary: problemy z ciastem • pomysły i wykonanie • krążki cebulowe
 
 Zawsze, gdy zaczynam pisać coś nowego, zastanawiam się, czy daję w danym wpisie cokolwiek od siebie. Innymi słowy, czy można znaleźć tu cokolwiek, czego jeszcze w Internecie nie napisano. Dlatego też, nawet jeśli poruszam popularny temat, chcę dotknąć go od innej strony niż ktokolwiek przede mną.

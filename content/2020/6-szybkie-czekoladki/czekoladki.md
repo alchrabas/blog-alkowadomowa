@@ -1,7 +1,7 @@
 Title: Szybkie czekoladki
 Date: 2020-12-17 23:10:00
 Category: słodkości
-Tags: słodkości
+Tags: kuchnia
 Summary: jaki prezent jest najlepszy? • potrzebny sprzęt • roztapianie • formowanie • dodatki
 PreviewImage: gotowe_czekoladki.png
 

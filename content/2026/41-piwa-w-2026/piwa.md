@@ -1,7 +1,7 @@
 Title: Piwa w 2026
 Date: 2026-09-22 12:00:00
 Category: piwo
-Tags: piwo
+Tags: piwo, sprzęt
 Summary: pils na kveikach • prawdziwy lager • saison do beczki
 PreviewImage: piwo-w-2026.jpg
 

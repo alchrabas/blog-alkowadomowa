@@ -1,7 +1,7 @@
 Title: Mniszkowe receptury
 Date: 2021-06-09 20:00:00
 Category: nalewki
-Tags: nalewki, wino 
+Tags: nalewki, wino
 Summary: dlaczego mniszek? • co zbierać? • pierwsze wino
 PreviewImage: krajobraz.jpg
 

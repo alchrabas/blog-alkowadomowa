@@ -1,7 +1,7 @@
 Title: Robienie rzeczy z drewna 2
 Date: 2024-01-04 01:00:00
 Category: inne
-Tags: rzemiosło, eksperymenty
+Tags: rzemiosło
 Summary: jak ciąć drewno? • skrzyneczka • stojak na zakrętki • stojak na pokrywki • co dalej?
 PreviewImage: gotowy-stojak-na-zakretki.jpg
 

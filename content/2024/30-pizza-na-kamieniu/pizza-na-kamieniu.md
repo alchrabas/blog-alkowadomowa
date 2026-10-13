@@ -1,7 +1,7 @@
 Title: Pizza na kamieniu
 Date: 2024-06-12 20:00:00
 Category: inne
-Tags: kuchnia, eksperymenty, działka, pizza
+Tags: pizza, sprzęt, kuchnia
 Summary: pizza • kamień do pizzy • robienie pizzy • poprawki w piekarniku • przyszłość
 PreviewImage: pizza-zero.jpg
 

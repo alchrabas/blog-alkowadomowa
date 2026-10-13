@@ -1,7 +1,7 @@
 Title: Ciasto kokosowe
 Date: 2021-04-03 20:00:00
 Category: ciasta
-Tags: ciasta
+Tags: kuchnia
 Summary: eksperymenty z cydrem • plany na rok • Wielkanoc • ciasto
 PreviewImage: ciasto.png
 

@@ -1,7 +1,7 @@
 Title: Pomidory San Marzano - s02e01
 Date: 2026-10-13 19:00:00
 Category: działka
-Tags: działka
+Tags: działka, pizza
 Summary: Cierpienia • Doświadczenia • Usprawnienia • Przebieg sezonu
 PreviewImage: poczatek-wrzesnia.jpg
 

@@ -1,7 +1,7 @@
 Title: Po sok z brzozy
 Date: 2021-04-12 22:00:00
 Category: przetwory
-Tags: przetwory
+Tags: kuchnia
 Summary: termin zbioru • wykonanie • odczucia smakowe • przetwory
 PreviewImage: butelka.jpg
 

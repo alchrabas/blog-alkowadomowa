@@ -1,7 +1,7 @@
 Title: Robienie pi(wa|zzy)
 Date: 2023-12-25 01:20:00
 Category: piwo
-Tags: piwo, kuchnia
+Tags: piwo, pizza
 Summary: nie znam się, więc spróbuję • składniki pizzy • składniki piwa • chronologia • krajobraz po bitwie
 PreviewImage: filtracja.jpg
 

@@ -1,7 +1,7 @@
 Title: AI w ogrodzie
 Date: 2026-04-30 19:00:00
 Category: inne
-Tags: działka
+Tags: działka, eksperymenty
 Summary: AI wszędzie • NotebookLM • Claude
 PreviewImage: notebook-thumbnail.png
 

@@ -1,7 +1,7 @@
 Title: Murarki na działce
 Date: 2023-03-21 22:00:00
 Category: działka
-Tags: działka, eksperymenty
+Tags: działka
 Summary: budowa domku • wyciąganie kokonów • przygotowania do sezonu
 PreviewImage: domek-lato.jpg
 

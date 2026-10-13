@@ -1,7 +1,7 @@
 Title: Nowy sprzęt
 Date: 2021-07-30 21:00:00
 Category: sprzęt
-Tags: eksperymenty, sprzęt
+Tags: sprzęt, cydr, eksperymenty
 Summary: powrót do eksperymentów • nowy sprzęt • dodatki • nowe drożdże • nowa wiedza
 PreviewImage: prasa.jpg
 

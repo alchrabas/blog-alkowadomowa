@@ -1,7 +1,7 @@
 Title: Sosna na dwa sposoby
 Date: 2021-10-06 21:00:00
 Category: nalewki
-Tags: nalewki, przetwory
+Tags: nalewki, kuchnia
 Summary: dziwna nalewka sosnowa • problemy z filtracją • syrop z sosny
 PreviewImage: sloj1.jpg
 

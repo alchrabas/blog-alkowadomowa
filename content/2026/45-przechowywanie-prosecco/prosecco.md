@@ -1,7 +1,7 @@
 Title: Przechowywanie Prosecco
 Date: 2026-10-14 10:00:00
 Category: inne
-Tags: eksperymenty
+Tags: wino, eksperymenty
 Summary: Jak zachować bąbelki? • Testy • Moje ulubione drinki
 PreviewImage: pierwszy-test.jpg
 

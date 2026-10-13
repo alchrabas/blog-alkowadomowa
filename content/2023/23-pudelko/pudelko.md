@@ -1,7 +1,7 @@
 Title: Drewniane pudełko ZTS (Zrób To Sam)
 Date: 2023-03-27 22:00:00
 Category: inne
-Tags: rzemiosło, eksperymenty
+Tags: rzemiosło
 Summary: jak kupić drewniane pudełko? • jak zrobić drewniane pudełko? • potrzebne narzędzia • efekt końcowy
 PreviewImage: gotowe.jpg
 

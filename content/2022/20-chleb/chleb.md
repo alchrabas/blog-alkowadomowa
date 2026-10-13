@@ -1,7 +1,7 @@
 Title: Chleb na dziesięć (złych) sposobów
 Date: 2022-01-26 22:00:00
 Category: przetwory
-Tags: chleb
+Tags: kuchnia
 Summary: skąd pomysł? • złe wypieki • poprawa • przyszłość
 PreviewImage: chleb-2022-01-drugi.jpg
 

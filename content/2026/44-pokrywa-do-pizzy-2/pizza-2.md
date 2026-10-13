@@ -1,7 +1,7 @@
 Title: Nowa pokrywa do pizzy
 Date: 2026-10-12 22:00:00
 Category: pizza
-Tags: pizza, działka, eksperymenty
+Tags: pizza, sprzęt, rzemiosło
 Summary: Stara pokrywa • Nowy projekt • Testy
 PreviewImage: pizza-20260930-pieczenie.jpg
 

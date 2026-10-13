@@ -1,7 +1,7 @@
 Title: Arcyszybkie likiery na święta
 Date: 2020-12-28 22:00:00
 Category: likiery
-Tags: likiery, ciasta, słodkości
+Tags: nalewki, kuchnia
 Summary: likier kokosowy • likier piernikowy • pierniczki • ciasta • minimalizm
 PreviewImage: smak.png
 

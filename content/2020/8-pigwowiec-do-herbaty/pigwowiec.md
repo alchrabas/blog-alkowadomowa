@@ -1,7 +1,7 @@
 Title: Pigwowcówka i pigwowiec do herbaty
 Date: 2020-12-27 22:40:00
 Category: nalewki
-Tags: nalewki, przetwory
+Tags: nalewki, kuchnia
 Summary: nalewka z pigwowca • pigwowiec do herbaty • pasteryzacja
 PreviewImage: sloj_z_nalewka.png
 
