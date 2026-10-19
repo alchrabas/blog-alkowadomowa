@@ -1,7 +1,7 @@
 Title: Drinki
 Date: 2024-12-20 20:00:00
 Category: inne
-Tags: rzemiosło, sprzęt
+Tags: rzemiosło, sprzęt, drinki
 Summary: wstęp • kurs • pierwsze samodzielne kroki • kompletowanie sprzętu • dalszy rozwój
 PreviewImage: modzajto.jpg
 

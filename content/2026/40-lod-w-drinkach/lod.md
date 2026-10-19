@@ -1,7 +1,7 @@
 Title: Lód w drinkach
 Date: 2026-05-14 22:00:00
 Category: inne
-Tags: rzemiosło, sprzęt, eksperymenty
+Tags: rzemiosło, sprzęt, eksperymenty, drinki
 Summary: pierwsze lody • mlecznobiałość • pojemniki • inne kształty
 PreviewImage: drink-z-kulami.jpg
 
