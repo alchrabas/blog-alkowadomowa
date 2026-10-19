@@ -76,7 +76,7 @@ Potwierdziła się oczywista prawda, że zarówno kapsel, jak i zatyczka muszą 
 
 # Ostateczne wyniki
 
-Zwykła butelka z zakrętką się nie sprawdziła. Jeśli masz kapslownicę i chcesz przechowywać Prosecco dłużej niż kilka dni, możesz użyć kapsla na przystosowanej do tego butelce (bez gwintu). Jeśli nie, do krótkiego przechowywania użyj zatyczki.
+Zwykła butelka z zakrętką się nie sprawdziła. Jeśli masz kapslownicę i chcesz przechowywać Prosecco dłużej niż kilka dni, możesz użyć kapsla na przystosowanej do tego butelce (bez gwintu) wypełnionej po brzegi. Jeśli nie, do krótkiego przechowywania użyj zatyczki.
 
 # Ulubione drinki
 
