@@ -1,19 +1,19 @@
 Title: Pomidory San Marzano - s02e01
-Date: 2026-10-13 19:00:00
+Date: 2026-10-23 20:00:00
 Category: działka
 Tags: działka, pizza
-Summary: Cierpienia • Doświadczenia • Usprawnienia • Przebieg sezonu
+Summary: cierpienia • doświadczenia • usprawnienia
 PreviewImage: poczatek-wrzesnia.jpg
 
-„To jest dramat” chciałoby się powiedzieć na temat obecnego sezonu warzywnego. Ostatnie lato mnie nie oszczędzało, a miejsce miały wszystkie możliwe plagi.
+„To jest dramat” chciałoby się powiedzieć na temat obecnego sezonu warzywnego. To lato mnie nie oszczędzało, a miejsce miały wszystkie możliwe plagi.
 
 # Siew
 
-W tym roku zdecydowałem się na sianie pomidorów z moich własnych nasion, choć nie byłem pewie, czy nasiona dadzą radę. Na wszelki wypadek do każdej z wielodoniczek wrzuciłem po dwa nasionka. Skuteczność przekroczyła moje oczekiwania i wyniosła sto procent. Nie chcąc uszkodzić korzeni, zdecydowałem o wycięciu słabszej z każdej z pary siewek. W ten sposób w połowie maja dotarłem do punktu, w którym miałem kilka rozsad więcej niż potrzebowałem.
+W tym roku zdecydowałem się na sianie pomidorów z moich własnych nasion, choć nie byłem pewien, czy nasiona dadzą radę. Na wszelki wypadek do każdej z wielodoniczek wrzuciłem po dwa nasionka. Skuteczność przekroczyła moje oczekiwania i wyniosła sto procent. Nie chcąc uszkodzić korzeni, zdecydowałem o wycięciu słabszej z każdej z pary siewek. W ten sposób w połowie maja dotarłem do punktu, w którym miałem kilka rozsad więcej, niż potrzebowałem.
 
 ![Rozsady w maju]({attach}maj-na-parapecie.jpg)
 
-Moim celem na bieżący rok było posadzenie ośmiu pomidorów na identycznej powierzchni, na której rok temu próbowałem posadzić ich dwanaście. Czasem mniej znaczy więcej i liczyłem, że luźniejsze rozmieszczenie pozwoli naturalnie ograniczyć presję zarazy. Nie posadziłem też pomidorów w tym samym miejscu co rok temu, ale zbudowałem nową, niższą od poprzedniej, grządkę podwyższoną tuż obok. Na poprzedniej grządce posadziłem za to fasolkę szparagową.
+Moim celem na bieżący rok było posadzenie ośmiu pomidorów na identycznej powierzchni, na której rok temu próbowałem posadzić ich dwanaście. Więcej o zeszłorocznej uprawie [tutaj]({filename}/2025/38-pomidory-san-marzano/san-marzano.md). Czasem mniej znaczy więcej i liczyłem, że luźniejsze rozmieszczenie pozwoli naturalnie ograniczyć presję zarazy. Nie posadziłem też pomidorów w tym samym miejscu, co rok temu, ale zbudowałem nową, niższą od poprzedniej, grządkę podwyższoną tuż obok. Na poprzedniej grządce posadziłem za to fasolkę szparagową.
 
 Jako przedplon na obu grządkach sadziłem rzodkiewkę, szpinak i rukolę. W maju rosły one jeszcze całkiem nieźle, ale musiały ustąpić miejsca pomidorom, bo te są dla mnie absolutnym priorytetem.
 
@@ -30,17 +30,17 @@ Wygląda więc na to, że szło mi całkiem dobrze, skąd więc te negatywne sł
 
 Ważne, by wszelkie plusy nie przesłoniły minusów. Tych było sporo.
 
-Moim głównym zmartwieniem była profilaktyka przeciwko zarazie ziemniaczanej. Robiłem, co tylko mogłem. Po pierwsze zbudowałem z plastikowych rurek konstrukcję pozwalającą na zadaszenie pomidorów folią. Okazała się ona niezbyt stabilna, więc piękny i zwiewny prostopadłościan z rurek musiał zostać ustabilizowany przez linki i drewniane zastrzały. Mając u góry taką konstrukcję, postanowiłem zastosować rozwiązanie, które widziałem w przypadku szklarni czy foliaków, czyli prowadzenie pomidorów po sznurku. Rzecz, która na zamkniętej (lub półzamkniętej) przestrzeni może sprawdzać się dobrze, w moim przypadku okazała się niewypałem. Wiatr poruszał pomidorami dość mocno, więc z obawy o ich wyrwanie musiałem dać im nieco luzu. W dalszym okresie sezonu, gdy zawiązały się owoce, a krzewy stały się ciężkie, sznurek nie był w stanie utrzymać roślin w pionie i „rozlazły” się po bokach, przez co zajęły dużo więcej miejsca niż planowałem i doprowadziły do podobnego zagęszczenia jak rok temu.
+Moim głównym zmartwieniem była profilaktyka przeciwko zarazie ziemniaczanej. Robiłem, co tylko mogłem. Po pierwsze zbudowałem z plastikowych rurek konstrukcję pozwalającą na zadaszenie pomidorów folią. Okazała się ona niezbyt stabilna, więc piękny i zwiewny prostopadłościan z rurek musiał zostać ustabilizowany przez linki i drewniane zastrzały. Mając u góry taką konstrukcję, postanowiłem zastosować rozwiązanie, które widziałem w przypadku szklarni czy foliaków, czyli prowadzenie pomidorów po sznurku. Rzecz, która na zamkniętej (lub półzamkniętej) przestrzeni może sprawdzać się dobrze, w moim przypadku okazała się niewypałem. Wiatr poruszał pomidorami dość mocno, więc z obawy o ich wyrwanie musiałem dać im nieco luzu. W dalszej części sezonu, gdy zawiązały się owoce, a krzewy stały się ciężkie, sznurek nie był w stanie utrzymać roślin w pionie i „rozlazły” się po bokach, przez co zajęły dużo więcej miejsca niż planowałem i doprowadziły do podobnego zagęszczenia jak rok temu.
 
 _Notabene_ konstrukcja ta okazała się zbyt słaba, bo w połowie sierpnia w moje okolice przyszły potężne wichury. Zerwały w okolicy kilka dachów, a rusztowanie z pomidorami wywróciły, nie łamiąc na szczęście łodyg roślinom, choć było blisko. Cała konstrukcja była przygotowana na podmuchy od zachodu lub wschodu, a uderzenie przyszło z północy.
 
 Nie wyciągnąłem wniosków z potopu szwedzkiego.
 
-![Na szczęście zaszkodziło pomiodorom mniej niż wynikało ze zdjęcia]({attach}sierpien-po-wichurze.jpg)
+![Na szczęście zaszkodziło pomidorom mniej niż wynikało ze zdjęcia]({attach}sierpien-po-wichurze.jpg)
 
 ## Wiązanie pomidorów
 
-Eksperymentowałem też z różnymi sposobami mocowania pomidorów do sznurka. Pierwszą opcją były okrągłe klipsy, ale okazały się za małe na grube pędy San Marzano. Musiałem je zdjąć i zastąpić czym innym: opaskami z tworzywa sztucznego. Te ostatnie sprawdziły się bardzo dobrze przy innych roślinach: winorośli, jeżynach, ale przy pomidorach było już nieco gorzej. Pozwalały na regulację i nie zaciskały się za bardzo, ale z biegiem czasu powodowały pewne otarcia skórki pomidora, co mogło zwiększać presję choroby. Na przyszły rok niemal na pewno zdecyduję się na opaski materiałowe wiązane do palików z tworzywa sztucznego.
+Eksperymentowałem też z różnymi sposobami mocowania pomidorów do sznurka. Pierwszą opcją były okrągłe klipsy, ale okazały się za małe na grube pędy San Marzano. Musiałem je zdjąć i zastąpić czym innym: opaskami z tworzywa sztucznego. Te ostatnie sprawdziły się bardzo dobrze przy innych roślinach: winorośli, jeżynach, ale przy pomidorach było już nieco gorzej. Pozwalały na regulację i nie zaciskały się za bardzo, ale z biegiem czasu powodowały pewne otarcia skórki pomidora, co mogło zwiększać presję choroby. W przyszłym roku niemal na pewno zdecyduję się na opaski materiałowe wiązane do palików z tworzywa sztucznego.
 
 ## Zadaszenie
 
@@ -48,7 +48,7 @@ Tak jak mówiłem, grządkę zadaszyłem folią. Obawiając się zachodnich podm
 
 ![Zadaszenie pod koniec sierpnia - już po wichurach]({attach}koniec-sierpnia.jpg)
 
-Innym problemem z folią był fakt, że była ustawiona prawie na płasko (pomijając krzywiznę mojego łagodnego stoku), a z czasem lekko obwisała, przez co zbierały się w niej kałuże wody deszczowej. Obciążona wodą folia obwisała jeszcze bardziej, przez co magazynowała jeszcze więcej wody i tak dalej... istne _perpetuum mobile_. W skrajnym przypadku, gdy w ciągu tygodnia padało bardzo dużo deszczu, przyjechałem i zastałem rurki dachowe wygięte w połowie pod kątem 60 stopni. Mocno je docisnęło. Do tego z czasem okazało się, że folia nie jest tak niezniszczalna jak myślałem i ujawniły się w niej małe dziurki. W efekcie deszcz, zamiast spaść i wyschnąć, zbierał się i kapał na ten sam punkt na liściu pomidora.
+Innym problemem z folią był fakt, że była ustawiona prawie na płasko (pomijając krzywiznę mojego łagodnego stoku), a z czasem lekko obwisała, przez co zbierały się w niej kałuże wody deszczowej. Obciążona wodą folia obwisała jeszcze bardziej, przez co magazynowała jeszcze więcej wody i tak dalej... istne _perpetuum mobile_. W skrajnym przypadku, gdy w ciągu tygodnia padało bardzo dużo deszczu, przyjechałem i zastałem rurki dachowe wygięte w połowie długości pod kątem 60 stopni. Mocno je docisnęło. Do tego z czasem okazało się, że folia nie jest tak niezniszczalna, jak myślałem, i ujawniły się w niej małe dziurki. W efekcie deszcz, zamiast spaść i wyschnąć, zbierał się i kapał na ten sam punkt na liściu pomidora.
 
 Czy mogłoby być gorzej? Rozwiązałem ten problem, usztywniając dach dodatkowymi kijkami, ale straty zostały już poniesione.
 
@@ -60,11 +60,11 @@ W połowie lipca to, czego się bałem, spotkało mnie, a to, czego się obawia�
 
 mokre liście od wschodu + mały przewiew z powodu wygięcia łodyg + niewystarczające cięcia prześwietlające = choroba
 
-Tak czy inaczej, rozpoczęła się walka. Już dwa tygodnie wcześniej rozpocząłem opryski preparatem IF oraz, po raz pierwszy, opryskiem HT (oregano i tymianek), ale rozwój choroby pokazał, że profilaktyka nie zdała się na nic. Dlatego zdecydowałem się na użycie ciężkiej artylerii w postaci oprysku chemicznego. Decyzja była o tyle łatwiejsza, że wciąż było dużo czasu do dojrzewania owoców. Zastosowałem pierwszy oprysk Revusem, a drugi Signum. Warto wspomnieć, że atak zarazy miał miejsce znacznie wcześniej niż rok temu i to pomimo wszystkich podejmowanych przeze mnie działań. W zeszłym roku pomidorom kapało na głowę przez cały sezon, a konkretnej chemii musiałem użyć dopiero pod koniec sierpnia. Dlatego też może wydawać się, że nie warto było robić nic. W praktyce trzeba w każdym sezonie walczyć o to, co jest osiągalne.
+Tak czy inaczej, rozpoczęła się walka. Już dwa tygodnie wcześniej rozpocząłem opryski preparatem IF oraz, po raz pierwszy, opryskiem HT (oregano i tymianek), ale rozwój choroby pokazał, że profilaktyka nie zdała się na nic. Dlatego zdecydowałem się na użycie ciężkiej artylerii w postaci oprysku chemicznego. Decyzja była o tyle łatwiejsza, że wciąż było dużo czasu do dojrzewania owoców. Zastosowałem pierwszy oprysk Revusem, a drugi Signum. Warto wspomnieć, że atak zarazy miał miejsce znacznie wcześniej niż rok temu i to pomimo wszystkich podejmowanych przeze mnie działań. W zeszłym roku pomidorom kapało na głowę przez cały sezon, a konkretnej chemii musiałem użyć dopiero pod koniec sierpnia. Dlatego może wydawać się, że nie warto było robić nic. W praktyce trzeba w każdym sezonie walczyć o to, co jest osiągalne.
 
 ## Dojrzewanie
 
-Nie mam pewności, czy to tylko z powodu pogody, ale dojrzewanie owoców zaczęło się dopiero w okolicach 20 sierpnia. Oznacza to, że krzewy będą musiały się w tym roku sprężyć, by wszystko dojrzało przed przymrozkami.
+Nie mam pewności, czy to tylko z powodu pogody, ale dojrzewanie owoców zaczęło się dopiero w okolicach 20 sierpnia. Oznaczało to, że krzewy będą musiały się w tym roku sprężyć, by wszystko dojrzało przed przymrozkami.
 
 ![Pomidory w połowie sierpnia. Ani jednego czerwieniejącego]({attach}polowa-sierpnia.jpg)
 
@@ -72,9 +72,20 @@ Nie mam pewności, czy to tylko z powodu pogody, ale dojrzewanie owoców zaczę�
 
 ## Gąsienice
 
-Jakby tego było mało, na początku września w kilku pomidorach zauważyłem dziurki, a ich skórka zrobiła się miększa i lekko pociemniała. Po przecięciu takich felernych pomidorów zauważyłem w środku sporą zieloną gąsienicę. Zobaczymy, co dalej. Zdjęcie niezbyt ładne, więc nie wstawiam do artykułu, można zobaczyć je [tutaj]({attach}gasienice.jpg).
+Jakby tego było mało, na początku września w kilku pomidorach zauważyłem dziurki, a ich skórka zrobiła się miększa i lekko pociemniała. Po przecięciu takich felernych pomidorów zauważyłem w środku sporą zieloną gąsienicę. Zdjęcie niezbyt ładne, więc nie wstawiam do artykułu, można zobaczyć je [tutaj]({attach}gasienice.jpg).
 
-Na razie skupiam się na wychwytywaniu takich pomidorów i fizycznej eliminacji siedzących w nich gąsienic. Do końca września straciłem dziesięć sztuk, głównie małych.
+W tym roku skupiłem się na wychwytywaniu takich pomidorów i fizycznej eliminacji siedzących w nich gąsienic. Do końca września straciłem dziesięć sztuk, głównie małych. Musiałem też odrzucić pojedyncze pomidory podczas przecierania sosu, bo obecność intruza sprawia, że nie nadają się do niczego. W przyszłym roku prawdopodobnie poszukam ekologicznego oprysku profilaktycznego.
+
+# Koniec sezonu
+
+Dwie ostatnie skrzynki zielonkawych pomidorów zebrałem 20 października. Wtedy też wyciąłem krzewy. Najniższa temperatura na mojej działce wyniosła do tego dnia 1,5°C, ale przez ostatnie tygodnie grządka z pomidorami była zabezpieczona z trzech stron folią. Nie było to szczelne rozwiązanie i nie można go porównywać z foliakiem, ale moje pomiary wskazywały, że po zmroku podwyższało to temperaturę o 1-2°C, czyli dość, by nagły przymrozek nie wykosił mi pomidorów. Przy okazji, podczas likwidacji przekonałem się, że sznurki zakopane pod korzeniami trzymały tak dobrze, że nie byłem w stanie wyszarpać ich spod ziemi.
+
+<div class="gallery" markdown="1">
+![Krzaki tuż przed likwidacją]({attach}ostatni-dzien.jpg)
+![Ostatnie zebrane pomidory]({attach}ostatni-zbior.jpg)
+</div>
+
+Przy zielonych pomidorach zostawiłem ogonki, bo słyszałem, że w ten sposób warzywa dłużej się trzymają. W zeszłym roku pomidory dojrzały i trzymały mi się dobrze ponad dwa miesiące, więc nie mam obaw, że się zmarnują.
 
 # Przetwarzanie pomidorów
 
@@ -82,11 +93,11 @@ Mimo wszystko zbiory były dość obfite, więc przerabiałem pomidory w kilku t
 
 ![Pierwsza skrzynka tegorocznych zbiorów]({attach}pierwsza-skrzynka-pomidorow.jpg)
 
-W pierwszej, największej z nich, postanowiłem zmielić pomidory i przetrzeć przez sito, aby były aksamitnie gładkie i pozbawione skórek lub dodatków.
+W pierwszej, największej z nich, postanowiłem zmielić pomidory i przetrzeć przez sito, aby były aksamitnie gładkie i pozbawione skórek lub pestek.
 
 ![Przecieranie przez sitko jest niestety pracochłonne]({attach}przecieranie-sosu.jpg)
 
-W drugiej, dałem się namówić na zblendowanie całych pomidorów razem z pestkami. Trzeba przyznać, że jest to dużo szybsze, ale nie wiem, czy nie wpłynie negatywnie na smak. Na przetwarzanie czeka jeszcze cała masa owoców, więc muszę zrobić testową pizzę i ocenić, czy wersja blendowana jest wystarczająco dobra.
+W drugiej dałem się namówić na zblendowanie całych pomidorów razem z pestkami. Trzeba przyznać, że jest to dużo szybsze, ale nie wiedziałem, czy nie wpłynie negatywnie na smak. Na przetwarzanie czeka jeszcze cała masa owoców, więc musiałem zrobić testową pizzę i ocenić, w jaki sposób przetworzyć pozostały zapas. Test przekonał mnie, że dodatkowy wysiłek z przecieraniem pomidorów ma sens. Te zblendowane z jednej strony pachniały bardziej zielono, a z drugiej były mniej intensywne w smaku.
 
 <div class="gallery" markdown="1">
 ![Pomidory przed blendowaniem]({attach}pomidory-przed-blendowaniem.jpg)
@@ -100,16 +111,19 @@ Niezależnie od sposobu przetwarzania pasteryzuję sosy w słoikach.
 Na pewno nie odpuszczę i będę dalej usprawniał moje stanowisko. Planuję następujące zmiany względem obecnego roku:
 
 1. Solidne rusztowanie  
-Zbuduję stałą konstrukcję z drewna, która będzie przygotowana na wieszanie zadaszenia z folii, a potencjalnie także zasłanianie folią ścian bocznych. Rusztowanie na dach musi mieć co najmniej kilkuprocentowy spadek, żeby folia mogła pozostać naciągnięta i nie zbierała wody. Być może dodam do tego rynienkę, aby zbierać deszczówkę i odprowadzać ją do beczki z deszczówką używaną do linii kroplującej. Obrys dachu musi być co najmniej kilkanaście centymetrów większy niż grządka, żeby deszcz mniej zacinał.
+Zbuduję stałą konstrukcję z drewna, która będzie przygotowana na wieszanie zadaszenia z folii, a potencjalnie także zasłanianie folią ścian bocznych. Rusztowanie na dach musi mieć co najmniej kilkuprocentowy spadek, żeby folia mogła pozostać naciągnięta i nie zbierała wody. Być może dodam do tego rynienkę, aby zbierać deszczówkę i odprowadzać ją do beczki z wodą używaną do linii kroplującej. Obrys dachu musi być co najmniej kilkanaście centymetrów większy niż grządka, żeby deszcz mniej zacinał.
 
 2. Paliki  
-Tak jak wspominałem, wrócę do palików. Zadbam tylko, żeby były ze sobą jakoś połączone, żeby zachować oczekiwany dystans między pomidorami. Sznurki kompletnie się nie sprawdziły i niemalże doprowadziły do wyrwania wszystkich pomidorów, więc już tego nie powtórzę.
+Tak jak wspominałem, wrócę do palików. Zadbam tylko, żeby były ze sobą jakoś połączone, żeby zachować oczekiwany dystans między pomidorami. Sznurki kompletnie się nie sprawdziły i wprowadziły ryzyko wyrwania wszystkich pomidorów, więc już tego nie powtórzę.
 
 3. Opaski  
-Będę używał materiałowych opasek wokół łodyg wiązanych do palika opaską z tworzywa sztucznego.
+Będę używał materiałowych opasek wokół łodyg.
 
 4. Osłony  
 Zakładam, że zakupię płat folii (być może obszytej na brzegach), aby móc zrobić z niej zadaszenie na cały sezon, także z możliwością rozciągnięcia jej na boczne ściany: wschodnią i zachodnią.
+
+5. Gąsienice  
+Czytałem, że istnieją ekologiczne opryski przeciw gąsienicom, więc zastosuję je profilaktycznie pod koniec sierpnia.
 
 # Donica
 
@@ -120,10 +134,10 @@ Grządka pomidorów na działce nie była moim jedynym sposobem uprawy w tym rok
 ![I w połowie sierpnia]({attach}donica-sierpien.jpg)
 </div>
 
-Używałem dokładnie tych samych klipsów i opasek co przy pomidorach na działce, ale prowadzenie ich przy sztywnej podporze w bezpiecznym od wiatru miejscu sprawiło, że nie było żadnego problemu z otarciami.
+Używałem dokładnie tych samych klipsów i opasek co przy pomidorach na działce, ale prowadzenie ich przy sztywnej podporze w bezpiecznym od wiatru miejscu sprawiło, że nie było żadnego problemu z otarciami. Do tego łodyga nie zgrubła na tyle, by pojawił się problem z klipsami.
 
 # Podsumowanie
 
-Pomimo tych trudności i mniejszej liczby krzewów, zbiory w porównaniu z poprzednim rokiem okazały się co najmniej dwa razy obfitsze. Ostateczne liczby poznam pod koniec października. Wszystkie pomidory zebrane w stanie dojrzałym zostały przeznaczone na sos pomidorowy do pizzy.
+Pomimo tych trudności i mniejszej liczby krzewów, zbiory w porównaniu z poprzednim rokiem okazały się co najmniej dwa razy obfitsze. Ostateczne liczby poznam w listopadzie, gdy wszystkie dojrzeją, ale oceniam, że zebrałem około 12 kilogramów pomidorów. Wszystkie pomidory zostały przeznaczone na sos pomidorowy do pizzy.
 
 W przyszłym roku zakładam, że będzie już idealnie.
