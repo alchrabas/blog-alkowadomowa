@@ -20,7 +20,7 @@ Pierwsza była decyzja czy chciałbym spróbować posadzić odmiany gatunku Viti
 > ### Rodzaje Winorośli
 > 
 >  - Winorośl właściwa (szlachetna) — od dawna znane winorośle z tradycyjnych regionów winiarskich, np. Pinot Noir, Riesling, Chardonnay
->  - Hybryda — na ogół dość nowe krzyżówki winorośli właściwej z innymi gatunkami winorośli, tworzone przede wszystkim dla uzyskania większej mrozoodporności i odporności na chorobym np. Solaris, Hibernal
+>  - Hybryda — na ogół dość nowe krzyżówki winorośli właściwej z innymi gatunkami winorośli, tworzone przede wszystkim dla uzyskania większej mrozoodporności i odporności na choroby, np. Solaris, Hibernal
 
 Stwierdziłem, że w polskich warunkach bezpieczniejsze są hybrydy. Teraz, po ponad roku i ukończonym kursie wiedzy o winie, coraz bardziej wątpię w słuszność tej decyzji. Oczywiście uprawa winorośli właściwej jest znacznie trudniejsza, ale wynagradza to większym prestiżem uzyskiwanych efektów. O ile kilkanaście lat temu w Polsce sadzone były niemal wyłącznie hybrydy, to teraz coraz popularniejsze stają się francuskie czy niemieckie odmiany o powszechnie znanych nazwach.
 
@@ -60,9 +60,12 @@ Dysponuję danymi pozwalającymi wyznaczyć wartość SAT na mojej działce dla 
 | 2023 | 2934                     |
 | 2024 | 2938                     |
 | 2025 | 2496                     |
-| 2026 | 2235 (tylko do 01.09)    |
+| 2026 | 2802                     |
+
 
 Dane dla 2026 uzupełnię niebawem, bo lato jeszcze trwa, ale na razie rok 2026 jest średnio cieplejszy niż 2025 i chłodniejszy niż 2024, i to pomimo kilku dni upałów powyżej 35°C. Więcej na temat temperatur [w tym wpisie]({filename}/2026/42-temperatury-w-piwniczce-2/piwniczka-2.md).
+
+Aktualizacja 24.10.2026: uzupełniłem dane SAT dla 2026
 
 Wartości te pokazują, że jedyną z wybranych przeze mnie odmian, która może mieć jakiekolwiek problemy z dojrzewaniem, jest Seyval Blanc, ale zakładam, że pełne nasłonecznienie na łagodnym południowym stoku dołoży kilka dodatkowych punktów.
 
@@ -115,9 +118,21 @@ Co prawda pisałem, że nie chciałem owoców w drugim roku, ale pozostawiłem p
 | Labrusca od południa | 19          |
 | Labrusca od północy  | 16          |
 
-1 września (6 dni przed powyższym pomiarem cukru) SAT wynosiła 2235.
+7 września SAT wynosiło 2336.
 
 ![Pomiar cukru z kropli soku przy użyciu refraktometru]({attach}pomiar-refraktometrem.jpg)
+
+## Pomiar cukru 29.09.2026
+
+| Odmiana              | Wartość Blg |
+|----------------------|-------------|
+| Seyval Blanc         | 24          |
+| Solaris              | 25          |
+| Regent               | 23-26       |
+| Labrusca od południa | 20          |
+| Labrusca od północy  | 16          |
+
+Tego dnia SAT wynosiło 2649. Do 20 października parametry cukru nie zmieniły się, a SAT wyniósł wtedy 2802.
 
 Obserwacja, że hybrydy mają wyższy cukier niż Labrusca, jest w pełni zgodna z moimi oczekiwaniami. Zaskakujące jest jednak, że Solaris (znany z wysokiego poziomu cukru) zebrał go mniej niż Seyval Blanc. Rozważałem pomyłkę przy oznaczaniu próbek, ale smakowa ocena kwasu zanegowała to podejrzenie — Solaris miał go dużo mniej niż Seyval Blanc, czyli tak jak powinno być. Może niewielkie różnice nasłonecznienia w drugim roku miały wystarczający wpływ, by wyszło jak wyszło? Ostatecznie różnice te są minimalne.
 
